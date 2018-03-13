@@ -86,6 +86,7 @@ Utilizzo da parte del Comune di applicazioni e interfacce sviluppate da terzi
 .. toctree::
 
    _docs/Introduzione_e_principi.rst
-   _docs/cap2.rst
+   _docs/Organizzazione_del_comune_per_le_attivita_sugli_open_data.rst
+   _docs/Processi_di_pubblicazione_sugli_open_data
 
 .. figure:: img/3loghi.png
