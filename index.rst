@@ -1,9 +1,9 @@
 ####################
-Titolo del documento
+Linee guida open data Palermo
 ####################
 
 
-Questo documento descrive ... 
+Questo documento descrive le linee guida open data
 
 Nel Capitolo 1 vengono presentati ... 
 
