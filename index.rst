@@ -87,7 +87,7 @@ Utilizzo da parte del Comune di applicazioni e interfacce sviluppate da terzi
 
    _docs/Introduzione_e_principi.rst
    _docs/Organizzazione_del_comune_per_le_attivita_sugli_open_data.rst
-   _docs/Processi_di_pubblicazione_sugli_open_data.rst
+   _docs/Processo_di_pubblicazione_sugli_open_data.rst
    _docs/Riutilizzo_degli_open_data.rst
    _dosc/Obiettivi_azioni_tempi.rst
    _docs/Appendice_a_definizioni.rst
