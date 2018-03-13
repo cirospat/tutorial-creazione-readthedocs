@@ -20,7 +20,7 @@ Quest'opera è distribuita con **Licenza CC BY SA 4.0** - Creative Commons Attri
    _docs/Organizzazione_del_comune_per_le_attivita_sugli_open_data.rst
    _docs/Processo_di_pubblicazione_sugli_open_data.rst
    _docs/Riutilizzo_degli_open_data.rst
-   _dosc/Obiettivi_azioni_tempi.rst
+   _docs/Obiettivi_azioni_tempi.rst
    _docs/Appendice_a_definizioni.rst
    _docs/Appendice_b.rst
    _docs/Appendice_c.rst
