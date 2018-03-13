@@ -85,7 +85,7 @@ Utilizzo da parte del Comune di applicazioni e interfacce sviluppate da terzi
 
 .. toctree::
 
-   _docs/cap1.rst
+   _docs/introduzione e principi.rst
    _docs/cap2.rst
 
 .. figure:: img/3loghi.png
