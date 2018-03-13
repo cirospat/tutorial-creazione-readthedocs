@@ -1,7 +1,8 @@
-Progetto, Argomento
+Linee guida open data comune Palermo
 ===================
 
-Questo repository contiene la documentazione relativa a [NOME PROGETTO](). 
+Questo repository contiene la documentazione relativa a [Linee guida open data comune Palermo](http://linee-guida-open-data-palermo.readthedocs.io). 
+
 In particolare, qui viene trattato [ARGOMENTO opzionale]().
 
 Link
