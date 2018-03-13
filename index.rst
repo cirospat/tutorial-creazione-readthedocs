@@ -2,6 +2,8 @@
 Linee guida open data Palermo
 ####################
 
+.. figure:: img/3loghi.png
+
 .. figure:: img/opendata.png
 
 
