@@ -1,5 +1,5 @@
 ####################
-Linee guida open data Palermo
+Linee guida open data del comune di Palermo
 ####################
 
 .. figure:: img/opendata.png
