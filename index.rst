@@ -91,5 +91,8 @@ Utilizzo da parte del Comune di applicazioni e interfacce sviluppate da terzi
    _docs/Riutilizzo_degli_open_data.rst
    _dosc/Obiettivi_azioni_tempi.rst
    _docs/Appendice_a_definizioni.rst
+   _docs/Appendice_b.rst
+   _docs/Appendice_c.rst
+
 
 .. figure:: img/3loghi.png
