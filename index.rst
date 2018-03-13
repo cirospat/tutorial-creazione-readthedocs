@@ -93,6 +93,9 @@ Utilizzo da parte del Comune di applicazioni e interfacce sviluppate da terzi
    _docs/Appendice_a_definizioni.rst
    _docs/Appendice_b.rst
    _docs/Appendice_c.rst
+   _docs/Nota_finale.rst
+   _docs/Riferimenti_bibliografici.rst
+   _docs/Crediti.rst
 
 
 .. figure:: img/3loghi.png
