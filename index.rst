@@ -3,7 +3,7 @@ Linee guida open data Palermo
 ####################
 
 
-Questo documento descrive le linee guida open data
+Questo documento descrive le linee guida open data del comune di Palermo, redatte e approvate nel 2017.
 
 Indice
 
