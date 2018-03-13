@@ -5,9 +5,11 @@ Linee guida open data Palermo
 .. figure:: img/opendata.png
 
 **Questo documento descrive le linee guida open data del comune di Palermo, redatte e approvate nel 2017**.
+
 La fase di partecipazione (dal 25 gennaio 2017 al 13 aprile 2017) della presente versione di Linee Guida è stata integrata con le novità apportate dalle linee guida nazionali open data dell’Agid versione 2016 (AgID) e con il profilo dei metadati DCAT_AP_IT (AgID).
 
-Quest'opera è distribuita con Licenza CC BY SA 4.0 - Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale.
+Quest'opera è distribuita con **Licenza CC BY SA 4.0** - Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale.
+
 ------
 
 **INTRODUZIONE E PRINCIPI**
