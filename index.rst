@@ -12,7 +12,8 @@ Il documento condiviso online per permettere la partecipazione alla redazione de
 
 Quest'opera è distribuita con **Licenza CC BY SA 4.0** - Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale.
 
-------
+Contenuti
+=========
 
 .. toctree::
 
