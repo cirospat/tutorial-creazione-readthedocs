@@ -14,6 +14,9 @@ Funzione delle presenti Linee Guida, pertanto, è quella di:
 
 2. Descrivere procedure, modalità e tempi di adeguamento adottati dalle strutture del Comune di Palermo al fine della raccolta, catalogazione e pubblicazione dei dati posseduti dall’amministrazione comunale secondo formati “standard aperti”, così come previsto nel documento della Commissione Europea:“European Interoperabilty Framework” (https://ec.europa.eu/isa2/eif_en).
 
+Preliminarmente appare opportuno fornire alcune definizioni esemplificatrici dei principi ispiratori dell’azione di governo Comunale. 
+Con il termine “Governo Aperto” (Open Government) si intende (secondo la `definizione data dall’OCSE <http://www.oecd.org/gov/46560184.pdf>`_ Organizzazione per la Cooperazione e lo Sviluppo Economico): "*la trasparenza delle azioni di governo, l'accessibilità dei servizi e delle informazioni pubbliche e la capacità di risposta del governo alle nuove idee, alle esigenze ed alle necessità*".
+
 
 
 Governo Aperto e dati aperti come strumenti di trasparenza
