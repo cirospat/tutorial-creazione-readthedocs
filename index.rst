@@ -29,4 +29,3 @@ Contenuti
    _docs/Riferimenti_bibliografici.rst
    _docs/Crediti.rst
 
-.. figure:: img/3loghi.png
