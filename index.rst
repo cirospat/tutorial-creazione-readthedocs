@@ -4,11 +4,10 @@ Linee guida open data Palermo
 
 
 **Questo documento descrive le linee guida open data del comune di Palermo, redatte e approvate nel 2017**.
+
 ------
 
-Indice
-
-INTRODUZIONE E PRINCIPI
+**INTRODUZIONE E PRINCIPI**
 
 Funzione delle Linee Guida
 
@@ -18,7 +17,7 @@ Open Data
 
 Normativa di riferimento
 
-ORGANIZZAZIONE DEL COMUNE PER LE ATTIVITÀ SUGLI OPEN DATA
+**ORGANIZZAZIONE DEL COMUNE PER LE ATTIVITÀ SUGLI OPEN DATA**
 
 Strutturazione interna
 
@@ -32,7 +31,7 @@ Attività di monitoraggio e ruolo degli indicatori
 
 Piattaforma web per la pubblicazione degli open data del comune di Palermo
 
-PROCESSO DI PUBBLICAZIONE DEGLI OPEN DATA
+**PROCESSO DI PUBBLICAZIONE DEGLI OPEN DATA**
 
 Metodologia per la pubblicazione dei dati in formato open 
 
@@ -56,7 +55,7 @@ Modalità di pubblicazione dei dataset sul sito web
 
 Comunicazione e promozione dei dataset pubblicati
 
-RIUTILIZZO DEGLI OPEN DATA
+**RIUTILIZZO DEGLI OPEN DATA**
 
 Modalità di riutilizzo dei dati pubblicati e richiesta di pubblicazione di nuovi dati
 
@@ -64,19 +63,19 @@ Commenti, suggerimenti e segnalazioni sui dataset pubblicati
 
 Utilizzo da parte del Comune di applicazioni e interfacce sviluppate da terzi
 
-OBIETTIVI, AZIONI E TEMPI
+**OBIETTIVI, AZIONI E TEMPI**
 
-APPENDICE A: DEFINIZIONI
+**APPENDICE A: DEFINIZIONI**
 
-APPENDICE B: CATALOGAZIONE DEI SET DI DATI CON IL METODO DELLE STELLE
+**APPENDICE B: CATALOGAZIONE DEI SET DI DATI CON IL METODO DELLE STELLE**
 
-APPENDICE C: SCHEDA CATALOGAZIONE DATASET ED ESEMPI
+**APPENDICE C: SCHEDA CATALOGAZIONE DATASET ED ESEMPI**
 
-NOTA FINALE
+**NOTA FINALE**
 
-RIFERIMENTI BIBLIOGRAFICI
+**RIFERIMENTI BIBLIOGRAFICI**
 
-CREDITI
+**CREDITI**
 
 
 .. toctree::
