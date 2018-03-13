@@ -11,5 +11,5 @@ Funzione delle presenti Linee Guida, pertanto, è quella di:
 
 1. Dichiarare i principi ed i criteri informatori adottati dal Comune di Palermo in materia di dati aperti;
 
-2. Descrivere procedure, modalità e tempi di adeguamento adottati dalle strutture del Comune di Palermo al fine della raccolta, catalogazione e pubblicazione dei dati posseduti dall’amministrazione comunale secondo formati “standard aperti”, così come previsto nel documento della Commissione Europea:“European Interoperabilty Framework”.
+2. Descrivere procedure, modalità e tempi di adeguamento adottati dalle strutture del Comune di Palermo al fine della raccolta, catalogazione e pubblicazione dei dati posseduti dall’amministrazione comunale secondo formati “standard aperti”, così come previsto nel documento della Commissione Europea:“European Interoperabilty Framework” (https://ec.europa.eu/isa2/eif_en).
 
