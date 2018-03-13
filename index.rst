@@ -2,12 +2,7 @@
 Linee guida open data Palermo
 ####################
 
-.. figure:: img/3loghi.png
-
-------
-
 .. figure:: img/opendata.png
-
 
 **Questo documento descrive le linee guida open data del comune di Palermo, redatte e approvate nel 2017**.
 
@@ -88,3 +83,5 @@ Utilizzo da parte del Comune di applicazioni e interfacce sviluppate da terzi
 
    _docs/cap1.rst
    _docs/cap2.rst
+
+.. figure:: img/3loghi.png
