@@ -740,7 +740,7 @@ La metadatazione ricopre un ruolo essenziale laddove i dati sono esposti a utent
 
    Modello a quattro livelli per i metadati
 
-**- 1° livello -**
+**1° livello**
 
 Legame dato metadato:
    Nessun legame in quanto i dati non sono accompagnati da un’opportuna metadatazione.
@@ -748,7 +748,7 @@ Legame dato metadato:
 Livello di dettaglio:
    Nessuno in quanto i metadati non sono presenti.
    
-**-- 2° livello --**
+**2° livello**
 
 Legame dato metadato:
    Il legame è debole perché i dati sono accompagnati da metadati esterni, (e.g., inclusi nella pagina di download del dataset o in file separati).
@@ -756,7 +756,7 @@ Legame dato metadato:
 Livello di dettaglio:
    I metadati forniscono informazioni relativamente a un dataset, quindi sono informazioni condivise dall'insieme di dati interni a quel dataset.
    
-**--- 3° livello ---**
+**3° livello**
 
 Legame dato metadato:
    Il legame è forte perché i dati incorporano i metadati che li descrivono.
@@ -764,7 +764,7 @@ Legame dato metadato:
 Livello di dettaglio:
    I metadati forniscono informazioni relative a un dataset, quindi sono informazioni condivise dall'insieme di dati interni a quel dataset.
    
-**---- 4° livello ----**
+**4° livello**
 
 Legame dato metadato:
    Il legame è forte perché i dati incorporano i metadati che li descrivono.
