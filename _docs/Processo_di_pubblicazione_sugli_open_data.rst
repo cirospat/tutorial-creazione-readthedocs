@@ -720,9 +720,13 @@ Servizi:
    Servizi, anche per dispositivi mobili, che sfruttano sia accessi diretti a Web sia l'informazione ulteriore catturata attraverso i "link" dei dati di interesse, facilitando il mashup di dati.
 
 [1]
-https://www.ted.com/talks/tim_berners_lee_on_the_next_web?nolanguage=en%2C,
-https://www.w3.org/DesignIssues/LinkedData.html,
-http://linkeddatabook.com/editions/1.0/
+
+https://www.ted.com/talks/tim_berners_lee_on_the_next_web?nolanguage=en%2C
+
+https://www.w3.org/DesignIssues/LinkedData.html
+
+http://linkeddatabook.com/editions/1.0
+
 http://linkeddata.org/home
 
 
