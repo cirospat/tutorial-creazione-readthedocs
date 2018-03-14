@@ -76,7 +76,7 @@ Nel primo periodo di attuazione dei contenuti delle Linee Guida comunali open da
 |                       | essere considerato    | pubblicati dataset    |
 |                       | per il futuro.        | simili in altre PA    |
 +-----------------------+-----------------------+-----------------------+
-[tabella convertita da CSV a Markdown a RST con `Pandoc 2.1.2 <http://pandoc.org/try>`_]
+(tabella convertita da CSV a Markdown a RST con `Pandoc 2.1.2 <http://pandoc.org/try>`_)
 
 Tale metodo è stato usato dal Team Open Data nelle riunioni periodiche e aperte al pubblico dal dicembre 2015 al dicembre 2016 per l’individuazione dei dataset tematici da pubblicare. 
 Con cadenza annuale ogni Dirigente provvederà, se necessario, all’aggiornamento dell’elenco delle raccolte di dati di sua competenza.
