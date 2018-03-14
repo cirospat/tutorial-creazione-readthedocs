@@ -38,8 +38,45 @@ Il team Open Data, durante le riunioni periodiche, esamina le raccolte di dati e
 
 Nel primo periodo di attuazione dei contenuti delle Linee Guida comunali open data approvate con Deliberazione di Giunta Municipale n. 252 del 13.2.2013, per avviare il processo di pubblicazione dei dataset comunali, è stata seguita la procedura del metodo `MoSCoW <http://en.m.wikipedia.org/wiki/MoSCoW_Method>`_ di seguito schematizzato.
 
-.. raw:: html
-   :file: /_docs/moscow.html
++-----------------------+-----------------------+-----------------------+
+| Priorità              | Descrizione           | Fattori               |
+|                       |                       | identificativi        |
++=======================+=======================+=======================+
+| M - MUST              | Indica un dataset che | Ampio interesse per   |
+|                       | ha la massima         | il dataset da parte   |
+|                       | priorità di           | della collettività.   |
+|                       | pubblicazione         | Best Practice in      |
+|                       | affinché il servizio  | altre PA              |
+|                       | Open Data possa       |                       |
+|                       | essere considerato un |                       |
+|                       | caso di successo.     |                       |
++-----------------------+-----------------------+-----------------------+
+| S - SHOULD            | Indica un dataset ad  | Medio interesse per   |
+|                       | alta priorità che, se | il dataset da parte   |
+|                       | possibile, dovrebbe   | della collettività.   |
+|                       | essere incluso nella  | Pubblicato da altre   |
+|                       | lista di              | PA                    |
+|                       | pubblicazione         |                       |
+|                       | attuale.              |                       |
++-----------------------+-----------------------+-----------------------+
+| C - COULD             | Indica un dataset che | Ridotto interesse per |
+|                       | si ritiene di         | il dataset da parte   |
+|                       | auspicabile           | della collettività.   |
+|                       | pubblicazione ma non  | Pubblicato da qualche |
+|                       | necessario. Questo    | PA                    |
+|                       | sarà incluso se il    |                       |
+|                       | tempo e le risorse lo |                       |
+|                       | consentiranno.        |                       |
++-----------------------+-----------------------+-----------------------+
+| W - WON’T             | Indica un dataset che | Non si riscontra      |
+|                       | che non sarà inserito | interesse per il      |
+|                       | nella lista di        | dataset da parte      |
+|                       | pubblicazione         | della collettività.   |
+|                       | attuale, ma che può   | Non sono stati        |
+|                       | essere considerato    | pubblicati dataset    |
+|                       | per il futuro.        | simili in altre PA    |
++-----------------------+-----------------------+-----------------------+
+tabella convertita da csv a markdown a RST con pandoc 2.1.2
 
 
 
