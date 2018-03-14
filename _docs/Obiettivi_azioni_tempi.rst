@@ -7,7 +7,7 @@ Obiettivi, azioni e tempi
 +-----------------+-----------------+-----------------+-----------------+
 | OBIETTIVI       |   AZIONI        |   STATO         |   NOTE          |
 +=================+=================+=================+=================+
-| CreazioneTeam   | Ordine di       | realizzato      | Ilteam Open     |
+| Creazione Team  | Ordine di       | realizzato      | Il team Open    |
 | Open Data       | Servizio del    |                 | Dataè il gruppo |
 |                 | Segretario      |                 | che promuove    |
 |                 | Generale        |                 | l’uso e la      |
@@ -28,9 +28,9 @@ Obiettivi, azioni e tempi
 |                 |                 |                 | in materia di   |
 |                 |                 |                 | ICT             |
 +-----------------+-----------------+-----------------+-----------------+
-| Nomina          | Ordine di       | realizzato      | IlResponsabile  |
-| delResponsabile | Servizio del    |                 | Open            |
-| Open Data (Data | Segretario      |                 | Datapianifica   |
+| Nomina          | Ordine di       | realizzato      | Il Responsabile |
+| del Respons.    | Servizio del    |                 | Open            |
+| Open Data (Data | Segretario      |                 | Data pianifica  |
 | manager)        | Generale        |                 | la strategia di |
 |                 |                 |                 | apertura dei    |
 |                 |                 |                 | dati raccolti e |
@@ -39,7 +39,7 @@ Obiettivi, azioni e tempi
 |                 |                 |                 | diffusione dei  |
 |                 |                 |                 | dati.Inizialmen |
 |                 |                 |                 | te              |
-|                 |                 |                 | ilResponsabile  |
+|                 |                 |                 | il Responsabile |
 |                 |                 |                 | Open Data si    |
 |                 |                 |                 | occupa          |
 |                 |                 |                 | dell’upload del |
@@ -60,7 +60,7 @@ Obiettivi, azioni e tempi
 |                 |                 |                 | tematico e      |
 |                 |                 |                 | tecnico         |
 +-----------------+-----------------+-----------------+-----------------+
-| Nomina del      | Ordine di       | realizzato      | IlTitolare      |
+| Nomina del      | Ordine di       | realizzato      | Il Titolare     |
 | Dirigente di    | Servizio del    |                 | della banca     |
 | Servizio quale  | Segretario      |                 | daticoordina le |
 | figuraTitolare  | Generale ai     |                 | attività sugli  |
@@ -104,7 +104,7 @@ Obiettivi, azioni e tempi
 |                 |                 |                 | alle riunioni   |
 |                 |                 |                 | del Team Open   |
 |                 |                 |                 | Data.           |
-|                 |                 |                 | IlReferente     |
+|                 |                 |                 | Il Referente    |
 |                 |                 |                 | tecnico della   |
 |                 |                 |                 | banca dati e il |
 |                 |                 |                 | Referente       |
@@ -119,12 +119,12 @@ Obiettivi, azioni e tempi
 +-----------------+-----------------+-----------------+-----------------+
 | Attivazione di  | Attivazione da  | realizzato      | Gli account     |
 | account per la  | parte del       |                 | permettono      |
-| sezione Open    | webmaster del   |                 | aiTitolari      |
+| sezione Open    | webmaster del   |                 | ai Titolari     |
 | Data aiTitolari | Comune di       |                 | delle banche    |
 | delle banche    | Palermo         |                 | dati e          |
-| dati e          |                 |                 | aiReferenti     |
+| dati e          |                 |                 | ai Referenti    |
 | aiReferenti     |                 |                 | tecnico e       |
-| tecnico e       |                 |                 | tematicodi      |
+| tecnico e       |                 |                 | tematico di     |
 | tematico        |                 |                 | pubblicare      |
 |                 |                 |                 | autonomamente   |
 |                 |                 |                 | file di dati    |
@@ -136,7 +136,7 @@ Obiettivi, azioni e tempi
 |                 |                 |                 | Palermo         |
 +-----------------+-----------------+-----------------+-----------------+
 | Censimento      | Comunicazione   | realizzato      | Verrà fornita   |
-| delle raccolte  | deiTitolari     |                 | una scheda per  |
+| delle raccolte  | dei Titolari    |                 | una scheda per  |
 | di dati         | delle banche    |                 | il censimento   |
 | (dataset)       | dati, a mezzo   |                 | (vedi Appendice |
 | create dalle    | circolare       |                 | C) a tutti i    |
@@ -149,14 +149,14 @@ Obiettivi, azioni e tempi
 | svolte          | all’interno del |                 | consegnate      |
 |                 | Comune di       |                 | entro quindici  |
 |                 | Palermo e invio |                 | giorni          |
-|                 | di una scheda   |                 | aiTitolari      |
+|                 | di una scheda   |                 | ai Titolari     |
 |                 | per il          |                 | delle banche    |
 |                 | censimento      |                 | datie ai        |
 |                 | (vedi Appendice |                 | suoiReferenti   |
 |                 | C)              |                 | tecnici e       |
 |                 |                 |                 | tematici        |
 +-----------------+-----------------+-----------------+-----------------+
-| Analisi delle   | ilTeam Open     | realizzato      | Il team Open    |
+| Analisi delle   | il Team Open    | realizzato      | Il team Open    |
 | raccolte di     | Dataapplica il  |                 | Data si         |
 | dati (dataset)  | metodo MoSCoW   |                 | riunisce per    |
 | e               | per             |                 | analizzare le   |
@@ -176,10 +176,10 @@ Obiettivi, azioni e tempi
 |                 |                 |                 | con priorità    |
 |                 |                 |                 | massima (Must)  |
 +-----------------+-----------------+-----------------+-----------------+
-| Bonifica e      | ITitolari delle | continuativa    | Assicurare che  |
+| Bonifica e      | Titolari delle  | continuativa    | Assicurare che  |
 | preparazione    | banche          |                 | i dati          |
-| dei dataset a   | datiresponsabil |                 | tabellari siano |
-| priorità        | i               |                 | pubblicati in   |
+| dei dataset a   | dati            |                 | tabellari siano |
+| priorità        | responsabili    |                 | pubblicati in   |
 | massima per la  | dei dataset a   |                 | formato CSV,    |
 | pubblicazione   | priorità        |                 | JSON ed         |
 | in Open Data    | massima (Must)  |                 | XML-Assicurare  |
@@ -210,10 +210,10 @@ Obiettivi, azioni e tempi
 |                 | contenente i    |                 |                 |
 |                 | metadati        |                 |                 |
 +-----------------+-----------------+-----------------+-----------------+
-| Pubblicazione   | ITitolari delle | continuativa    | Pubblicazione   |
+| Pubblicazione   | Titolari delle  | continuativa    | Pubblicazione   |
 | delle banche    | banche          |                 | come banche     |
-| dati a priorità | datitramite i   |                 | dati            |
-| massima (Must)  | loroReferenti   |                 | centralizzate   |
+| dati a priorità | dati tramite i  |                 | dati            |
+| massima (Must)  | loro Referenti  |                 | centralizzate   |
 | con un formato  | tecnici e       |                 | dal webmaster o |
 | almeno a 3      | tematici        |                 | come dataset    |
 | stelle          | pubblicano i    |                 | locali dai      |
@@ -222,8 +222,8 @@ Obiettivi, azioni e tempi
 |                 | webmaster       |                 | tecnici e       |
 |                 |                 |                 | tematici        |
 +-----------------+-----------------+-----------------+-----------------+
-| Riunioni        | Riunione        | continuativa    | IlTeam Open     |
-| semestrali      | semestrale      |                 | Dataeffettua    |
+| Riunioni        | Riunione        | continuativa    | Il Team Open    |
+| semestrali      | semestrale      |                 | Data effettua   |
 | delTeam open    | indetta         |                 | monitoraggio    |
 | dataper il      | dalResponsabile |                 | del le attività |
 | monitoraggio    | open data (Open |                 | di              |
@@ -331,13 +331,13 @@ Obiettivi, azioni e tempi
 |                 | 5 stelle e lo   |                 | del W3C per     |
 |                 | comunica ai     |                 | quanto riguarda |
 |                 | titolari delle  |                 | la provenienza  |
-|                 | Banche Dati.I   |                 | del dato4       |
+|                 | Banche Dati.I   |                 | del dato 4      |
 |                 | Titolari delle  |                 | principi del    |
 |                 | Banche Dati     |                 | linked Open     |
-|                 | assieme ai      |                 | Data:1) usare   |
+|                 | assieme ai      |                 | Data: 1) usare  |
 |                 | Referenti       |                 | gli URI per     |
 |                 | tecnici e       |                 | identificare    |
-|                 | tematici per i  |                 | gli oggetti2)   |
+|                 | tematici per i  |                 | gli oggetti 2)  |
 |                 | dataset di loro |                 | usare HTTP URI  |
 |                 | competenza:-    |                 | in modo che     |
 |                 | individuano     |                 | questi oggetti  |
@@ -346,7 +346,7 @@ Obiettivi, azioni e tempi
 |                 | creano nuove    |                 | reperiti da     |
 |                 | ontologie se    |                 | persone ed      |
 |                 | necessario-     |                 | applicazioni    |
-|                 | rivedono il     |                 | web3) fornire   |
+|                 | rivedono il     |                 | web, 3) fornire |
 |                 | formato dei     |                 | informazioni    |
 |                 | metadati        |                 | utili sugli     |
 |                 | ponendo         |                 | oggetti quando  |
