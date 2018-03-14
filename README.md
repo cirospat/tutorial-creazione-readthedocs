@@ -7,4 +7,4 @@ Questo repository contiene la documentazione relativa alle [Linee guida open dat
 Link
 ----
 
-Link alla [documentazione compilata su Docs Italia](http://starter-kit-docs-italia.readthedocs.io/).
+Link alla [documentazione compilata su Docs Italia](https://github.com/italia/docs-italia-starter-kit/tree/master/repo-documento).
