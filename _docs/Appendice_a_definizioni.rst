@@ -18,8 +18,11 @@ Ai fini delle presenti Linee Guida si forniscono le seguenti definizioni:
 
 **dati di tipo aperto**: 
    i dati che presentano le seguenti caratteristiche (art. 68, c. 3, lett. b), CAD):
+      
       sono disponibili secondo i termini di una licenza che ne permetta l’utilizzo da parte di chiunque, anche per finalità commerciali, in formato disaggregato;
+      
       sono accessibili attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, in formati aperti ai sensi della lettera a), sono adatti all’utilizzo automatico da parte di programmi per elaboratori e sono provvisti dei relativi metadati;
+      
       sono resi disponibili gratuitamente attraverso le tecnologie dell’informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, oppure sono resi disponibili ai costi marginali sostenuti per la loro riproduzione e divulgazione;	
       
 **formato di dati di tipo aperto**: 
@@ -42,7 +45,9 @@ Ai fini delle presenti Linee Guida si forniscono le seguenti definizioni:
    
 **piattaforma Open Data del Comune di Palermo**: 
    la piattaforma raggiungibile sul web all’indirizzo  http://www.comune.palermo.it/opendata.php, attraverso il quale il Comune di Palermo mette a disposizione i dati pubblici. Inoltre tale strumento permette:  
+      
       agli utenti del web di raggiungere, interrogare, ricercare e scaricare i dati e i documenti messi a disposizione nell'area pubblica e di riusarli nei termini definiti dalla licenza d’uso associata;
+      
       all’amministrazione pubblica  che ha aderito alla politica regionale in materia di riuso ai sensi del successivo art. 12 di  esporre i propri dati, selezionare quelli riusabili, gestire l’associazione di licenze d’uso, indicizzare i metadati ad uso del motore di ricerca, allineare diversi cataloghi di dati e gestire gli strumenti di comunicazione con gli utenti esterni (invio di mail, commenti,  feed back sull’utilizzo e sul gradimento).
 
 **URP**: 
