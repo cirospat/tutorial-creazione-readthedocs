@@ -126,6 +126,55 @@ Art. 18 (Amministrazione aperta): “*La concessione delle sovvenzioni, contribu
 **Decreto Legge n. 179 del 18.10.2012** (Crescita 2.0) **coordinato con la Legge di conversione n. 221 del 17.12.2012**:
 Art. 9 (modifica Art. 52 CAD): “*Le pubbliche amministrazioni pubblicano nel proprio sito web, all'interno della sezione "Trasparenza, valutazione e merito",  il catalogo dei dati, dei metadati e delle relative banche dati in loro possesso ed i regolamenti che ne disciplinano l'esercizio della facoltà di accesso telematico e il riutilizzo, fatti salvi i dati presenti in Anagrafe tributaria. I dati e i documenti che le amministrazioni titolari pubblicano, con qualsiasi modalità, senza l'espressa adozione di una licenza di cui all'articolo 2, comma 1, lettera h), del decreto  legislativo  24 gennaio 2006, n. 36, si intendono rilasciati come dati di tipo aperto ai sensi all'articolo 68, comma 3, del presente  Codice.*”
 
+**Legge n. 190 del 6.11.2012**, Disposizioni per la prevenzione e la repressione della corruzione e dell'illegalità nella Pubblica Amministrazione.  
+
+Art. 1 comma 4 lett d): “Il Dipartimento della funzione pubblica, anche secondo linee  di indirizzo  adottate  dal  Comitato  interministeriale   istituito   e disciplinato con decreto del Presidente del Consiglio dei Ministri:(...) definisce modelli  standard  delle  informazioni  e  dei  dati occorrenti  per  il  conseguimento  degli  obiettivi  previsti  dalla presente legge, secondo modalità che consentano la loro gestione  ed analisi informatizzata”;
+
+Art. 1 comma 32, obbligo di pubblicazione dei dati di appalto dell’Ente appaltante;
+
+Art. 1 comma 35, obblighi  di  pubblicità, trasparenza e diffusione di informazioni  da  parte  delle  pubbliche amministrazioni, ivi compreso l’obbligo di pubblicazione dei dati relativi ai titolari di incarichi politici (lett. c); definizione dei modelli  standard  delle  informazioni  e  dei  dati occorrenti  per  il  conseguimento  degli  obiettivi  previsti  dalla presente legge, secondo modalità che consentano la loro gestione  ed analisi informatizzata (lett. d);
+
+**Il Decreto Trasparenza, D.Lgs. 33/2013**, `Riordino della disciplina riguardante gli obblighi di pubblicità, trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni <http://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2013-04-05&atto.codiceRedazionale=13G00076&currentPage=1>`_.
+
+Art. 3 Pubblicita' e diritto alla conoscibilità: “*Tutti  i  documenti,  le  informazioni  e  i  dati  oggetto  di pubblicazione obbligatoria ai  sensi  della  normativa  vigente  sono pubblici  e  chiunque  ha   diritto   di   conoscerli,   di   fruirne gratuitamente,  e   di   utilizzarli   e   riutilizzarli   ai   sensi dell'articolo 7*”.
+
+Art. 7 Dati aperti e riutilizzo: “*I documenti, le informazioni e i dati oggetto  di  pubblicazione obbligatoria ai sensi della normativa vigente, resi disponibili anche a seguito dell'accesso civico di cui all'articolo 5, sono  pubblicati in formato di tipo  aperto  ai  sensi  dell'articolo  68  del  Codice dell'amministrazione digitale, di cui al decreto legislativo 7  marzo 2005, n. 82, e sono riutilizzabili ai sensi del  decreto  legislativo 24 gennaio 2006, n. 36, del decreto legislativo 7 marzo 2005, n.  82, e del decreto legislativo 30 giugno 2003,  n.  196,  senza  ulteriori restrizioni diverse dall'obbligo di citare la fonte e di  rispettarne l'integrità*”.
+
+**Linee Guida Nazionali per la Valorizzazione del Patrimonio Informativo Pubblico (2° semestre 2016)** http://www.dati.gov.it/sites/default/files/LG2016_0.pdf
+
+Destinatari: “*Il presente documento è destinato a tutte le Amministrazioni, così come definite all’art. 2 comma 2 del CAD, che a esso si uniformano (art. 9 DL n. 179/2012)*”.
+
+Normativa Europea
+~~~~~~~~~~~~~~~~~~
+
+`Direttiva 2003/98/CE del Parlamento Europeo e del Consiglio del 17.11.2003 <http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:345:0090:0096:IT:PDF>`_.
+
+Art. 3 - Principio Generale: “*Gli Stati membri provvedono affinché, ove sia permesso il riutilizzo di documenti in possesso degli enti pubblici, questi documenti siano riutilizzabili a fini commerciali o non commerciali conformemente alle condizioni indicate nei capi III e IV. I documenti sono resi disponibili, ove possibile, per via elettronica*”.
+
+`Direttiva 2013/37/UE del Parlamento Europeo e del consiglio del 26.06.2013 <http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:175:0001:0008:IT:PDF>`_.
+
+La Superiore Direttiva del Parlamento e del Consiglio Europeo modifica la direttiva 2003/98/CE relativa al riutilizzo dell’informazione del settore pubblico.
+
+Art. 5 è sostituito dal seguente: “*Articolo 5 Formati disponibili 1. Gli enti pubblici mettono a disposizione i propri documenti in qualsiasi formato o lingua preesistente e, ove possibile e opportuno, in formati aperti leggibili meccanicamente e insieme ai rispettivi metadati. Sia il formato che i metadati dovrebbero, nella misura del possibile, essere conformi a standard formali aperti*”.
+
+
+Normativa Internazionale cui aderisce lo Stato Italiano
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`La Carta dei dati aperti del G8 (Open Data Charter) <http://www.dati.gov.it/content/l%E2%80%99open-data-charter-tradotta-italiano>`_.
+
+La Carta dei Dati aperti costituisce una dichiarazione di intenti e di principi cui gli Stati sottoscrittori intendono aderire. Sebbene le dichiarazioni espresse non abbiano valore di norma cogente, i relativi principi rappresentano una importante affermazione di valori espressa dal Primo Principio che recita: “*Riconosciamo che l’accesso gratuito ai  dati aperti, ed i loro successivo ri-uso, sono di grande valore per la società e l’economia*”.
+
+`3° Piano Azione nazionale Open Government Partnership <http://open.gov.it/terzo-piano-dazione-nazionale/>`_.
+
+E’ un’iniziativa internazionale che mira a ottenere impegni concreti dai Governi in termini di promozione della trasparenza, di sostegno alla partecipazione civica, di lotta alla corruzione e di diffusione, dentro e fuori le Pubbliche Amministrazioni, di nuove tecnologie a sostegno dell’innovazione.
+
+
+
+
+
+
+
 
 
 
