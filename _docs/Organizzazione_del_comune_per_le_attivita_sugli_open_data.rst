@@ -70,6 +70,7 @@ Per facilitare il monitoraggio sulle attività di pubblicazione degli Open Data 
 Ogni riunione prevede l’individuazione di un segretario (dell'Amministrazione Comunale) che verbalizzerà gli argomenti discussi, producendo un documento condiviso da tutti i presenti che verrà, successivamente, pubblicato sul portale open data.
 
 Gli indicatori utilizzati per il monitoraggio della politica comunale sugli Open Data sono almeno i seguenti:
+
 A. numero di set di dati pubblicati ogni anno da un’Area Comunale,
 
 B. frequenza di aggiornamento di un dataset da parte di un’Area Comunale,
@@ -78,8 +79,7 @@ C. descrizione della tipologia di dati afferenti un argomento/tema pubblicati pi
 
 D. numero di download dei vari file Open Data pubblicati sul portale web e percentuale di download per ogni dataset pubblicato con indicazione dell'argomento di riferimento del file Open Data (es.: mobilità - cultura - …) nel periodo di un semestre,
 
-E. descrizione della tipologia di dati maggiormente richiesti dalla cittadinanza/aziende via email e pubblicati in un semestre,
-numero di set di Open Data pubblicati a seguito di richiesta da parte della cittadinanza/aziende,
+E. descrizione della tipologia di dati maggiormente richiesti dalla cittadinanza/aziende via email e pubblicati in un semestre, numero di set di Open Data pubblicati a seguito di richiesta da parte della cittadinanza/aziende,
 
 F. numero di applicazioni generate dagli sviluppatori derivanti dalla pubblicazione di uno specifico  dataset, 
 
