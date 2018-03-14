@@ -167,7 +167,7 @@ La Carta dei Dati aperti costituisce una dichiarazione di intenti e di principi 
 
 `3° Piano Azione nazionale Open Government Partnership <http://open.gov.it/terzo-piano-dazione-nazionale/>`_.
 
-E’ un’iniziativa internazionale che mira a ottenere impegni concreti dai Governi in termini di promozione della trasparenza, di sostegno alla partecipazione civica, di lotta alla corruzione e di diffusione, dentro e fuori le Pubbliche Amministrazioni, di nuove tecnologie a sostegno dell’innovazione.
+E’ un’iniziativa internazionale che mira a ottenere impegni concreti dai Governi in termini di **promozione della trasparenza**, di sostegno alla **partecipazione civica**, di **lotta alla corruzione** e di **diffusione, dentro e fuori le Pubbliche Amministrazioni, di nuove tecnologie a sostegno dell’innovazione**.
 
 
 
