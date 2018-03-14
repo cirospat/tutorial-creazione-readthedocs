@@ -664,7 +664,7 @@ In particolare, si tende a seguire un percorso graduale verso la produzione nati
 
 .. figure:: /img/modellodati.PNG
 
-**- 1 stella -**
+**(★) 1 Stella.**
 
 Informazione:
    Dati disponibili tramite una licenza aperta e inclusi in documenti leggibili e interpretabili solo grazie a un significativo intervento umano (e.g., PDF).
@@ -675,7 +675,7 @@ Accesso:
 Servizi:       	
    Solo rilevanti interventi umani di estrazione ed elaborazione dei possibili dati consentono di sviluppare servizi con l’informazione disponibile in questo livello.
 
-**-- 2 stelle --**
+**(★★) 2 Stelle.**
 
 Informazione:
    Dati disponibili in forma strutturata e con licenza aperta. Tuttavia, i formati sono proprietari (e.g., Excel) e un intervento umano è fortemente necessario per un’elaborazione dei dati.
@@ -686,7 +686,7 @@ Accesso:
 Servizi:
    Servizi ad-hoc che devono incorporare i dati per consentire un accesso diretto via Web agli stessi.
 
-**--- 3 stelle ---**
+**(★★★) 3 Stelle.**
 
 Informazione:
    Dati con caratteristiche del livello precedente ma in un formato non proprietario (e.g.,  CSV, JSON, geoJSON). I dati sono leggibili da un programma ma l'intervento umano è necessario per una qualche elaborazione degli stessi.
@@ -697,7 +697,7 @@ Accesso:
 Servizi:
    Servizi ad-hoc che devono incorporare i dati per consentire un accesso diretto via Web agli stessi.
 
-**---- 4 stelle ----**
+**(★★★★) 4 Stelle.**
 
 Informazione:
    Dati con caratteristiche del livello precedente ma esposti usando standard W3C quali RDF e SPARQL I dati sono descritti semanticamente tramite metadati e ontologie.
@@ -708,7 +708,7 @@ Accesso:
 Servizi:
    Servizi, anche per dispositivi mobili, che sfruttano accessi diretti a Web per reperire i dati di interesse.
 
-**----- 5 stelle -----**
+**(★★★★★) 5 Stelle.**
 
 Informazione:
    Dati con caratteristiche del livello precedente ma collegati a quelli esposti da altre persone e organizzazioni (i.e., Linked Open Data [1]). I dati sono descritti semanticamente tramite metadati e ontologie. Essi seguono il paradigma RDF (si veda “Architettura dell’informazione del settore pubblico”), in cui alle “cose” (o entità) è assegnata un URI univoca sul Web. Conseguentemente tale URI può essere utilizzata per effettuare accessi diretti alle informazioni relative a quella entità. I dati sono detti "linked" per la possibilità di referenziarsi (i.e., "collegarsi") tra loro. Nel referenziarsi, si usano relazioni ("link") che hanno un preciso significato e spiegano il tipo di legame che intercorre tra le due entità coinvolte nel collegamento. I Linked (Open) Data sono quindi un metodo elegante ed efficace per risolvere problemi di identità e provenienza, semantica, integrazione e interoperabilità. Triple RDF i cui URI non siano utilizzabili da un agente Web per recuperare le informazioni a essi associati, non possono essere considerati pienamente conformi al paradigma Linked Data. Nei caso dei Linked Open Data l'intervento umano si può ridurre al minimo e talvolta addirittura eliminare.
