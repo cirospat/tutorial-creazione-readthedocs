@@ -729,7 +729,7 @@ http://linkeddatabook.com/editions/1.0
 
 http://linkeddata.org/home
 
----
+------
 
 I livelli del modello per i metadati
 ------------------------------------
