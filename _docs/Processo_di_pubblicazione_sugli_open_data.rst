@@ -283,10 +283,10 @@ Relativamente al *catalogo*, la versione attuale delle linee guida non prevede d
 |                       |                       | metadati sono forniti |
 |                       |                       | in più lingue. Deve   |
 |                       |                       | essere utilizzato il  |
-|                       |                       | ``vocabolario <http:/ |
-|                       |                       | /publications.europa. |
-|                       |                       | eu/mdr/authority/lang |
-|                       |                       | uage/>``\ \_          |
+|                       |                       | \ ``vocabolario <http |
+|                       |                       | ://publications.europ |
+|                       |                       | a.eu/mdr/authority/la |
+|                       |                       | nguage/>``            |
 +-----------------------+-----------------------+-----------------------+
 | temi del catalogo     | dcat:themeTaxonomy    | Questa proprietà si   |
 |                       | (R)                   | riferisce ad un       |
@@ -310,10 +310,11 @@ Relativamente al *catalogo*, la versione attuale delle linee guida non prevede d
 |                       |                       | indicare i temi       |
 |                       |                       | relativi ai Dataset,  |
 |                       |                       | l’URI da indicare è   |
-|                       |                       | il seguente:          |
-|                       |                       | http://publications.e |
-|                       |                       | uropa.eu/resource/aut |
-|                       |                       | hority/data-theme     |
+|                       |                       | il                    |
+|                       |                       | \ ``seguente <http:// |
+|                       |                       | publications.europa.e |
+|                       |                       | u/resource/authority/ |
+|                       |                       | data-theme>``         |
 +-----------------------+-----------------------+-----------------------+
 | editore del           | dct:publisher (M)     | Questa proprietà si   |
 | catalogo\*            |                       | riferisce ad          |
