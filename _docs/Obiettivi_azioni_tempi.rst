@@ -7,8 +7,8 @@ Obiettivi, azioni e tempi
 +-----------------+-----------------+-----------------+-----------------+
 | OBIETTIVI       |   AZIONI        |   STATO         |   NOTE          |
 +=================+=================+=================+=================+
-| Creazione Team  | Ordine di       | realizzato      | Il team Open    |
-| Open Data       | Servizio del    |                 | Dataè il gruppo |
+| Creazione Team  | Ordine di       | realizzato      | Team Open Data  |
+| Open Data       | Servizio del    |                 | è il gruppo     |
 |                 | Segretario      |                 | che promuove    |
 |                 | Generale        |                 | l’uso e la      |
 |                 |                 |                 | diffusione      |
@@ -56,7 +56,7 @@ Obiettivi, azioni e tempi
 |                 |                 |                 | email dai       |
 |                 |                 |                 | Dirigenti di    |
 |                 |                 |                 | Settore o       |
-|                 |                 |                 | daiReferenti    |
+|                 |                 |                 | dai Referenti   |
 |                 |                 |                 | tematico e      |
 |                 |                 |                 | tecnico         |
 +-----------------+-----------------+-----------------+-----------------+
@@ -217,8 +217,8 @@ Obiettivi, azioni e tempi
 | con un formato  | tecnici e       |                 | dal webmaster o |
 | almeno a 3      | tematici        |                 | come dataset    |
 | stelle          | pubblicano i    |                 | locali dai      |
-|                 | dati o inviano  |                 | singoliReferent |
-|                 | i file al       |                 | i               |
+|                 | dati o inviano  |                 | singoli         |
+|                 | i file al       |                 | Referenti       |
 |                 | webmaster       |                 | tecnici e       |
 |                 |                 |                 | tematici        |
 +-----------------+-----------------+-----------------+-----------------+
