@@ -43,7 +43,7 @@ In questa appendice viene presentata la scheda da utilizzare per realizzare un c
 | raccolta dati \*    |                     | oppure database         |
 |                     |                     | denominato …………..       |
 +---------------------+---------------------+-------------------------+
-* Obbligatorio
+*Obbligatorio
 
 Nota: anche gli archivi in formato cartaceo necessitano di essere catalogati.
 
