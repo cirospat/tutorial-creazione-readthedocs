@@ -212,19 +212,139 @@ Il Comune di Palermo metterà a disposizione i dati pubblici, ove possibile, in 
 | delle etichette       |                       |                       |
 | (markup)**            |                       |                       |
 +-----------------------+-----------------------+-----------------------+
+(tabella convertita da CSV a Markdown a RST con `Pandoc 2.1.2 <http://pandoc.org/try>`_)
+
+I dati saranno resi disponibili da ciascuna Area in un formato aperto che li renda riutilizzabili direttamente da programmi di elaborazione di calcolo da parte di una macchina (formato machine-readable) e, ove possibile, in formato standard pubblici, leggibili e basati su specifiche pubbliche ed esaustive tali da permetterne l'interpretazione da parte di persone (formati human-readable). I dati saranno resi disponibili accompagnati dai relativi metadati, salvo specifiche e motivate eccezioni, indicate per ciascun dataset da ciascuna Area nell’ambito dell’individuazione periodica dei dati che saranno rilasciati in formato aperto, secondo quanto indicato al punto precedente delle presenti Linee Guida.
 
 
-
-
-
-
-
+------
 
 Modalità di produzione dei dataset dalle piattaforme ICT del PON METRO Palermo
 ------------------------------------------------------------------------------
+Il PON METRO Palermo è un programma di interventi che, tra gli altri, prevede, dal 2017 al 2020, la realizzazione di 7 piattaforme digitali tematiche che riguardano i seguenti ambiti: ambiente e territorio, lavoro e formazione, tributi, edilizia e catasto, cultura e tempo libero, assistenza e sostegno sociale, lavori pubblici. Al momento della redazione delle presenti linee guida comunali open data, l’Amministrazione comunale ha avviato la progettazione esecutiva propedeutica alla realizzazione delle piattaforme ICT alle quali saranno agganciati i processi amministrativi e i servizi degli uffici/aree competenti. 
+Al fine di ottimizzare la generazione e pubblicazione dei dataset in open data concernenti le tematiche delle piattaforme digitali del PON METRO, e al fine di stimolarne il riuso, si ritiene valido strutturare le stesse in maniera tale da ospitare, e quindi rendere disponibili, le API (Application Programming Interface) per ogni tipologia di riuso creativo, sia interno all’Amministrazione o esterno da parte della società.
 
-I Metadati
-----------
+------
+
+I Metadati con il profilo nazionale DCAT_AP_IT
+----------------------------------------------
+I dati aperti pubblicati attualmente dal Comune di Palermo utilizzano lo schema di metadati definito nelle precedenti linee guida comunali. 
+In accordo con le linee guida nazionali per la valorizzazione del patrimonio informativo pubblico è necessario recepire le indicazioni relativo all'utilizzo del profilo nazionale `DCAT-AP_IT <http://www.dati.gov.it/content/dcat-ap-it-v10-profilo-italiano-dcat-ap-0>`_.
+
+Nel  caso  di  dati  geografici  il  profilo  di metadatazione  da  adottare  è  quello  del  `Repertorio Nazionale  dei  Dati  Territoriali (RNDT) <http://www.rndt.gov.it/RNDT/home/index.php?option=com_content&view=article&id=37&Itemid=190>`_,  conforme  alla direttiva `INSPIRE <http://www.agid.gov.it/sites/default/files/leggi_decreti_direttive/01_direttiva_inspire_2007_2_ce.pdf>`_.
+
+In aggiunta, l’insieme dei metadati del profilo DCAT-AP_IT è stato integrato con metadati aggiuntivi ritenuti rilevanti per migliorare il riuso  dei dati pubblicati, come già previsto dalle linee guida nazionali: "*Le pubbliche amministrazioni possono integrare i  metadati previsti dal modello DCAT-AP_IT con metadati aggiuntivi, secondo le proprie necessità seppur nel pieno rispetto delle regole di conformità come definite nella specifica DCAT-AP_IT*".
+
+Questa sezione, non ha lo scopo di approfondire i dettagli tecnici della specifica DCAT-AP_IT, già ampiamente discussi nei documenti ufficiali, ma si focalizza su due aspetti specifici che riguardano l’introduzione della specifica DCAT-AP_IT nel contesto della pubblicazione dei dati aperti del comune di Palermo. Nello specifico in questa sezione verranno presentate: a) le relazioni tra i metadati della specifica DCAT-AP_IT e lo schema di metadati adottato fino adesso, in accordo alla precedente versione delle linee guida comunali,  al fine di consentire l’adeguamento dei metadati già pubblicati, al profilo nazionale della specifica DCAT-AP_IT; b) le integrazioni adottate dal comune di Palermo ai metadati della specifica DCAT-AP_IT.
+
+La specifica DCAT-AP_IT propone una struttura di metadati, basata sui concetti principali di *Catalogo, Dataset e Distribuzione*. Il *Catalogo* rappresenta un insieme di dataset, e pertanto i metadati relativi ad esso riguardano le proprietà dell’intero insieme di dataset (es. Organizzazione che pubblica i dati). Al *Catalogo* sono associati i *Dataset* che lo compongono.  A sua volta ogni *Dataset*, può avere a sé associate diverse Distribuzioni, che si differenziano per il formato usato per la pubblicazione dei dati, la licenza utilizzata, e così via. Ogni *Distribuzione* prevede quindi metadati specifici per descrivere queste proprietà. 
+Relativamente al *catalogo*, la versione attuale delle linee guida non prevede dei metadati specifici per l’intero catalogo, pertanto per rendere la pubblicazione dei dati conforme alle specifiche DCAT-AP_IT i metadati relativi al *catalogo* dovranno essere resi disponibili. La seguente tabella riporta i metadati previsti dalla specifica DCAT-AP_IT per la descrizione del *Catalogo*. 
+
+**Metadati per la descrizione del Catalogo (dcatapit:Catalog)** (* Obbligatorio)
+
++-----------------------+-----------------------+-----------------------+
+| **Metadato**          | **Proprietà           | **Descrizione**       |
+|                       | DCAT-AP_IT**          |                       |
++=======================+=======================+=======================+
+| titolo del catalogo\* | dct:title (M)         | Questa proprietà      |
+|                       |                       | contiene un nome dato |
+|                       |                       | al Catalogo. Questa   |
+|                       |                       | proprietà può essere  |
+|                       |                       | ripetuta per          |
+|                       |                       | esprimere il titolo   |
+|                       |                       | in diverse lingue.    |
++-----------------------+-----------------------+-----------------------+
+| descrizione           | dct:description (M)   | Questa proprietà      |
+| catalogo\*            |                       | contiene una sintesi  |
+|                       |                       | con un testo libero   |
+|                       |                       | delle caratteristiche |
+|                       |                       | del catalogo. Questa  |
+|                       |                       | proprietà può essere  |
+|                       |                       | ripetuta per          |
+|                       |                       | esprimere la          |
+|                       |                       | descrizione in        |
+|                       |                       | diverse lingue.       |
++-----------------------+-----------------------+-----------------------+
+| home page catalogo    | foaf:homepage (R)     | Questa proprietà si   |
+|                       |                       | riferisce ad una      |
+|                       |                       | pagina web che funge  |
+|                       |                       | da pagina principale  |
+|                       |                       | per il Catalogo.      |
++-----------------------+-----------------------+-----------------------+
+| lingua catalogo       | dct:language (R)      | Questa proprietà si   |
+|                       |                       | riferisce a una       |
+|                       |                       | lingua utilizzata nei |
+|                       |                       | metadati testuali che |
+|                       |                       | descrivono i titoli,  |
+|                       |                       | le descrizioni, … dei |
+|                       |                       | Dataset nel Catalogo. |
+|                       |                       | Questa proprietà può  |
+|                       |                       | essere ripetuta se i  |
+|                       |                       | metadati sono forniti |
+|                       |                       | in più lingue. Deve   |
+|                       |                       | essere utilizzato il  |
+|                       |                       | vocabolario           |
+|                       |                       | http://publications.e |
+|                       |                       | uropa.eu/mdr/authorit |
+|                       |                       | y/language/           |
++-----------------------+-----------------------+-----------------------+
+| temi del catalogo     | dcat:themeTaxonomy    | Questa proprietà si   |
+|                       | (R)                   | riferisce ad un       |
+|                       |                       | sistema di            |
+|                       |                       | organizzazione della  |
+|                       |                       | conoscenza (KOS)      |
+|                       |                       | usato per             |
+|                       |                       | classificare i        |
+|                       |                       | dataset del Catalogo. |
+|                       |                       | Il valore da          |
+|                       |                       | utilizzare per questa |
+|                       |                       | proprietà è l’URI del |
+|                       |                       | vocabolario stesso    |
+|                       |                       | (non gli URI dei      |
+|                       |                       | concetti presenti nel |
+|                       |                       | vocabolario). Nel     |
+|                       |                       | caso del vocabolario  |
+|                       |                       | EU Data Theme da      |
+|                       |                       | utilizzare            |
+|                       |                       | obbligatoriamente per |
+|                       |                       | indicare i temi       |
+|                       |                       | relativi ai Dataset,  |
+|                       |                       | l’URI da indicare è   |
+|                       |                       | il seguente:          |
+|                       |                       | http://publications.e |
+|                       |                       | uropa.eu/resource/aut |
+|                       |                       | hority/data-theme     |
++-----------------------+-----------------------+-----------------------+
+| editore del           | dct:publisher (M)     | Questa proprietà si   |
+| catalogo\*            |                       | riferisce ad          |
+|                       |                       | un’entità             |
+|                       |                       | (organizzazione)      |
+|                       |                       | responsabile a        |
+|                       |                       | rendere disponibile   |
+|                       |                       | il Catalogo.          |
++-----------------------+-----------------------+-----------------------+
+| data rilascio         | dct:issued (R)        | Questa proprietà      |
+| catalogo              |                       | contiene la data del  |
+|                       |                       | rilascio formale (es. |
+|                       |                       | pubblicazione) del    |
+|                       |                       | Catalogo.             |
++-----------------------+-----------------------+-----------------------+
+| data ultima           | dct:modified (R)      | Questa proprietà      |
+| modificacatalogo      |                       | contiene la data più  |
+|                       |                       | recente in cui il     |
+|                       |                       | Catalogo è stato      |
+|                       |                       | aggiornato.           |
++-----------------------+-----------------------+-----------------------+
+(tabella convertita da CSV a Markdown a RST con `Pandoc 2.1.2 <http://pandoc.org/try>`_)
+
+
+
+
+
+
+
+
+
 
 Modello di dati per i dati aperti
 ---------------------------------
