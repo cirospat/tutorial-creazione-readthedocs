@@ -117,7 +117,16 @@ Art. 52: “*...Le pubbliche amministrazioni, al fine di valorizzare e rendere f
 Art. 68: “*...Le pubbliche amministrazioni nella predisposizione o nell'acquisizione dei programmi informatici, adottano soluzioni informatiche...che assicurino l'interoperabilità e la cooperazione applicativa e consentano la rappresentazione dei dati e documenti in più formati, di cui almeno uno di tipo aperto...*”
 
 **Decreto Legislativo n. 36 del 24.01.2006**: Attuazione della direttiva 2003/98/CE relativa al riutilizzo di documenti nel settore pubblico.
-   Il Decreto Legislativo in parola (art. 1) disciplina  le modalità di riutilizzo    dei    documenti   contenenti   dati   pubblici   nella disponibilità  delle  pubbliche amministrazioni e degli organismi di diritto pubblico.
+
+Il Decreto Legislativo in parola (art. 1) disciplina  le modalità di riutilizzo    dei    documenti   contenenti   dati   pubblici   nella disponibilità  delle  pubbliche amministrazioni e degli organismi di diritto pubblico.
+
+**Decreto Legge n. 83 del 22.06.2012** (Sviluppo 2.0): 
+Art. 18 (Amministrazione aperta): “*La concessione delle sovvenzioni, contributi, sussidi ed ausili finanziari alle imprese e l'attribuzione dei corrispettivi e dei compensi a persone, professionisti, imprese ed enti privati e comunque di vantaggi economici di qualunque genere di cui all'articolo 12 della legge 7 agosto 1990, n. 241 ad enti pubblici e privati, sono soggetti alla pubblicita' sulla rete internet, ai sensi del presente articolo e secondo il principio di accessibilita' totale di cui all'articolo 11 del decreto legislativo 27 ottobre 2009*”.
+
+**Decreto Legge n. 179 del 18.10.2012** (Crescita 2.0) **coordinato con la Legge di conversione n. 221 del 17.12.2012**:
+Art. 9 (modifica Art. 52 CAD): “*Le pubbliche amministrazioni pubblicano nel proprio sito web, all'interno della sezione "Trasparenza, valutazione e merito",  il catalogo dei dati, dei metadati e delle relative banche dati in loro possesso ed i regolamenti che ne disciplinano l'esercizio della facoltà di accesso telematico e il riutilizzo, fatti salvi i dati presenti in Anagrafe tributaria. I dati e i documenti che le amministrazioni titolari pubblicano, con qualsiasi modalità, senza l'espressa adozione di una licenza di cui all'articolo 2, comma 1, lettera h), del decreto  legislativo  24 gennaio 2006, n. 36, si intendono rilasciati come dati di tipo aperto ai sensi all'articolo 68, comma 3, del presente  Codice.*”
+
+
 
 
 
