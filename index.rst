@@ -15,8 +15,7 @@ Il documento condiviso online per permettere la partecipazione alla redazione de
 
 Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it>`_ - Creative Commons,  Attribuzione, Condividi allo stesso modo, versione 4.0 Internazionale.
 
-.. figure:: img/opendata.png
-   le 5 stelle dei formati open data
+.. figure:: img/opendata.png  le 5 stelle dei formati open data
 
 Contenuti
 =========
