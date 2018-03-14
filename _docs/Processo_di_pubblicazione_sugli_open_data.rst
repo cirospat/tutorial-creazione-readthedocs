@@ -240,7 +240,7 @@ Questa sezione, non ha lo scopo di approfondire i dettagli tecnici della specifi
 La specifica DCAT-AP_IT propone una struttura di metadati, basata sui concetti principali di *Catalogo, Dataset e Distribuzione*. Il *Catalogo* rappresenta un insieme di dataset, e pertanto i metadati relativi ad esso riguardano le proprietà dell’intero insieme di dataset (es. Organizzazione che pubblica i dati). Al *Catalogo* sono associati i *Dataset* che lo compongono.  A sua volta ogni *Dataset*, può avere a sé associate diverse Distribuzioni, che si differenziano per il formato usato per la pubblicazione dei dati, la licenza utilizzata, e così via. Ogni *Distribuzione* prevede quindi metadati specifici per descrivere queste proprietà. 
 Relativamente al *catalogo*, la versione attuale delle linee guida non prevede dei metadati specifici per l’intero catalogo, pertanto per rendere la pubblicazione dei dati conforme alle specifiche DCAT-AP_IT i metadati relativi al *catalogo* dovranno essere resi disponibili. La seguente tabella riporta i metadati previsti dalla specifica DCAT-AP_IT per la descrizione del *Catalogo*. 
 
-**Metadati per la descrizione del Catalogo (dcatapit:Catalog)** (* Obbligatorio)
+**Metadati per la descrizione del Catalogo (dcatapit:Catalog)** (*Obbligatorio)
 
 +-----------------------+-----------------------+-----------------------+
 | **Metadato**          | **Proprietà           | **Descrizione**       |
@@ -340,7 +340,7 @@ Relativamente al *catalogo*, la versione attuale delle linee guida non prevede d
 I metadati definiti nella precedente versione delle linee guida, e attualmente in uso, trovano corrispondenze nelle proprietà degli elementi Dataset e Distribuzione nello schema DCAT-AP_IT. Le seguenti tabelle riportano, i dati obbligatori per lo schema DCAT-AP_IT (indicati con M), quelli ritenuti obbligatori secondo lo schema proposto da queste linee guida (asterisco ``*`` ). Si fa presente che si è scelto di mantenere obbligatori i metadati indicati come tali nella precedente versione delle linee guida anche se lo schema DCAT-AP_IT non lo prevede. 
 Come nomi delle proprietà dei metadati si è scelto di adottare quello proposto dallo schema DCAT-AP_IT. Nelle seguenti tabelle viene riportato in corsivo tra parentesi il nome corrispondente nello  schema di metadati adottato dalle precedenti linee guida.
 
-**Metadati per la descrizione del Dataset (dcatapit:Dataset)** (* Obbligatorio)
+**Metadati per la descrizione del Dataset (dcatapit:Dataset)** (*Obbligatorio)
 
 +-----------------------+-----------------------+-----------------------+
 | **Metadato**          | **Proprietà           | **Descrizione**       |
@@ -592,7 +592,7 @@ Confrontando lo schema di metadati adottato dal comune di Palermo con la specifi
 
 Infine, una considerazione particolare va riportata per le licenze. La specifica DCAT-AP_IT, infatti, richiede ulteriori informazioni sui metadati relativi alla licenza delle distribuzioni, come indicato nella seguente tabella.
 
-**Metadati per la descrizione della Licenza (dcatapit:LicenceDocument)** (* Obbligatorio)
+**Metadati per la descrizione della Licenza (dcatapit:LicenceDocument)** (*Obbligatorio)
 
 +-----------------------+-----------------------+-----------------------+
 | **Metadato**          | **Proprietà           | **Descrizione**       |
