@@ -5,7 +5,7 @@ Obiettivi, azioni e tempi
 (Tabella riferita agli obiettivi delle Linee Guida versione approvata con Deliberazione di G.M. n. 252 del 13.12.2013)
 
 +-----------------+-----------------+-----------------+-----------------+
-| **OBIETTIVI**   | **AZIONI**      | **STATO**       | **NOTE**        |
+| OBIETTIVI       |   AZIONI        |   STATO         |   NOTE          |
 +=================+=================+=================+=================+
 | CreazioneTeam   | Ordine di       | realizzato      | Ilteam Open     |
 | Open Data       | Servizio del    |                 | Dataè il gruppo |
@@ -134,7 +134,7 @@ Obiettivi, azioni e tempi
 |                 |                 |                 | Open Data del   |
 |                 |                 |                 | Comune di       |
 |                 |                 |                 | Palermo         |
-+=================+=================+=================+=================+
++-----------------+-----------------+-----------------+-----------------+
 | Censimento      | Comunicazione   | realizzato      | Verrà fornita   |
 | delle raccolte  | deiTitolari     |                 | una scheda per  |
 | di dati         | delle banche    |                 | il censimento   |
@@ -390,6 +390,6 @@ Obiettivi, azioni e tempi
 |                 | tra i           |                 |                 |
 |                 | differenti      |                 |                 |
 |                 | dataset         |                 |                 |
-+=================+=================+=================+=================+
++-----------------+-----------------+-----------------+-----------------+
 
 
