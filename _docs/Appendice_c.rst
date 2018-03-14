@@ -2,7 +2,6 @@
 Appendice C: scheda di catalogazione dei dataset ed esempi
 ======================
 In questa appendice viene presentata la scheda da utilizzare per realizzare un censimento delle raccolte di dati presenti negli uffici del Comune di Palermo.
-
 +---------------------+---------------------+-------------------------+
 | **Campo**           | **Descrizione**     | **Esempio**             |
 +=====================+=====================+=========================+
@@ -30,19 +29,21 @@ In questa appendice viene presentata la scheda da utilizzare per realizzare un c
 +---------------------+---------------------+-------------------------+
 | Formato \*          |                     | Foglio di lavoro excel  |
 +---------------------+---------------------+-------------------------+
-| Data di creazione   |                     | Wed Aug 31 2011         |
-|                     |                     | 15:00:00 GMT-0700 (MST) |
+| Data di creazione   |                     | settembre 2011          |
 +---------------------+---------------------+-------------------------+
-| Data ultimo         |                     | Fri Aug 31 2012         |
-| aggiornamento \*    |                     | 15:00:00 GMT-0700 (MST) |
+| Data ultimo         |                     | settembre 2012          |
+| aggiornamento \*    |                     |                         |
 +---------------------+---------------------+-------------------------+
 | Frequenza di        |                     | Annuale                 |
 | aggiornamento       |                     |                         |
 +---------------------+---------------------+-------------------------+
 | Ubicazione della    |                     | Computer mario rossi,   |
 | raccolta dati \*    |                     | oppure database         |
-|                     |                     | denominato …………..       |
+|                     |                     | denominato …………         |
 +---------------------+---------------------+-------------------------+
+pandoc 2.1.2
+
+© 2013–2015 John MacFarlane
 *Obbligatorio
 
 Nota: anche gli archivi in formato cartaceo necessitano di essere catalogati.
