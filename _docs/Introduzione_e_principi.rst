@@ -109,6 +109,7 @@ Di seguito, a titolo esemplificativo e non esaustivo, verrà indicata la normati
 
 Normativa Italiana
 §§§§§§§§§§§§§§§§§§
+
 **Decreto Legislativo n. 82 del 7.03.2005 e ss.mm.ii.**, e **Decreto Legislativo n. 235 del 30.12.2010**:  Codice dell'Amministrazione Digitale (CAD)
 
 Art. 52: “*...Le pubbliche amministrazioni, al fine di valorizzare e rendere fruibili i dati pubblici di cui sono titolari, promuovono progetti di elaborazione e di diffusione degli stessi anche attraverso l'uso di strumenti di finanza di progetto, assicurando...la pubblicazione dei dati e dei documenti in formati aperti...*”
