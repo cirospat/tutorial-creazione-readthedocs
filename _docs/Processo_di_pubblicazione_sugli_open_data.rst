@@ -283,10 +283,10 @@ Relativamente al *catalogo*, la versione attuale delle linee guida non prevede d
 |                       |                       | metadati sono forniti |
 |                       |                       | in più lingue. Deve   |
 |                       |                       | essere utilizzato il  |
-|                       |                       | vocabolario           |
-|                       |                       | http://publications.e |
-|                       |                       | uropa.eu/mdr/authorit |
-|                       |                       | y/language/           |
+|                       |                       | ``vocabolario <http:/ |
+|                       |                       | /publications.europa. |
+|                       |                       | eu/mdr/authority/lang |
+|                       |                       | uage/>``\ \_          |
 +-----------------------+-----------------------+-----------------------+
 | temi del catalogo     | dcat:themeTaxonomy    | Questa proprietà si   |
 |                       | (R)                   | riferisce ad un       |
@@ -335,6 +335,7 @@ Relativamente al *catalogo*, la versione attuale delle linee guida non prevede d
 |                       |                       | Catalogo è stato      |
 |                       |                       | aggiornato.           |
 +-----------------------+-----------------------+-----------------------+
+pandoc 2.1.2
 (tabella convertita da CSV a Markdown a RST con `Pandoc 2.1.2 <http://pandoc.org/try>`_)
 
 
