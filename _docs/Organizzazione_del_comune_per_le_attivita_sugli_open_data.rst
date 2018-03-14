@@ -6,7 +6,7 @@ Strutturazione interna
 
 Il Comune di Palermo, al mese di Aprile 2017, è strutturato amministrativamente nelle Aree rappresentate di seguito:
 
-.. figure:: img/Organigramma.PNG
+.. figure:: img/organigramma.PNG
 
 
 Modello Operativo
