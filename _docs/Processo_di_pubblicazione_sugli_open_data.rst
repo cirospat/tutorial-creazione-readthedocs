@@ -664,7 +664,7 @@ In particolare, si tende a seguire un percorso graduale verso la produzione nati
 
 .. figure:: /img/modellodati.PNG
 
-**1 stella**
+**- 1 stella -**
 
 Informazione:
    Dati disponibili tramite una licenza aperta e inclusi in documenti leggibili e interpretabili solo grazie a un significativo intervento umano (e.g., PDF).
@@ -675,7 +675,7 @@ Accesso:
 Servizi:       	
    Solo rilevanti interventi umani di estrazione ed elaborazione dei possibili dati consentono di sviluppare servizi con l’informazione disponibile in questo livello.
 
-**2 stelle**
+**-- 2 stelle --**
 
 Informazione:
    Dati disponibili in forma strutturata e con licenza aperta. Tuttavia, i formati sono proprietari (e.g., Excel) e un intervento umano è fortemente necessario per un’elaborazione dei dati.
@@ -686,7 +686,7 @@ Accesso:
 Servizi:
    Servizi ad-hoc che devono incorporare i dati per consentire un accesso diretto via Web agli stessi.
 
-**3 stelle**
+**--- 3 stelle ---**
 
 Informazione:
    Dati con caratteristiche del livello precedente ma in un formato non proprietario (e.g.,  CSV, JSON, geoJSON). I dati sono leggibili da un programma ma l'intervento umano è necessario per una qualche elaborazione degli stessi.
@@ -697,7 +697,7 @@ Accesso:
 Servizi:
    Servizi ad-hoc che devono incorporare i dati per consentire un accesso diretto via Web agli stessi.
 
-**4 stelle**
+**---- 4 stelle ----**
 
 Informazione:
    Dati con caratteristiche del livello precedente ma esposti usando standard W3C quali RDF e SPARQL I dati sono descritti semanticamente tramite metadati e ontologie.
@@ -708,7 +708,7 @@ Accesso:
 Servizi:
    Servizi, anche per dispositivi mobili, che sfruttano accessi diretti a Web per reperire i dati di interesse.
 
-**5 stelle**
+**----- 5 stelle -----**
 
 Informazione:
    Dati con caratteristiche del livello precedente ma collegati a quelli esposti da altre persone e organizzazioni (i.e., Linked Open Data [1]). I dati sono descritti semanticamente tramite metadati e ontologie. Essi seguono il paradigma RDF (si veda “Architettura dell’informazione del settore pubblico”), in cui alle “cose” (o entità) è assegnata un URI univoca sul Web. Conseguentemente tale URI può essere utilizzata per effettuare accessi diretti alle informazioni relative a quella entità. I dati sono detti "linked" per la possibilità di referenziarsi (i.e., "collegarsi") tra loro. Nel referenziarsi, si usano relazioni ("link") che hanno un preciso significato e spiegano il tipo di legame che intercorre tra le due entità coinvolte nel collegamento. I Linked (Open) Data sono quindi un metodo elegante ed efficace per risolvere problemi di identità e provenienza, semantica, integrazione e interoperabilità. Triple RDF i cui URI non siano utilizzabili da un agente Web per recuperare le informazioni a essi associati, non possono essere considerati pienamente conformi al paradigma Linked Data. Nei caso dei Linked Open Data l'intervento umano si può ridurre al minimo e talvolta addirittura eliminare.
@@ -729,21 +729,103 @@ http://linkeddatabook.com/editions/1.0
 
 http://linkeddata.org/home
 
-
-
 ---
 
 I livelli del modello per i metadati
 ------------------------------------
+(http://www.dati.gov.it/sites/default/files/LG2016_0.pdf  Linee Guida Nazionali per la Valorizzazione del Patrimonio Informatvo Pubblico Anno 2016).
+La metadatazione ricopre un ruolo essenziale laddove i dati sono esposti a utenti terzi e a software.  I  metadati,  infatti,  consentono  una  maggiore  comprensione  e  rappresentano  la chiave attraverso cui abilitare più agevolmente la ricerca, la scoperta, l’accesso e quindi il riuso  dei  dati  stessi. A tale scopo, si adotta il modello per i metadati rappresentato in figura. Il  modello  si focalizza sugli aspetti qualitativi dei metadati, è indipendente dal particolare schema proposto e, in  parte, anche dal formato fisico di rappresentazione. La classificazione qualitativa dei metadati si fonda su due fattori principali: legame tra dato-metadato e livello di dettaglio.
+
+.. figure:: /img/modello4livelli.PNG
+   Modello a quattro livelli per i metadati
+
+**- 1° livello -**
+
+Legame dato metadato:
+   Nessun legame in quanto i dati non sono accompagnati da un’opportuna metadatazione.
+
+Livello di dettaglio:
+   Nessuno in quanto i metadati non sono presenti.
+   
+**-- 2° livello --**
+
+Legame dato metadato:
+   Il legame è debole perché i dati sono accompagnati da metadati esterni, (e.g., inclusi nella pagina di download del dataset o in file separati).
+
+Livello di dettaglio:
+   I metadati forniscono informazioni relativamente a un dataset, quindi sono informazioni condivise dall'insieme di dati interni a quel dataset.
+   
+**--- 3° livello ---**
+
+Legame dato metadato:
+   Il legame è forte perché i dati incorporano i metadati che li descrivono.
+
+Livello di dettaglio:
+   I metadati forniscono informazioni relative a un dataset, quindi sono informazioni condivise dall'insieme di dati interni a quel dataset.
+   
+**---- 4° livello ----**
+
+Legame dato metadato:
+   Il legame è forte perché i dati incorporano i metadati che li descrivono.
+
+Livello di dettaglio:
+   I metadati forniscono informazioni relative al singolo dato, quindi col massimo grado di dettaglio possibile
+   
+------
 
 Licenza per il riutilizzo
 -------------------------
+Per gli aspetti legati alle licenze da assegnare ad ogni dataset si fa riferimento al paragrafo “Aspetti legali e di costo “ delle linee guida nazionali per la valorizzazione del patrimonio informativo pubblico (AgID 2016).
+Sulla piattaforma predisposta per il rilascio dei dati saranno presenti e facilmente identificabili le informazioni relative alle licenze adottabili. 
+
+------
 
 Frequenza di aggiornamento
 --------------------------
+Periodicamente, con cadenza almeno annuale stabilita e formalizzata dal team Open Data in relazione alla tipologia di dati, i singoli Settori provvederanno all'aggiornamento dei dati già disponibili e oggetto di riutilizzo.
+Deve essere previsto nella pagina del dataset la comparsa di un alert nel caso la frequenza di aggiornamento non venga rispettata. 
+
+------
 
 Modalità di pubblicazione dei dataset sul sito web
 --------------------------------------------------
+Le raccolte di dati verranno pubblicate secondo le priorità attribuite dal team Open Data.
+
+Le raccolte di dati vengono pubblicate nella sezione “Open Data” del sito web del Comune di Palermo con i relativi metadati.
+
+Le raccolte di dati sono pubblicate e attribuite a una o più delle seguenti tematiche:
+
+- AMBIENTE
+
+- AMMINISTRAZIONE
+
+- CULTURA E TURISMO
+
+- DATI SUL TERRITORIO
+
+- ISTRUZIONE
+
+- MOBILITA' E SICUREZZA
+
+- OPERE PUBBLICHE
+
+- SANITA' E SOCIALE
+
+- URBANISTICA
+
+- ATTIVITA' ECONOMICHE
+
+- BILANCIO
+
+- ELEZIONI
+
+Le tematiche possono essere riviste annualmente e aggiornate, se necessario, dal team Open Data o dal Webmaster in ragione delle nuove necessità sopraggiunte.
+
+------
 
 Comunicazione e promozione dei dataset pubblicati
 -------------------------------------------------
+Il Responsabile Open Data con il suo staff supporta, sul piano formativo e tecnologico, i Settori/Uffici e le altre strutture comunali nell'intero processo di formazione dei dati, in modo da garantirne la coerenza con gli standard necessari alla loro piena fruibilità e apertura.
+
+Il Responsabile Open Data con il suo staff supporta iniziative private e pubbliche (Incontri, Barcamp, Hackathons, Mappathon, Open Data day, ...) volte alla comunicazione e promozione dell’ecosistema Open Data, incoraggiando, sostenendo o promuovendo attività volte alla conoscenza ed all’uso dei dataset pubblicati nel sistema.
+
