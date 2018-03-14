@@ -336,13 +336,327 @@ Relativamente al *catalogo*, la versione attuale delle linee guida non prevede d
 |                       |                       | Catalogo è stato      |
 |                       |                       | aggiornato.           |
 +-----------------------+-----------------------+-----------------------+
-(tabella convertita da CSV a Markdown a RST con `Pandoc 2.1.2 <http://pandoc.org/try>`_)
 
 I metadati definiti nella precedente versione delle linee guida, e attualmente in uso, trovano corrispondenze nelle proprietà degli elementi Dataset e Distribuzione nello schema DCAT-AP_IT. Le seguenti tabelle riportano, i dati obbligatori per lo schema DCAT-AP_IT (indicati con M), quelli ritenuti obbligatori secondo lo schema proposto da queste linee guida (asterisco ``*`` ). Si fa presente che si è scelto di mantenere obbligatori i metadati indicati come tali nella precedente versione delle linee guida anche se lo schema DCAT-AP_IT non lo prevede. 
 Come nomi delle proprietà dei metadati si è scelto di adottare quello proposto dallo schema DCAT-AP_IT. Nelle seguenti tabelle viene riportato in corsivo tra parentesi il nome corrispondente nello  schema di metadati adottato dalle precedenti linee guida.
 
+**Metadati per la descrizione del Dataset (dcatapit:Dataset)** (* Obbligatorio)
 
++-----------------------+-----------------------+-----------------------+
+| **Metadato**          | **Proprietà           | **Descrizione**       |
+|                       | DCAT-AP_IT**          |                       |
++=======================+=======================+=======================+
+| Titolo\*              | dct:title (M)         | Questa proprietà      |
+|                       |                       | contiene un nome      |
+|                       |                       | assegnato al Dataset. |
+|                       |                       | Questa proprietà può  |
+|                       |                       | essere ripetuta per   |
+|                       |                       | esprimere il titolo   |
+|                       |                       | in diverse lingue     |
++-----------------------+-----------------------+-----------------------+
+| Descrizione\*         | dct:description (M)   | Questa proprietà      |
+|                       |                       | contiene una sintesi  |
+|                       |                       | come testo libero     |
+|                       |                       | delle caratteristiche |
+|                       |                       | del Dataset. Questa   |
+|                       |                       | proprietà può essere  |
+|                       |                       | ripetuta per          |
+|                       |                       | esprimere la          |
+|                       |                       | descrizione in        |
+|                       |                       | diverse lingue.       |
++-----------------------+-----------------------+-----------------------+
+| punto di              | dcat:contactPoint (R) | Questa proprietà      |
+| contatto(Contatto)\*  |                       | contiene informazioni |
+|                       |                       | di contatto che       |
+|                       |                       | possono essere usate  |
+|                       |                       | per inviare           |
+|                       |                       | osservazioni e        |
+|                       |                       | commenti sul Dataset. |
++-----------------------+-----------------------+-----------------------+
+| parole chiave del     | dcat:keyword (R)      | Questa proprietà      |
+| dataset(Tag/Parole    |                       | contiene una parola   |
+| chiave)\*             |                       | chiave o un’etichetta |
+|                       |                       | che descrive il       |
+|                       |                       | Dataset.              |
++-----------------------+-----------------------+-----------------------+
+| tema del              | dcat:theme (R)        | Questa proprietà si   |
+| dataset(Categorie)\*  |                       | riferisce alla        |
+|                       |                       | categoria in cui è    |
+|                       |                       | classificato il       |
+|                       |                       | Dataset. Un Dataset   |
+|                       |                       | può essere associato  |
+|                       |                       | a più temi. I valori  |
+|                       |                       | da utilizzare per     |
+|                       |                       | questa proprietà sono |
+|                       |                       | gli URI dei concetti  |
+|                       |                       | del vocabolario EU    |
+|                       |                       | Data Theme (URI       |
+|                       |                       | vocabolario:http://pu |
+|                       |                       | blications.europa.eu/ |
+|                       |                       | resource/authority/da |
+|                       |                       | ta-theme)             |
+|                       |                       | descritti alla        |
+|                       |                       | paginahttp://publicat |
+|                       |                       | ions.europa.eu/mdr/au |
+|                       |                       | thority/data-theme    |
++-----------------------+-----------------------+-----------------------+
+| titolare del          | dct:rightsHolder      | Sulla base anche di   |
+| dataset(Assessorato   |                       | quanto indicato       |
+| titolare)\*           |                       | all’art.2 lettera i)  |
+|                       |                       | del D. Lgs. n.        |
+|                       |                       | 36/2006, il titolare  |
+|                       |                       | del dataset è la      |
+|                       |                       | pubblica              |
+|                       |                       | amministrazione o     |
+|                       |                       | l’organismo di        |
+|                       |                       | diritto pubblico che  |
+|                       |                       | ha originariamente    |
+|                       |                       | formato per uso       |
+|                       |                       | proprio o             |
+|                       |                       | commissionato ad      |
+|                       |                       | altro soggetto        |
+|                       |                       | pubblico o privato il |
+|                       |                       | documento che         |
+|                       |                       | rappresenta il dato,  |
+|                       |                       | o che ne ha la        |
+|                       |                       | disponibilità. Il     |
+|                       |                       | titolare è pertanto   |
+|                       |                       | responsabile della    |
+|                       |                       | gestione complessiva  |
+|                       |                       | del dataset in virtù  |
+|                       |                       | dei propri compiti    |
+|                       |                       | istituzionali. Si fa  |
+|                       |                       | presente che,         |
+|                       |                       | nell’ambito della     |
+|                       |                       | presente specifica,   |
+|                       |                       | l’accezione di        |
+|                       |                       | documento suddetta    |
+|                       |                       | può essere intesa     |
+|                       |                       | riferita al dataset.  |
++-----------------------+-----------------------+-----------------------+
+| frequenza di          | dct:accrualPeriodicit | Questa proprietà si   |
+| aggiornamento(aggiorn | y                     | riferisce alla        |
+| amento)\*             | (O)                   | frequenza con cui il  |
+|                       |                       | Dataset viene         |
+|                       |                       | aggiornato. I valori  |
+|                       |                       | da utilizzare per     |
+|                       |                       | questa proprietà sono |
+|                       |                       | gli URI dei concetti  |
+|                       |                       | del vocabolario MDR   |
+|                       |                       | Frequency Named       |
+|                       |                       | Authority List        |
+|                       |                       | (http://publications. |
+|                       |                       | europa.eu/mdr/authori |
+|                       |                       | ty/frequency).        |
++-----------------------+-----------------------+-----------------------+
+| data di rilascio(Data | dct:issued (O)        | Questa proprietà      |
+| di pubblicazione)\*   |                       | contiene la data del  |
+|                       |                       | rilascio formale (es. |
+|                       |                       | pubblicazione) del    |
+|                       |                       | Dataset.              |
++-----------------------+-----------------------+-----------------------+
+| data di ultima        | dct:modified (O)      | Questa proprietà      |
+| modifica(Data di      |                       | contiene la data più  |
+| aggiornamento)\*      |                       | recente in cui il     |
+|                       |                       | Dataset è stato       |
+|                       |                       | modificato o          |
+|                       |                       | aggiornato            |
++-----------------------+-----------------------+-----------------------+
+| autore del            | dct:creator           | Questa proprietà si   |
+| dataset(Autore)       |                       | riferisce a una o più |
+|                       |                       | entità                |
+|                       |                       | (organizzazione) che  |
+|                       |                       | hanno materialmente   |
+|                       |                       | creato il Dataset.    |
+|                       |                       | Nel caso in cui       |
+|                       |                       | titolare e autore del |
+|                       |                       | dataset coincidano,   |
+|                       |                       | allora si può         |
+|                       |                       | omettere questa       |
+|                       |                       | proprietà. (Le        |
+|                       |                       | informazioni relative |
+|                       |                       | all’autore possono    |
+|                       |                       | anche includere       |
+|                       |                       | l’email o l’indirizzo |
+|                       |                       | dell’organizzazione)  |
++-----------------------+-----------------------+-----------------------+
+| copertura Geografica  | dct:spatial (O)       | Questa proprietà si   |
+|                       |                       | riferisce a un’area   |
+|                       |                       | geografica coperta    |
+|                       |                       | dal Dataset. (Vanno   |
+|                       |                       | specificati i         |
+|                       |                       | metadati di           |
+|                       |                       | Localizzazione        |
+|                       |                       | (dct:Location) così   |
+|                       |                       | come indicati nella   |
+|                       |                       | specifica DCAT-PA_IT) |
++-----------------------+-----------------------+-----------------------+
+| estensione temporale  | dct:temporal (O)      | Questa proprietà si   |
+|                       |                       | riferisce a un        |
+|                       |                       | periodo temporale     |
+|                       |                       | coperto dal Dataset.  |
+|                       |                       | (Vanno specificati:   |
+|                       |                       | data iniziale e data  |
+|                       |                       | finale)               |
++-----------------------+-----------------------+-----------------------+
+| Referente\*           |                       | E’ il titolare del    |
+|                       |                       | dataset, cioé il      |
+|                       |                       | “titolare della banca |
+|                       |                       | dati” come definito   |
+|                       |                       | sopra (nel paragrafo  |
+|                       |                       | sulla strutturazione  |
+|                       |                       | interna)              |
++-----------------------+-----------------------+-----------------------+
+| Dataset richiesto da  |                       | Booleano si/no        |
+| un cittadino          |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| Documentazione        |                       | Indirizzo o indirizzi |
+| tecnica               |                       | delle pagine web che  |
+|                       |                       | contengono            |
+|                       |                       | informazioni utili    |
+|                       |                       | allacomprensione del  |
+|                       |                       | contenuto del dataset |
++-----------------------+-----------------------+-----------------------+
+| Altro                 |                       | Ogni altra            |
+|                       |                       | informazione utile    |
+|                       |                       | per dataset           |
++-----------------------+-----------------------+-----------------------+
 
+**Metadati per la descrizione della Distribuzione (dcatapit:Distribution) associata al Dataset** (* Obbligatorio)
+
++-----------------------+-----------------------+-----------------------+
+| **Metadato**          | **Proprietà           | **Descrizione**       |
+|                       | DCAT-AP_IT**          |                       |
++=======================+=======================+=======================+
+| URL di accesso\*(URI  | dcat:accessURL (M)    | Questa proprietà      |
+| permanente)           |                       | contiene un URL       |
+|                       |                       | tramite cui si        |
+|                       |                       | puòaccedere alla      |
+|                       |                       | Distribuzione del     |
+|                       |                       | Dataset.              |
++-----------------------+-----------------------+-----------------------+
+| Licenza\*             | dct:license (R)       | Questa proprietà si   |
+|                       |                       | riferisce a una       |
+|                       |                       | licenza con la quale  |
+|                       |                       | laDistribuzione è     |
+|                       |                       | resa disponibile.     |
++-----------------------+-----------------------+-----------------------+
+| formato               | dct:format (R)        | Questa proprietà si   |
+| distribuzione(Formato |                       | riferisce al formato  |
+| )\*                   |                       | del file della        |
+|                       |                       | Distribuzione.I       |
+|                       |                       | valori da utilizzare  |
+|                       |                       | per questa proprietà  |
+|                       |                       | sono gli URI          |
+|                       |                       | deiconcetti del       |
+|                       |                       | vocabolario MDR File  |
+|                       |                       | Type Named Authority  |
+|                       |                       | List(http://publicati |
+|                       |                       | ons.europa.eu/mdr/aut |
+|                       |                       | hority/file-type/).Ne |
+|                       |                       | l                     |
+|                       |                       | caso di file          |
+|                       |                       | “nidificati”          |
+|                       |                       | (i.e. file            |
+|                       |                       | compressi), il        |
+|                       |                       | formato daindicare è  |
+|                       |                       | quello originario e   |
+|                       |                       | non quello della      |
+|                       |                       | cartella compressa    |
+|                       |                       | che contiene il file  |
+|                       |                       | originario.Per        |
+|                       |                       | esempio, nel caso del |
+|                       |                       | file                  |
+|                       |                       | nomefile.ttl.bz2, il  |
+|                       |                       | formato da indicare è |
+|                       |                       | .ttl e non .bz2.      |
++-----------------------+-----------------------+-----------------------+
+| lunghezza del         | dcat:byteSize (O)     | Questa proprietà      |
+| file/dimensione in    |                       | contiene la lunghezza |
+| byte(Dimensione)      |                       | della Distribuzionein |
+|                       |                       | byte.                 |
++-----------------------+-----------------------+-----------------------+
+| Codifica Caratteri    |                       | Codifica dei          |
+|                       |                       | caratteri utilizzata  |
+|                       |                       | (es. “latin-1”,       |
+|                       |                       | “PC-850”)             |
++-----------------------+-----------------------+-----------------------+
+| Formato distribuzione |                       | Booleano si/no        |
+| richiesto da un       |                       |                       |
+| cittadino             |                       |                       |
++-----------------------+-----------------------+-----------------------+
+
+L’introduzione del nuovo schema dei metadati non comporta sostanziali modifiche allo schema di metadati fino adesso adottato. I principali cambiamenti riguardano: a) i nomi delle proprietà; b) l’URL di accesso ai dati che con l’adozione di DCAT-AP_IT diviene obbligatorio (Poiché l’URL di accesso è disponibile per tutti dati attualmente pubblicati, questa modifica potrà essere applicata senza particolari problemi), c) dal punto di vista implementativo i metadati dovranno essere resi disponibili in maniera conforme a quanto specificato dal DCAT-AP_IT.
+
+Confrontando lo schema di metadati adottato dal comune di Palermo con la specifica DCAT-AP_IT si evidenzia che: tutte le proprietà obbligatorie (M) e raccomandate (R) in DCAT-AP_IT sono state indicate come obbligatorie. Alcune proprietà (come frequenza di aggiornamento, data di rilascio) sono state ritenute di notevole importanza e pertanto vengono richieste come obbligatorie anche se in DCAT-AP_IT sono opzionali. Inoltre, sono state previste alcune integrazioni allo schema DCAT-AP_IT sia per i Dataset che per le *Distribuzioni*. Relativamente al *Dataset* sono state integrate come opzionali le proprietà che permettono di indicare se il dataset è stato richiesto da un cittadino, se c’è una documentazione tecnica allegata, ed eventuali note. In aggiunta, viene mantenuta come obbligatoria la proprietà Referente, anche se essa non è presente in DCAT-AP_IT. Per quanto riguarda la Distribuzione, è stata integrata come opzionale la proprietà relativa alla codifica dei caratteri, e anche in questo caso, si potrà indicare tra i metadati se il formato di distribuzione è stato richiesto da un cittadino. 
+
+Infine, una considerazione particolare va riportata per le licenze. La specifica DCAT-AP_IT, infatti, richiede ulteriori informazioni sui metadati relativi alla licenza delle distribuzioni, come indicato nella seguente tabella.
+
+**Metadati per la descrizione della Licenza (dcatapit:LicenceDocument)** (* Obbligatorio)
+
++-----------------------+-----------------------+-----------------------+
+| **Metadato**          | **Proprietà           | **Descrizione**       |
+|                       | DCAT-AP_IT**          |                       |
++=======================+=======================+=======================+
+| tipo licenza\*        | dct:type (R)          | Questa proprietà si   |
+|                       |                       | riferisce al tipo di  |
+|                       |                       | licenza, per es.      |
+|                       |                       | cheindica “pubblico   |
+|                       |                       | dominio” o “richiesto |
+|                       |                       | pagamento diritti”.I  |
+|                       |                       | valori da utilizzare  |
+|                       |                       | per questa proprietà  |
+|                       |                       | sono gli URI          |
+|                       |                       | deiconcetti del       |
+|                       |                       | vocabolario “ADMS     |
+|                       |                       | licence type          |
+|                       |                       | vocabulary”(http://pu |
+|                       |                       | rl.org/adms/licencety |
+|                       |                       | pe/).                 |
+|                       |                       | L’elenco dei          |
+|                       |                       | terminidel            |
+|                       |                       | vocabolario indicato  |
+|                       |                       | è incluso nella       |
+|                       |                       | specifica ADMS.       |
++-----------------------+-----------------------+-----------------------+
+| identificativo        | dct:identifier        | Questa proprietà      |
+|                       |                       | contiene un           |
+|                       |                       | identificativo della  |
+|                       |                       | Licenza, per es.      |
+|                       |                       | l’URI o altro         |
+|                       |                       | identificativo        |
+|                       |                       | univoco. Si           |
+|                       |                       | raccomanda di         |
+|                       |                       | utilizzare come       |
+|                       |                       | valori per questa     |
+|                       |                       | proprietà gli URI     |
+|                       |                       | delle licenze del     |
+|                       |                       | vocabolario           |
+|                       |                       | raccomandatohttp://cr |
+|                       |                       | eativecommons.org/ns# |
+|                       |                       | Work                  |
++-----------------------+-----------------------+-----------------------+
+| nome                  | foaf:name             | Questa proprietà      |
+|                       |                       | contiene un nome      |
+|                       |                       | assegnato alla        |
+|                       |                       | Licenza.Si raccomanda |
+|                       |                       | di fare riferimento   |
+|                       |                       | al vocabolario        |
+|                       |                       | indicato per la       |
+|                       |                       | proprietà             |
+|                       |                       | Identificativo.       |
++-----------------------+-----------------------+-----------------------+
+| versione              | owl:versionInfo       | Questa proprietà      |
+|                       |                       | contiene il numero    |
+|                       |                       | della versione oAltre |
+|                       |                       | indicazioni della     |
+|                       |                       | versione della        |
+|                       |                       | Licenza.              |
++-----------------------+-----------------------+-----------------------+
+
++
++
++
 
 
 
