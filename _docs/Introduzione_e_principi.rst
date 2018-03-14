@@ -108,7 +108,7 @@ Le presenti linee guida per la normativa di settore fanno riferimento al paragra
 Di seguito, a titolo esemplificativo e non esaustivo, verrà indicata la normativa, a livello Nazionale, Comunitario, nonché gli accordi internazionali cui l’Italia aderisce, che norma e disciplina le regole poste a garanzia della massima trasparenza dell’operato della P.A. ed i criteri volti a favorire la pubblicazione dei dati detenuti dalle stesse Pubbliche Amministrazioni.
 
 Normativa Italiana
-§§§§§§§§§§§§§§§§§§
+~~~~~~~~~~~~~~~~~~
 
 **Decreto Legislativo n. 82 del 7.03.2005 e ss.mm.ii.**, e **Decreto Legislativo n. 235 del 30.12.2010**:  Codice dell'Amministrazione Digitale (CAD)
 
