@@ -1,6 +1,12 @@
 Organizzazione del comune per le attività sugli open data
 =========================================================
 
+.. figure:: img/Organigramma.PNG
+
+
+
+
+
 Strutturazione interna
 ----------------------
 
