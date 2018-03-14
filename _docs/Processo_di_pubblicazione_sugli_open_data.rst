@@ -76,15 +76,146 @@ Nel primo periodo di attuazione dei contenuti delle Linee Guida comunali open da
 |                       | essere considerato    | pubblicati dataset    |
 |                       | per il futuro.        | simili in altre PA    |
 +-----------------------+-----------------------+-----------------------+
-tabella convertita da csv a markdown a RST con pandoc 2.1.2
+[tabella convertita da CSV a Markdown a RST con `Pandoc 2.1.2 <http://pandoc.org/try>`_]
 
+Tale metodo è stato usato dal Team Open Data nelle riunioni periodiche e aperte al pubblico dal dicembre 2015 al dicembre 2016 per l’individuazione dei dataset tematici da pubblicare. 
+Con cadenza annuale ogni Dirigente provvederà, se necessario, all’aggiornamento dell’elenco delle raccolte di dati di sua competenza.
 
+L’attività di individuazione dei dati oggetto di pubblicazione in formato aperto dovrà essere, in ogni caso, condotta in modo tale da escludere quelli che, per il tipo di riutilizzo o per le modalità con cui si intende realizzarlo, potrebbero violare:
 
+- la sicurezza pubblica, la difesa nazionale, lo svolgimento di indagini penali o disciplinari;
 
+- il diritto di terzi al segreto industriale, statistico e commerciale, o altri vincoli di segretezza fissati in obblighi di legge;
 
+- i diritti di proprietà intellettuale;
+
+- il diritto alla protezione dei dati personali.
+
+In ogni caso, per assicurare la trasparenza amministrativa garantendo, al contempo, la protezione dei dati personali o coperti da segreto, il Comune procederà, quando necessario, alla pubblicazione di dati aggregati o resi anonimi in modo da non consentire alcuna identificazione, nemmeno indiretta, dei soggetti a cui tali dati si riferiscono, coerentemente con la normativa vigente in materia.
+
+------
 
 Modalità di produzione dei dataset e formato di pubblicazione
 -------------------------------------------------------------
+(In parte da “Allegato B - `Formati aperti e metadati per il riutilizzo e la diffusione dei dati pubblici” della Provincia di Trento <http://www.innovazione.provincia.tn.it/binary/pat_innovazione/notizie/AllegatoB_formati_21Dicembre_def.1356705197.pdf>`_)
+Il Comune di Palermo metterà a disposizione i dati pubblici, ove possibile, in modalità elettronica e nei seguenti formati aperti che favoriscano l'interoperabilità:
+
++-----------------------+-----------------------+-----------------------+
+| **Nome (Acronimo) -   | **Tipo di Dato**      | **Estensione del      |
+| Descrizione**         |                       | file**                |
++=======================+=======================+=======================+
+| **Comma Separated     | *Dato tabellare*      | *.csv*                |
+| Value (CSV)Formato    |                       |                       |
+| testuale per          |                       |                       |
+| l’interscambio di     |                       |                       |
+| tabelle, le cui righe |                       |                       |
+| corrispondono a       |                       |                       |
+| record e i cui valori |                       |                       |
+| delle singole colonne |                       |                       |
+| sono separati da una  |                       |                       |
+| virgola (o punto e    |                       |                       |
+| virgola)**            |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| **Geographic Markup   | *Dato geografico      | *.gml*                |
+| Language (GML)Formato | vettoriale*           |                       |
+| XML utile allo        |                       |                       |
+| scambio di dati       |                       |                       |
+| territoriali di tipo  |                       |                       |
+| vettoriale**          |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| **GeoJSONE’ un        | Dato geografico       | Di solito .geojson,   |
+| formato di testo      | vettoriale            | .topojson, o .json    |
+| aperto, per la        |                       |                       |
+| codifica di oggetti   |                       |                       |
+| geografici e dei      |                       |                       |
+| correlati attributi   |                       |                       |
+| non spaziali, scritto |                       |                       |
+| in JSON (JavaScript   |                       |                       |
+| Object Notation).**   |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| **Keyhole Markup      | *Dato geografico      | *.kml*                |
+| Language (KML)Formato | vettoriale*           |                       |
+| basato su XML creato  |                       |                       |
+| per gestire dati      |                       |                       |
+| territoriali in tre   |                       |                       |
+| dimensioni.**         |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| **Open Document       | *Dato tabellare*      | *.ods*                |
+| Format per dati       |                       |                       |
+| tabellari             |                       |                       |
+| (ODS)Formato per      |                       |                       |
+| l’archiviazione e lo  |                       |                       |
+| scambio di fogli di   |                       |                       |
+| calcolo**             |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| **Resource            | *Dato strutturato*    | *.rdf*                |
+| Description Framework |                       |                       |
+| (RDF)Basato su XML,   |                       |                       |
+| e’ lo strumento base  |                       |                       |
+| proposto da World     |                       |                       |
+| Wide Web Consortium   |                       |                       |
+| (W3C) per la          |                       |                       |
+| codifica, lo scambio  |                       |                       |
+| e il riutilizzo di    |                       |                       |
+| metadati strutturati  |                       |                       |
+| e consente            |                       |                       |
+| l’interoperabilità    |                       |                       |
+| tra applicazioni che  |                       |                       |
+| si scambiano          |                       |                       |
+| informazioni sul      |                       |                       |
+| Web**                 |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| **ESRI Shapefile      | *Dato geografico      | *.shp, .shx, .dbf,    |
+| (SHP)Lo Shapefile     | vettoriale*           | .prj*                 |
+| ESRI è un popolare    |                       |                       |
+| formato vettoriale    |                       |                       |
+| per sistemi           |                       |                       |
+| informativi           |                       |                       |
+| geografici. Il dato   |                       |                       |
+| geografico viene      |                       |                       |
+| distribuito           |                       |                       |
+| normalmente           |                       |                       |
+| attraverso tre o      |                       |                       |
+| quattro files (se     |                       |                       |
+| indicato il sistema   |                       |                       |
+| di riferimento delle  |                       |                       |
+| coordinate). Il       |                       |                       |
+| formato è stato       |                       |                       |
+| rilasciato da ESRI    |                       |                       |
+| come formato (quasi)  |                       |                       |
+| aperto**              |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| **Tab Separated Value | *Dato tabellare*      | *.tsv*                |
+| (TSV)Formato testuale |                       |                       |
+| per l’interscambio di |                       |                       |
+| tabelle, le cui righe |                       |                       |
+| corrispondono a       |                       |                       |
+| record e i cui valori |                       |                       |
+| delle singole colonne |                       |                       |
+| sono separati da un   |                       |                       |
+| carattere di          |                       |                       |
+| tabulazione**         |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| **Extensible Markup   | *Dato strutturato*    | *.xml*                |
+| Language (XML)E’ un   |                       |                       |
+| formato di markup,    |                       |                       |
+| ovvero basato su un   |                       |                       |
+| meccanismo che        |                       |                       |
+| consente di definire  |                       |                       |
+| e controllare il      |                       |                       |
+| significato degli     |                       |                       |
+| elementi contenuti in |                       |                       |
+| un documento o in un  |                       |                       |
+| testo attraverso      |                       |                       |
+| delle etichette       |                       |                       |
+| (markup)**            |                       |                       |
++-----------------------+-----------------------+-----------------------+
+
+
+
+
+
+
 
 Modalità di produzione dei dataset dalle piattaforme ICT del PON METRO Palermo
 ------------------------------------------------------------------------------
