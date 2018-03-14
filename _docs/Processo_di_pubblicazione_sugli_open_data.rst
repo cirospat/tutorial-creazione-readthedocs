@@ -39,7 +39,7 @@ Il team Open Data, durante le riunioni periodiche, esamina le raccolte di dati e
 Nel primo periodo di attuazione dei contenuti delle Linee Guida comunali open data approvate con Deliberazione di Giunta Municipale n. 252 del 13.2.2013, per avviare il processo di pubblicazione dei dataset comunali, è stata seguita la procedura del metodo `MoSCoW <http://en.m.wikipedia.org/wiki/MoSCoW_Method>`_ di seguito schematizzato.
 
 .. raw:: md
-   /moscow.md
+   :file: moscow.md
 
 
 
