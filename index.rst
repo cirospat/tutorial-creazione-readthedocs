@@ -17,7 +17,6 @@ Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.or
 
 .. figure:: img/opendata.png  
 
-   le 5 stelle dei formati open data
 
 Contenuti
 =========
