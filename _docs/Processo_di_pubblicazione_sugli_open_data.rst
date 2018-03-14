@@ -284,7 +284,7 @@ Relativamente al *catalogo*, la versione attuale delle linee guida non prevede d
 |                       |                       | in più lingue. Deve   |
 |                       |                       | essere utilizzato il  |
 |                       |                       | vocabolario           |
-|                       |                       | http://publications.e |
+|                       |                       | publications.e        |
 |                       |                       | uropa.eu/mdr/authorit |
 |                       |                       | y/language/           |
 +-----------------------+-----------------------+-----------------------+
@@ -311,7 +311,7 @@ Relativamente al *catalogo*, la versione attuale delle linee guida non prevede d
 |                       |                       | relativi ai Dataset,  |
 |                       |                       | l’URI da indicare è   |
 |                       |                       | il seguente:          |
-|                       |                       | http://publications.e |
+|                       |                       | publications.e        |
 |                       |                       | uropa.eu/resource/aut |
 |                       |                       | hority/data-theme     |
 +-----------------------+-----------------------+-----------------------+
