@@ -2,6 +2,7 @@
 Appendice C: scheda di catalogazione dei dataset ed esempi
 ======================
 In questa appendice viene presentata la scheda da utilizzare per realizzare un censimento delle raccolte di dati presenti negli uffici del Comune di Palermo.
+
 +---------------------+---------------------+-------------------------+
 | **Campo**           | **Descrizione**     | **Esempio**             |
 +=====================+=====================+=========================+
