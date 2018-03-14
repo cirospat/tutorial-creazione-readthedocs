@@ -116,6 +116,10 @@ Art. 52: “*...Le pubbliche amministrazioni, al fine di valorizzare e rendere f
 
 Art. 68: “*...Le pubbliche amministrazioni nella predisposizione o nell'acquisizione dei programmi informatici, adottano soluzioni informatiche...che assicurino l'interoperabilità e la cooperazione applicativa e consentano la rappresentazione dei dati e documenti in più formati, di cui almeno uno di tipo aperto...*”
 
+**Decreto Legislativo n. 36 del 24.01.2006**: Attuazione della direttiva 2003/98/CE relativa al riutilizzo di documenti nel settore pubblico.
+| Il Decreto Legislativo in parola (art. 1) disciplina  le modalità di riutilizzo    dei    documenti   contenenti   dati   pubblici   nella disponibilità  delle  pubbliche amministrazioni e degli organismi di diritto pubblico.
+
+
 
 
 
