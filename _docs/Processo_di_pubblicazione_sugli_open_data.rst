@@ -104,8 +104,8 @@ Il Comune di Palermo metterà a disposizione i dati pubblici, ove possibile, in 
 | **Nome (Acronimo) -   | **Tipo di Dato**      | **Estensione del      |
 | Descrizione**         |                       | file**                |
 +=======================+=======================+=======================+
-| **Comma Separated     | *Dato tabellare*      | *.csv*                |
-| Value (CSV)Formato    |                       |                       |
+| **Comma Separated     | Dato tabellare        | .csv                  |
+| Value (CSV) - Formato |                       |                       |
 | testuale per          |                       |                       |
 | l’interscambio di     |                       |                       |
 | tabelle, le cui righe |                       |                       |
@@ -116,14 +116,14 @@ Il Comune di Palermo metterà a disposizione i dati pubblici, ove possibile, in 
 | virgola (o punto e    |                       |                       |
 | virgola)**            |                       |                       |
 +-----------------------+-----------------------+-----------------------+
-| **Geographic Markup   | *Dato geografico      | *.gml*                |
-| Language (GML)Formato | vettoriale*           |                       |
-| XML utile allo        |                       |                       |
-| scambio di dati       |                       |                       |
+| **Geographic Markup   | Dato geografico       | .gml                  |
+| Language (GML) -      | vettoriale            |                       |
+| Formato XML utile     |                       |                       |
+| allo scambio di dati  |                       |                       |
 | territoriali di tipo  |                       |                       |
 | vettoriale**          |                       |                       |
 +-----------------------+-----------------------+-----------------------+
-| **GeoJSONE’ un        | Dato geografico       | Di solito .geojson,   |
+| **GeoJSON - E’ un     | Dato geografico       | Di solito .geojson,   |
 | formato di testo      | vettoriale            | .topojson, o .json    |
 | aperto, per la        |                       |                       |
 | codifica di oggetti   |                       |                       |
@@ -133,30 +133,31 @@ Il Comune di Palermo metterà a disposizione i dati pubblici, ove possibile, in 
 | in JSON (JavaScript   |                       |                       |
 | Object Notation).**   |                       |                       |
 +-----------------------+-----------------------+-----------------------+
-| **Keyhole Markup      | *Dato geografico      | *.kml*                |
-| Language (KML)Formato | vettoriale*           |                       |
-| basato su XML creato  |                       |                       |
-| per gestire dati      |                       |                       |
-| territoriali in tre   |                       |                       |
-| dimensioni.**         |                       |                       |
+| **Keyhole Markup      | Dato geografico       | .kml                  |
+| Language (KML) -      | vettoriale            |                       |
+| Formato basato su XML |                       |                       |
+| creato per gestire    |                       |                       |
+| dati territoriali in  |                       |                       |
+| tre dimensioni.**     |                       |                       |
 +-----------------------+-----------------------+-----------------------+
-| **Open Document       | *Dato tabellare*      | *.ods*                |
+| **Open Document       | Dato tabellare        | .ods                  |
 | Format per dati       |                       |                       |
-| tabellari             |                       |                       |
-| (ODS)Formato per      |                       |                       |
+| tabellari (ODS) -     |                       |                       |
+| Formato per           |                       |                       |
 | l’archiviazione e lo  |                       |                       |
 | scambio di fogli di   |                       |                       |
 | calcolo**             |                       |                       |
 +-----------------------+-----------------------+-----------------------+
-| **Resource            | *Dato strutturato*    | *.rdf*                |
+| **Resource            | Dato strutturato      | .rdf                  |
 | Description Framework |                       |                       |
-| (RDF)Basato su XML,   |                       |                       |
-| e’ lo strumento base  |                       |                       |
-| proposto da World     |                       |                       |
-| Wide Web Consortium   |                       |                       |
-| (W3C) per la          |                       |                       |
-| codifica, lo scambio  |                       |                       |
-| e il riutilizzo di    |                       |                       |
+| (RDF) - Basato su     |                       |                       |
+| XML, e’ lo strumento  |                       |                       |
+| base proposto da      |                       |                       |
+| World Wide Web        |                       |                       |
+| Consortium (W3C) per  |                       |                       |
+| la codifica, lo       |                       |                       |
+| scambio e il          |                       |                       |
+| riutilizzo di         |                       |                       |
 | metadati strutturati  |                       |                       |
 | e consente            |                       |                       |
 | l’interoperabilità    |                       |                       |
@@ -165,8 +166,8 @@ Il Comune di Palermo metterà a disposizione i dati pubblici, ove possibile, in 
 | informazioni sul      |                       |                       |
 | Web**                 |                       |                       |
 +-----------------------+-----------------------+-----------------------+
-| **ESRI Shapefile      | *Dato geografico      | *.shp, .shx, .dbf,    |
-| (SHP)Lo Shapefile     | vettoriale*           | .prj*                 |
+| **ESRI Shapefile      | Dato geografico       | .shp, .shx, .dbf,     |
+| (SHP) - Lo Shapefile  | vettoriale            | .prj                  |
 | ESRI è un popolare    |                       |                       |
 | formato vettoriale    |                       |                       |
 | per sistemi           |                       |                       |
@@ -185,9 +186,10 @@ Il Comune di Palermo metterà a disposizione i dati pubblici, ove possibile, in 
 | come formato (quasi)  |                       |                       |
 | aperto**              |                       |                       |
 +-----------------------+-----------------------+-----------------------+
-| **Tab Separated Value | *Dato tabellare*      | *.tsv*                |
-| (TSV)Formato testuale |                       |                       |
-| per l’interscambio di |                       |                       |
+| **Tab Separated Value | Dato tabellare        | .tsv                  |
+| (TSV) - Formato       |                       |                       |
+| testuale per          |                       |                       |
+| l’interscambio di     |                       |                       |
 | tabelle, le cui righe |                       |                       |
 | corrispondono a       |                       |                       |
 | record e i cui valori |                       |                       |
@@ -196,9 +198,9 @@ Il Comune di Palermo metterà a disposizione i dati pubblici, ove possibile, in 
 | carattere di          |                       |                       |
 | tabulazione**         |                       |                       |
 +-----------------------+-----------------------+-----------------------+
-| **Extensible Markup   | *Dato strutturato*    | *.xml*                |
-| Language (XML)E’ un   |                       |                       |
-| formato di markup,    |                       |                       |
+| **Extensible Markup   | Dato strutturato      | .xml                  |
+| Language (XML) - E’   |                       |                       |
+| un formato di markup, |                       |                       |
 | ovvero basato su un   |                       |                       |
 | meccanismo che        |                       |                       |
 | consente di definire  |                       |                       |
@@ -210,6 +212,9 @@ Il Comune di Palermo metterà a disposizione i dati pubblici, ove possibile, in 
 | delle etichette       |                       |                       |
 | (markup)**            |                       |                       |
 +-----------------------+-----------------------+-----------------------+
+pandoc 2.1.2
+
+© 2013–2015 John MacFarlane
 
 
 
