@@ -338,7 +338,7 @@ Relativamente al *catalogo*, la versione attuale delle linee guida non prevede d
 +-----------------------+-----------------------+-----------------------+
 (tabella convertita da CSV a Markdown a RST con `Pandoc 2.1.2 <http://pandoc.org/try>`_)
 
-I metadati definiti nella precedente versione delle linee guida, e attualmente in uso, trovano corrispondenze nelle proprietà degli elementi Dataset e Distribuzione nello schema DCAT-AP_IT. Le seguenti tabelle riportano, i dati obbligatori per lo schema DCAT-AP_IT (indicati con M), quelli ritenuti obbligatori secondo lo schema proposto da queste linee guida (asterisco ``*``). Si fa presente che si è scelto di mantenere obbligatori i metadati indicati come tali nella precedente versione delle linee guida anche se lo schema DCAT-AP_IT non lo prevede. 
+I metadati definiti nella precedente versione delle linee guida, e attualmente in uso, trovano corrispondenze nelle proprietà degli elementi Dataset e Distribuzione nello schema DCAT-AP_IT. Le seguenti tabelle riportano, i dati obbligatori per lo schema DCAT-AP_IT (indicati con M), quelli ritenuti obbligatori secondo lo schema proposto da queste linee guida (asterisco ``*`` ). Si fa presente che si è scelto di mantenere obbligatori i metadati indicati come tali nella precedente versione delle linee guida anche se lo schema DCAT-AP_IT non lo prevede. 
 Come nomi delle proprietà dei metadati si è scelto di adottare quello proposto dallo schema DCAT-AP_IT. Nelle seguenti tabelle viene riportato in corsivo tra parentesi il nome corrispondente nello  schema di metadati adottato dalle precedenti linee guida.
 
 
