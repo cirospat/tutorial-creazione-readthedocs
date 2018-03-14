@@ -34,6 +34,11 @@ Modello Operativo
 -----------------
 Le linee guida nazionali per la valorizzazione del patrimonio informativo pubblico mostrano un possibile modello operativo riportato nella figura seguente. Il modello illustra le principali tappe (fasi) del processo di produzione e gestione dei dati aperti da parte di una Pubblica Amministrazione.
 
+.. figure:: /img/modello_operativo.PNG
+
+*In particolare, il modello consiste di tre linee di produzione: “dati nativi” che riguarda la produzione di dati nativi attraverso un’organizzazione e razionalizzazione dell’esistente,  “dati mashup” che  riguarda invece lo sviluppo di dataset complessi, prodotti  a sostegno di processi comunicativi, sociali o economici, e “Linked Open Data” che riguarda la produzione di dati aperti di tipo Linked (livelli 4 e 5) e che, come tendenza generale, è da adottare per tutti i dati pubblici che dovranno essere resi disponibili. A queste tre linee si aggiunge quella “ortogonale” dell’”engagement”. La cultura dei dati aperti deve  essere sostenuta e sviluppata nel rapporto con i cittadini e il mondo delle imprese. Se è vero che gli  Open Data costituiscono un potente motore di sviluppo economico e di coinvolgimento attivo della  popolazione, è altrettanto vero che occorre individuare le forme e gli strumenti attraverso i quali tali  processi possano effettivamente attivarsi. Per questo è necessaria una specifica filiera di attività che  condivida il lavoro delle amministrazioni con tutti i possibili “stakeholder”*.
+
+
 
 
 
