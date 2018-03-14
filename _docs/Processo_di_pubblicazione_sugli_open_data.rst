@@ -212,9 +212,7 @@ Il Comune di Palermo metterà a disposizione i dati pubblici, ove possibile, in 
 | delle etichette       |                       |                       |
 | (markup)**            |                       |                       |
 +-----------------------+-----------------------+-----------------------+
-pandoc 2.1.2
 
-© 2013–2015 John MacFarlane
 
 
 
