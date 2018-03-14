@@ -244,7 +244,7 @@ Relativamente al *catalogo*, la versione attuale delle linee guida non prevede d
 
 +-----------------------+-----------------------+-----------------------+
 | **Metadato**          | **Proprietà           | **Descrizione**       |
-|                       | DCAT-AP_IT**          |                       |
+|                       | DCAT_AP_IT**          |                       |
 +=======================+=======================+=======================+
 | titolo del catalogo\* | dct:title (M)         | Questa proprietà      |
 |                       |                       | contiene un nome dato |
@@ -284,7 +284,7 @@ Relativamente al *catalogo*, la versione attuale delle linee guida non prevede d
 |                       |                       | in più lingue. Deve   |
 |                       |                       | essere utilizzato il  |
 |                       |                       | vocabolario           |
-|                       |                       | publications.e        |
+|                       |                       | http://publications.e |
 |                       |                       | uropa.eu/mdr/authorit |
 |                       |                       | y/language/           |
 +-----------------------+-----------------------+-----------------------+
@@ -311,7 +311,7 @@ Relativamente al *catalogo*, la versione attuale delle linee guida non prevede d
 |                       |                       | relativi ai Dataset,  |
 |                       |                       | l’URI da indicare è   |
 |                       |                       | il seguente:          |
-|                       |                       | publications.e        |
+|                       |                       | http://publications.e |
 |                       |                       | uropa.eu/resource/aut |
 |                       |                       | hority/data-theme     |
 +-----------------------+-----------------------+-----------------------+
