@@ -1,14 +1,13 @@
 Organizzazione del comune per le attività sugli open data
 =========================================================
 
-.. figure:: img/Organigramma.PNG
-
-
-
-
-
 Strutturazione interna
 ----------------------
+
+Il Comune di Palermo, al mese di Aprile 2017, è strutturato amministrativamente nelle Aree rappresentate di seguito:
+
+.. figure:: img/Organigramma.PNG
+
 
 Modello Operativo
 -----------------
