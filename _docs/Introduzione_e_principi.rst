@@ -67,13 +67,55 @@ Attraverso  la pubblicazione degli  Open  Data il  Comune di Palermo  valorizza 
 
 - farà da volano per lo sviluppo dell'economia permettendo alle imprese e ai singoli di creare nuove applicazioni  di interesse per la collettività.
 
-
-
+------
 
 Open Data
 ---------
+(Tratto dal documento del Formez `“Open Data Come rendere aperti i dati delle pubbliche amministrazioni” <http://trasparenza.formez.it/sites/all/files/VademecumOpenData_0.pdf>`_)
+Una P.A. che voglia dare realtà concreta all’Open Government deve prioritariamente mettere a disposizione del cittadino e delle imprese i dati pubblici  in un formato aperto (Open Data).
+Distribuire i dati pubblici in un formato aperto e libero da restrizioni sia dal punto di vista dell’accesso che dell’integrazione e del riutilizzo, rappresenta il presupposto di base affinché possa svilupparsi un vero e proprio processo di collaborazione tra le istituzioni e la comunità dei cittadini sulle scelte di governo, anche attraverso la rielaborazione in forma nuova e diversa dei dati messi a disposizione.
 
+Mediante strategie di apertura dei dati pubblici, i cittadini non sono più soltanto consumatori passivi di informazioni messe a disposizione dalle amministrazioni. Hanno invece l’opportunità di riutilizzare e integrare i dati messi loro a disposizione, fino a sviluppare servizi e applicazioni a vantaggio dell’intera comunità di utenti, che vanno ad affiancarsi a quelli creati centralmente dalle istituzioni. 
+
+I dati  per considerarsi aperti in base agli standard internazionali (secondo Transparency International Georgia, Ten Open Data Guidelines http://transparency.ge/en/ten-open-data-guidelines) devono essere: 
+
+- **Completi**. I dati devono comprendere tutte le componenti (metadati) che consentano di esportarli, utilizzarli on line e off line, integrarli e aggregarli con altre risorse e diffonderli in rete. 
+
+- **Primari**. Le risorse digitali devono essere strutturate in modo tale che i dati siano presentati in maniera sufficientemente granulare, così che possano essere utilizzate dagli utenti per integrarle e aggregarle con altri dati e contenuti in formato digitale; 
+
+- **Tempestivi**. Gli utenti devono essere messi in condizione di accedere e utilizzare i dati presenti in rete in modo rapido e immediato, massimizzando il valore e l’utilità derivanti da accesso e uso di queste risorse; 
+
+- **Accessibili**. I dati devono essere resi disponibili al maggior numero possibile di utenti senza barriere all’utilizzo, quindi preferibilmente  attraverso il solo protocollo Hypertext Transfer Protocol (HTTP) e senza il ricorso a piattaforme proprietarie. Devono essere inoltre resi disponibili senza alcuna sottoscrizione di contratto, pagamento, registrazione o richiesta.
+
+- **Leggibili da computer**. Per garantire agli utenti la piena libertà di accesso e soprattutto di utilizzo e integrazione dei contenuti digitali, è necessario che i dati siano processabili in automatico dal computer. 
+
+- **In formati non proprietari**. I dati devono essere codificati in formati aperti e pubblici, sui quali non vi siano entità (aziende o organizzazioni) che ne abbiano il controllo esclusivo. Sono preferibili i formati con le codifiche più semplici e maggiormente supportati. 
+
+- **Liberi da licenze che ne limitino l’uso**. I dati aperti devono essere caratterizzati da licenze che non ne limitino l’uso, la diffusione o la redistribuzione. 
+
+- **Riutilizzabili**. Affinché i dati siano effettivamente aperti, gli utenti devono essere messi in condizione di riutilizzarli e integrarli, fino a creare nuove risorse, applicazioni e servizi di pubblica utilità. 
+
+- **Ricercabili**. I dati devono essere facilmente identificabili in rete, grazie a cataloghi e archivi facilmente indicizzabili dai motori di ricerca. 
+
+- **Permanenti**. Le peculiarità fino ad ora descritte devono caratterizzare i dati nel corso del loro intero ciclo di vita.
+
+------
 
 Normativa di riferimento
 ------------------------
+Le presenti linee guida per la normativa di settore fanno riferimento al paragrafo “Normativa di Riferimento” delle `Linee Guida Nazionali per la Valorizzazione del Patrimonio Informativo Pubblico (2° semestre 2016) <http://www.dati.gov.it/sites/default/files/LG2016_0.pdf>`_.
+
+Di seguito, a titolo esemplificativo e non esaustivo, verrà indicata la normativa, a livello Nazionale, Comunitario, nonché gli accordi internazionali cui l’Italia aderisce, che norma e disciplina le regole poste a garanzia della massima trasparenza dell’operato della P.A. ed i criteri volti a favorire la pubblicazione dei dati detenuti dalle stesse Pubbliche Amministrazioni.
+
+Normativa Italiana
+§§§§§§§§§§§§§§§§§§
+**Decreto Legislativo n. 82 del 7.03.2005 e ss.mm.ii.**, e **Decreto Legislativo n. 235 del 30.12.2010**:  Codice dell'Amministrazione Digitale (CAD)
+
+Art. 52: “*...Le pubbliche amministrazioni, al fine di valorizzare e rendere fruibili i dati pubblici di cui sono titolari, promuovono progetti di elaborazione e di diffusione degli stessi anche attraverso l'uso di strumenti di finanza di progetto, assicurando...la pubblicazione dei dati e dei documenti in formati aperti...*”
+
+Art. 68: “*...Le pubbliche amministrazioni nella predisposizione o nell'acquisizione dei programmi informatici, adottano soluzioni informatiche...che assicurino l'interoperabilità e la cooperazione applicativa e consentano la rappresentazione dei dati e documenti in più formati, di cui almeno uno di tipo aperto...*”
+
+
+
+
 
