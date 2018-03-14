@@ -42,9 +42,6 @@ In questa appendice viene presentata la scheda da utilizzare per realizzare un c
 | raccolta dati \*    |                     | oppure database         |
 |                     |                     | denominato …………         |
 +---------------------+---------------------+-------------------------+
-pandoc 2.1.2
-
-© 2013–2015 John MacFarlane
 *Obbligatorio
 
 Nota: anche gli archivi in formato cartaceo necessitano di essere catalogati.
