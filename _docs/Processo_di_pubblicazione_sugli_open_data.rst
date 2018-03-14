@@ -664,7 +664,20 @@ In particolare, si tende a seguire un percorso graduale verso la produzione nati
 
 .. figure:: /img/modellodati.PNG
 
+1 stella
 
+Informazione:
+   Dati disponibili tramite una licenza aperta e inclusi in documenti leggibili e interpretabili solo grazie a un significativo intervento umano (e.g., PDF).
+
+Accesso:    	
+   Prevalentemente umano, necessario anche per dare un senso ai dati inclusi nei documenti.
+
+Servizi:       	
+   Solo rilevanti interventi umani di estrazione ed elaborazione dei possibili dati consentono di sviluppare servizi con l’informazione disponibile in questo livello.
+
+
+
+---
 
 I livelli del modello per i metadati
 ------------------------------------
