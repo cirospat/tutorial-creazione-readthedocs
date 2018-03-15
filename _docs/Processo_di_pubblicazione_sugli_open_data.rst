@@ -76,7 +76,6 @@ Nel primo periodo di attuazione dei contenuti delle Linee Guida comunali open da
 |                       | essere considerato    | pubblicati dataset    |
 |                       | per il futuro.        | simili in altre PA    |
 +-----------------------+-----------------------+-----------------------+
-(tabella convertita da CSV a Markdown a RST con `Pandoc 2.1.2 <http://pandoc.org/try>`_)
 
 Tale metodo è stato usato dal Team Open Data nelle riunioni periodiche e aperte al pubblico dal dicembre 2015 al dicembre 2016 per l’individuazione dei dataset tematici da pubblicare. 
 Con cadenza annuale ogni Dirigente provvederà, se necessario, all’aggiornamento dell’elenco delle raccolte di dati di sua competenza.
@@ -212,7 +211,6 @@ Il Comune di Palermo metterà a disposizione i dati pubblici, ove possibile, in 
 | delle etichette       |                       |                       |
 | (markup)**            |                       |                       |
 +-----------------------+-----------------------+-----------------------+
-(tabella convertita da CSV a Markdown a RST con `Pandoc 2.1.2 <http://pandoc.org/try>`_)
 
 I dati saranno resi disponibili da ciascuna Area in un formato aperto che li renda riutilizzabili direttamente da programmi di elaborazione di calcolo da parte di una macchina (formato machine-readable) e, ove possibile, in formato standard pubblici, leggibili e basati su specifiche pubbliche ed esaustive tali da permetterne l'interpretazione da parte di persone (formati human-readable). I dati saranno resi disponibili accompagnati dai relativi metadati, salvo specifiche e motivate eccezioni, indicate per ciascun dataset da ciascuna Area nell’ambito dell’individuazione periodica dei dati che saranno rilasciati in formato aperto, secondo quanto indicato al punto precedente delle presenti Linee Guida.
 
@@ -473,7 +471,7 @@ Servizi:
 **(★★★★★) 5 Stelle.**
 
 Informazione:
-   Dati con caratteristiche del livello precedente ma collegati a quelli esposti da altre persone e organizzazioni (i.e., Linked Open Data [1]). I dati sono descritti semanticamente tramite metadati e ontologie. Essi seguono il paradigma RDF (si veda “Architettura dell’informazione del settore pubblico”), in cui alle “cose” (o entità) è assegnata un URI univoca sul Web. Conseguentemente tale URI può essere utilizzata per effettuare accessi diretti alle informazioni relative a quella entità. I dati sono detti "linked" per la possibilità di referenziarsi (i.e., "collegarsi") tra loro. Nel referenziarsi, si usano relazioni ("link") che hanno un preciso significato e spiegano il tipo di legame che intercorre tra le due entità coinvolte nel collegamento. I Linked (Open) Data sono quindi un metodo elegante ed efficace per risolvere problemi di identità e provenienza, semantica, integrazione e interoperabilità. Triple RDF i cui URI non siano utilizzabili da un agente Web per recuperare le informazioni a essi associati, non possono essere considerati pienamente conformi al paradigma Linked Data. Nei caso dei Linked Open Data l'intervento umano si può ridurre al minimo e talvolta addirittura eliminare.
+   Dati con caratteristiche del livello precedente ma collegati a quelli esposti da altre persone e organizzazioni (i.e., Linked Open Data [1]_). I dati sono descritti semanticamente tramite metadati e ontologie. Essi seguono il paradigma RDF (si veda “Architettura dell’informazione del settore pubblico”), in cui alle “cose” (o entità) è assegnata un URI univoca sul Web. Conseguentemente tale URI può essere utilizzata per effettuare accessi diretti alle informazioni relative a quella entità. I dati sono detti "linked" per la possibilità di referenziarsi (i.e., "collegarsi") tra loro. Nel referenziarsi, si usano relazioni ("link") che hanno un preciso significato e spiegano il tipo di legame che intercorre tra le due entità coinvolte nel collegamento. I Linked (Open) Data sono quindi un metodo elegante ed efficace per risolvere problemi di identità e provenienza, semantica, integrazione e interoperabilità. Triple RDF i cui URI non siano utilizzabili da un agente Web per recuperare le informazioni a essi associati, non possono essere considerati pienamente conformi al paradigma Linked Data. Nei caso dei Linked Open Data l'intervento umano si può ridurre al minimo e talvolta addirittura eliminare.
 
 Accesso:
    I programmi sono in grado di conoscere l'ontologia di riferimento e pertanto di elaborare i dati quasi senza ulteriori interventi umani.
@@ -481,15 +479,14 @@ Accesso:
 Servizi:
    Servizi, anche per dispositivi mobili, che sfruttano sia accessi diretti a Web sia l'informazione ulteriore catturata attraverso i "link" dei dati di interesse, facilitando il mashup di dati.
 
-[1]
-
-https://www.ted.com/talks/tim_berners_lee_on_the_next_web?nolanguage=en%2C
-
-https://www.w3.org/DesignIssues/LinkedData.html
-
-http://linkeddatabook.com/editions/1.0
-
-http://linkeddata.org/home
+.. [1]
+   https://www.ted.com/talks/tim_berners_lee_on_the_next_web?nolanguage=en%2C
+   
+   https://www.w3.org/DesignIssues/LinkedData.html
+   
+   http://linkeddatabook.com/editions/1.0
+   
+   http://linkeddata.org/home
 
 ------
 
