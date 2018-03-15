@@ -418,7 +418,7 @@ Infine, una considerazione particolare va riportata per le licenze. La specifica
 
 Modello di dati per i dati aperti
 ---------------------------------
-(http://www.dati.gov.it/sites/default/files/LG2016_0.pdf  Linee Guida Nazionali per la Valorizzazione del Patrimonio Informatvo Pubblico Anno 2016).
+(`Linee Guida Nazionali per la Valorizzazione del Patrimonio Informativo Pubblico, Anno 2016, AgID <http://www.dati.gov.it/sites/default/files/LG2016_0.pdf>`_).
 Si  adotta  il  modello  qualitativo  per  i  dati  aperti  sul  Web,  noto  come  modello  a  cinque stelle.
 In particolare, si tende a seguire un percorso graduale verso la produzione nativa di Linked Open Data – LOD (livello cinque stelle), iniziando dal livello 3. Produzione e pubblicazione  di  dati  aperti solo  di  livello 1 e 2  non sono più  ammessi: quest’ultimi devono essere accompagnati da quelli che rispecchiano le caratteristiche dei livelli 3 e/o superiori  (per  esempio, rilasciare  dati  strutturati solo in excel con licenza aperta non è ammesso; questi devono essere sempre affiancati da dati strutturati in formato non proprietario).
 
