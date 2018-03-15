@@ -11,6 +11,8 @@ La fase di partecipazione online (dal 25 gennaio 2017 al 13 aprile 2017) della p
 
 Il documento condiviso online per permettere la partecipazione alla redazione delle Linee guida open data si trova a questo `link <https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE>`_.
 
+Il portale open data del Comune di Palermo, conforme al profilo DCAT_AP_IT, è disponibile a questo `link <https://opendata.comune.palermo.it/>`_.
+
 .. figure:: img/ccbysa.png
 
 Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it>`_ - Creative Commons,  Attribuzione, Condividi allo stesso modo, versione 4.0 Internazionale.
