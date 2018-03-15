@@ -479,6 +479,8 @@ Accesso:
 Servizi:
    Servizi, anche per dispositivi mobili, che sfruttano sia accessi diretti a Web sia l'informazione ulteriore catturata attraverso i "link" dei dati di interesse, facilitando il mashup di dati.
 
+.. rubric:: Note
+
 .. [1]
    https://www.ted.com/talks/tim_berners_lee_on_the_next_web?nolanguage=en%2C
    
