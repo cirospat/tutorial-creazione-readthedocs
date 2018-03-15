@@ -1,6 +1,6 @@
 +-----------------------+-----------------------+-----------------------+
-| **Metadato**          | **Proprietà           | **Descrizione**       |
-|                       | DCAT_AP_IT**          |                       |
+| **Metadato**          | **Proprietà**         | **Descrizione**       |
+|                       | **DCAT_AP_IT**        |                       |
 +=======================+=======================+=======================+
 | titolo del catalogo\* | dct:title (M)         | Questa proprietà      |
 |                       |                       | contiene un nome dato |
