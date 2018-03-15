@@ -492,7 +492,7 @@ Servizi:
 
 I livelli del modello per i metadati
 ------------------------------------
-(http://www.dati.gov.it/sites/default/files/LG2016_0.pdf  Linee Guida Nazionali per la Valorizzazione del Patrimonio Informatvo Pubblico Anno 2016).
+(`Linee Guida Nazionali per la Valorizzazione del Patrimonio Informativo Pubblico, Anno 2016, AgID <http://www.dati.gov.it/sites/default/files/LG2016_0.pdf>`_).
 La metadatazione ricopre un ruolo essenziale laddove i dati sono esposti a utenti terzi e a software.  I  metadati,  infatti,  consentono  una  maggiore  comprensione  e  rappresentano  la chiave attraverso cui abilitare più agevolmente la ricerca, la scoperta, l’accesso e quindi il riuso  dei  dati  stessi. A tale scopo, si adotta il modello per i metadati rappresentato in figura. Il  modello  si focalizza sugli aspetti qualitativi dei metadati, è indipendente dal particolare schema proposto e, in  parte, anche dal formato fisico di rappresentazione. La classificazione qualitativa dei metadati si fonda su due fattori principali: legame tra dato-metadato e livello di dettaglio.
 
 .. figure:: /img/modello4livelli.PNG
