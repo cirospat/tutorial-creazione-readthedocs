@@ -19,11 +19,11 @@ Ai fini delle presenti Linee Guida si forniscono le seguenti definizioni:
 **dati di tipo aperto**: 
    i dati che presentano le seguenti caratteristiche (art. 68, c. 3, lett. b), CAD):
       
-      sono disponibili secondo i termini di una licenza che ne permetta l’utilizzo da parte di chiunque, anche per finalità commerciali, in formato disaggregato;
+   - sono disponibili secondo i termini di una licenza che ne permetta l’utilizzo da parte di chiunque, anche per finalità commerciali, in formato disaggregato;
       
-      sono accessibili attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, in formati aperti ai sensi della lettera a), sono adatti all’utilizzo automatico da parte di programmi per elaboratori e sono provvisti dei relativi metadati;
+   - sono accessibili attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, in formati aperti ai sensi della lettera a), sono adatti all’utilizzo automatico da parte di programmi per elaboratori e sono provvisti dei relativi metadati;
       
-      sono resi disponibili gratuitamente attraverso le tecnologie dell’informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, oppure sono resi disponibili ai costi marginali sostenuti per la loro riproduzione e divulgazione;	
+   - sono resi disponibili gratuitamente attraverso le tecnologie dell’informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, oppure sono resi disponibili ai costi marginali sostenuti per la loro riproduzione e divulgazione;	
       
 **formato di dati di tipo aperto**: 
    un formato di dati reso pubblico, documentato esaustivamente e neutro rispetto agli strumenti tecnologici necessari per la fruizione dei dati stessi (art. 68, c. 3, lett. a), CAD);
