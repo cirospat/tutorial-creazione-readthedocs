@@ -37,3 +37,6 @@ Contenuti
    _docs/Riferimenti_bibliografici.rst
    _docs/Crediti.rst
 
+
+.. raw:: html
+   :file: disqus.html
