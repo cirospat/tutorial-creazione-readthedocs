@@ -103,6 +103,6 @@
 | Descrizione*                   | dct:description (M)   | Questa proprietà contiene una sintesi come testo libero delle caratteristiche del Dataset. Questa proprietà può essere ripetuta per esprimere la descrizione in diverse lingue. |
 +--------------------------------+-----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | punto di contatto
-(Contatto)*  | dcat:contactPoint (R) | Questa proprietà contiene informazioni di contatto che possono essere usate per inviare osservazioni e commenti sul Dataset.                                                    |
+(Contatto)*                      | dcat:contactPoint (R) | Questa proprietà contiene informazioni di contatto che possono essere usate per inviare osservazioni e commenti sul Dataset.                                                   |
 +--------------------------------+-----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
