@@ -404,65 +404,17 @@ Infine, una considerazione particolare va riportata per le licenze. La specifica
 
 **Metadati per la descrizione della Licenza (dcatapit:LicenceDocument)** (*Obbligatorio)
 
-+-----------------------+-----------------------+-----------------------+
-| **Metadato**          | **Proprietà           | **Descrizione**       |
-|                       | DCAT-AP_IT**          |                       |
-+=======================+=======================+=======================+
-| tipo licenza\*        | dct:type (R)          | Questa proprietà si   |
-|                       |                       | riferisce al tipo di  |
-|                       |                       | licenza, per es.      |
-|                       |                       | cheindica “pubblico   |
-|                       |                       | dominio” o “richiesto |
-|                       |                       | pagamento diritti”.I  |
-|                       |                       | valori da utilizzare  |
-|                       |                       | per questa proprietà  |
-|                       |                       | sono gli URI          |
-|                       |                       | deiconcetti del       |
-|                       |                       | vocabolario “ADMS     |
-|                       |                       | licence type          |
-|                       |                       | vocabulary”(http://pu |
-|                       |                       | rl.org/adms/licencety |
-|                       |                       | pe/).                 |
-|                       |                       | L’elenco dei          |
-|                       |                       | terminidel            |
-|                       |                       | vocabolario indicato  |
-|                       |                       | è incluso nella       |
-|                       |                       | specifica ADMS.       |
-+-----------------------+-----------------------+-----------------------+
-| identificativo        | dct:identifier        | Questa proprietà      |
-|                       |                       | contiene un           |
-|                       |                       | identificativo della  |
-|                       |                       | Licenza, per es.      |
-|                       |                       | l’URI o altro         |
-|                       |                       | identificativo        |
-|                       |                       | univoco. Si           |
-|                       |                       | raccomanda di         |
-|                       |                       | utilizzare come       |
-|                       |                       | valori per questa     |
-|                       |                       | proprietà gli URI     |
-|                       |                       | delle licenze del     |
-|                       |                       | vocabolario           |
-|                       |                       | raccomandatohttp://cr |
-|                       |                       | eativecommons.org/ns# |
-|                       |                       | Work                  |
-+-----------------------+-----------------------+-----------------------+
-| nome                  | foaf:name             | Questa proprietà      |
-|                       |                       | contiene un nome      |
-|                       |                       | assegnato alla        |
-|                       |                       | Licenza.Si raccomanda |
-|                       |                       | di fare riferimento   |
-|                       |                       | al vocabolario        |
-|                       |                       | indicato per la       |
-|                       |                       | proprietà             |
-|                       |                       | Identificativo.       |
-+-----------------------+-----------------------+-----------------------+
-| versione              | owl:versionInfo       | Questa proprietà      |
-|                       |                       | contiene il numero    |
-|                       |                       | della versione oAltre |
-|                       |                       | indicazioni della     |
-|                       |                       | versione della        |
-|                       |                       | Licenza.              |
-+-----------------------+-----------------------+-----------------------+
++----------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Metadato       | Proprietà DCAT-AP_IT  | Descrizione                                                                                                                                                                                                                                                                                                                                                      |
++================+=======================+==================================================================================================================================================================================================================================================================================================================================================================+
+| tipo licenza*  | dct:type (R)          | Questa proprietà si riferisce al tipo di licenza, per es. che indica “pubblico dominio” o “richiesto pagamento diritti”. I valori da utilizzare per questa proprietà sono gli URI dei concetti del vocabolario “ADMS licence type vocabulary” (http://purl.org/adms/licencetype/). L’elenco dei termini del vocabolario indicato è incluso nella specifica ADMS. |
++----------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| identificativo | dct:identifier        | Questa proprietà contiene un identificativo della Licenza, per es. l’URI o altro identificativo univoco. Si raccomanda di utilizzare come valori per questa proprietà gli URI delle licenze del vocabolario raccomandato http://creativecommons.org/ns#Work                                                                                                      |
++----------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| nome           | foaf:name             | Questa proprietà contiene un nome assegnato alla Licenza. Si raccomanda di fare riferimento al vocabolario indicato per la proprietà Identificativo.                                                                                                                                                                                                             |
++----------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| versione       | owl:versionInfo       | Questa proprietà contiene il numero della versione o Altre indicazioni della versione della Licenza.                                                                                                                                                                                                                                                             |
++----------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ------
 
