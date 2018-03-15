@@ -9,7 +9,7 @@ Linee guida open data del comune di Palermo
 
 La fase di partecipazione online (dal 25 gennaio 2017 al 13 aprile 2017) della presente versione di Linee Guida è stata integrata con le novità apportate dalle Linee guida nazionali open data dell’AgID versione 2016 e con il profilo dei metadati DCAT_AP_IT.
 
-Il documento condiviso online per permettere la partecipazione alla redazione delle linee guida open data si trova a questo `link <https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE>`_.
+Il documento condiviso online per permettere la partecipazione alla redazione delle Linee guida open data si trova a questo `link <https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE>`_.
 
 .. figure:: img/ccbysa.png
 
