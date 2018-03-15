@@ -243,8 +243,8 @@ Relativamente al *catalogo*, la versione attuale delle linee guida non prevede d
 **Metadati per la descrizione del Catalogo (dcatapit:Catalog)** (*Obbligatorio)
 
 +-----------------------+-----------------------+-----------------------+
-| **Metadato**          | **Proprietà           | **Descrizione**       |
-|                       | DCAT_AP_IT**          |                       |
+| **Metadato**          | **Proprietà**         | **Descrizione**       |
+|                       | **DCAT_AP_IT**        |                       |
 +=======================+=======================+=======================+
 | titolo del catalogo\* | dct:title (M)         | Questa proprietà      |
 |                       |                       | contiene un nome dato |
@@ -283,10 +283,10 @@ Relativamente al *catalogo*, la versione attuale delle linee guida non prevede d
 |                       |                       | metadati sono forniti |
 |                       |                       | in più lingue. Deve   |
 |                       |                       | essere utilizzato il  |
-|                       |                       | \ ``vocabolario <http |
-|                       |                       | ://publications.europ |
-|                       |                       | a.eu/mdr/authority/la |
-|                       |                       | nguage/>``            |
+|                       |                       | vocabolario           |
+|                       |                       | http://bit.ly/2tWLEJd |
+|                       |                       |                       |
+|                       |                       |                       |
 +-----------------------+-----------------------+-----------------------+
 | temi del catalogo     | dcat:themeTaxonomy    | Questa proprietà si   |
 |                       | (R)                   | riferisce ad un       |
@@ -310,11 +310,11 @@ Relativamente al *catalogo*, la versione attuale delle linee guida non prevede d
 |                       |                       | indicare i temi       |
 |                       |                       | relativi ai Dataset,  |
 |                       |                       | l’URI da indicare è   |
-|                       |                       | il                    |
-|                       |                       | \ ``seguente <http:// |
-|                       |                       | publications.europa.e |
-|                       |                       | u/resource/authority/ |
-|                       |                       | data-theme>``         |
+|                       |                       | il seguente           |
+|                       |                       | http://bit.ly/2tKxGK0 |
+|                       |                       |                       |
+|                       |                       |                       |
+|                       |                       |                       |
 +-----------------------+-----------------------+-----------------------+
 | editore del           | dct:publisher (M)     | Questa proprietà si   |
 | catalogo\*            |                       | riferisce ad          |
