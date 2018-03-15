@@ -44,7 +44,7 @@ Ai fini delle presenti Linee Guida si forniscono le seguenti definizioni:
    contestazione da far pervenire al Comune di Palermo. Il reclamo non è da confondere con i suggerimenti e le segnalazioni che ogni soggetto interessato al riuso potrà far pervenire al Comune di Palermo attraverso gli strumenti di comunicazione previsti dall'area pubblica della piattaforma Open Data; 
    
 **piattaforma Open Data del Comune di Palermo**: 
-   la piattaforma raggiungibile sul web all’indirizzo  http://www.comune.palermo.it/opendata.php, attraverso il quale il Comune di Palermo mette a disposizione i dati pubblici. Inoltre tale strumento permette:  
+   la piattaforma raggiungibile sul web all’indirizzo  http://www.comune.palermo.it/opendata.php, attraverso il quale il Comune di Palermo mette a disposizione i dati pubblici (da fine 2017 https://opendata.comune.palermo.it/). Inoltre tale strumento permette:  
       
    - agli utenti del web di raggiungere, interrogare, ricercare e scaricare i dati e i documenti messi a disposizione nell'area pubblica e di riusarli nei termini definiti dalla licenza d’uso associata;
       
