@@ -2,7 +2,7 @@
 Capo 4 - Concessione e Concessionario
 =====================================
 
-ART. 11 OBBLIGHI DEL CONCESSIONARIO / ASSEGNATARIO
+ART. 11 - OBBLIGHI DEL CONCESSIONARIO / ASSEGNATARIO
 --------------------------------------------------
 Indipendentemente dal tipo di attività che si dovrà svolgere sul bene assegnato, saranno previsti a carico dell'assegnatario i seguenti obblighi.
 
@@ -49,14 +49,14 @@ La violazione di anche uno degli obblighi di cui al presente articolo, comporta 
 
 |
 
-ART. 12- DURATA DELLA CONCESSIONE E RINNOVO
+ART. 12 - DURATA DELLA CONCESSIONE E RINNOVO
 -------------------------------------------
 La concessione avrà una durata stabilita dalla G.C. in seno agli atti di cui all'art. 8 e commisurata al progetto che deve realizzarsi ed all'impegno economico che lo stesso presuppone (elemento quest'ultimo che non verrà valutato nell'ipotesi di finanziamento di fonte pubblica) e comunque non oltre i 10 anni. Può essere rinnovata alla scadenza, ma solo in presenza di un esplicito atto di 
 assenso dell'Amministrazione Comunale, escludendosi il rinnovo tacito. Il concedente può revocare in qualsiasi momento la concessione per motivi di preminente interesse pubblico, previo avviso al concessionario da comunicarsi almeno sei mesi prima della data in cui la revoca deve avere effetto. 
 
 |
 
-ART.13-CESSIONE  DEL BENE  E DEL CONTRATTO
+ART. 13 - CESSIONE  DEL BENE  E DEL CONTRATTO
 -------------------------------------------
 II  concessionario  non  può  concedere  a  terzi, neanche  parzialmente,  l'utilizzo  del  bene  oggetto  di 
 concessione, né  cedere a terzi, a qualunque titolo, il contratto  di concessione del medesimo bene.
