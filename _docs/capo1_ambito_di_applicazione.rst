@@ -2,7 +2,7 @@
 Capo 1 - Ambito di Applicazione
 =================
 
-ART.1 - OGGETTO
+ART. 1 - OGGETTO
 ----------------
 Il Comune di Palermo, in conformità alle finalità della legge 109/96 e successive modifiche ed integrazioni, promuove l'utilizzazione a fini sociali e/o occupazionali dei beni confiscati alla mafia facenti parte del proprio patrimonio, come strumento di sviluppo e di riscatto del territorio.
 
