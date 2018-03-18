@@ -1,23 +1,18 @@
 ####################
-Linee guida open data del comune di Palermo
+Regolamento per la destinazione e l'utilizzo di beni confiscati alla criminalità organizzata di proprietà del Comune di Palermo.
 ####################
 
 .. figure:: img/comunepalermo.png
 
+Fonte del `Regolamento <https://www.comune.palermo.it/js/server/normative/_24122012094335.pdf>`_
 
-**Questo documento descrive le linee guida open data del comune di Palermo, redatte e approvate nel 2017 con Deliberazione di Giunta Municipale n. 97 del 4.05.2017**.
+**TESTO EMENDATO**
 
-La fase di partecipazione online (dal 25 gennaio 2017 al 13 aprile 2017) della presente versione di Linee Guida è stata integrata con le novità apportate dalle Linee guida nazionali open data dell’AgID versione 2016 e con il profilo dei metadati DCAT_AP_IT.
-
-Il documento condiviso online che ha permesso la partecipazione alla redazione delle Linee guida open data si trova a questo `link <https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE>`_.
-
-Il portale open data del Comune di Palermo, conforme al profilo DCAT_AP_IT, è disponibile a questo `link <https://opendata.comune.palermo.it/>`_.
+`Dataset open data in formato CSV <https://opendata.comune.palermo.it/ws.php?id=1550&fmt=csv>`_ dell'elenco dei bendi confiscati alla criminalità organizzata di proprietà del comune di Palermo.
 
 .. figure:: img/ccbysa.png
 
 Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it>`_ - Creative Commons,  Attribuzione, Condividi allo stesso modo, versione 4.0 Internazionale.
-
-.. figure:: img/opendata.png  
 
 
 Contenuti
@@ -25,18 +20,11 @@ Contenuti
 
 .. toctree::
 
-   _docs/Introduzione_e_principi.rst
-   _docs/Organizzazione_del_comune_per_le_attivita_sugli_open_data.rst
-   _docs/Processo_di_pubblicazione_sugli_open_data.rst
-   _docs/Riutilizzo_degli_open_data.rst
-   _docs/Obiettivi_azioni_tempi.rst
-   _docs/Appendice_a_definizioni.rst
-   _docs/Appendice_b.rst
-   _docs/Appendice_c.rst
-   _docs/Nota_finale.rst
-   _docs/Riferimenti_bibliografici.rst
-   _docs/Crediti.rst
+   _docs/capo1_ambito_di_applicazione
+   _docs/capo2_uso_istituzionale_e_abitativo
+   _docs/capo3_finalita_sociali
+   _docs/capo4_concessione_e_concessionario
+   _docs/capo5_finalita_lucrative
+   _docs/capo6_ufficio_centrale
+   _docs/capo7_norme_transitorie_e_finali
 
-
-.. raw:: html
-   :file: disqus.html
