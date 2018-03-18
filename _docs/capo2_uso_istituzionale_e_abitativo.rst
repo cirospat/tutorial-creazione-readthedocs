@@ -3,13 +3,13 @@ Capo 2 - Uso istituzionale e abitativo
 =========================================================
 
 ART.3- USO ISTITUZIONALE
-========================
+------------------------
 L'elenco degli immobili destinati ad uso istituzionale, verrà trasmesso agli Uffici dell'Amministrazione Comunale ed i beni verranno assegnati dal Settore Risorse Immobiliari, ai Settori e/o Uffici che ne faranno richiesta non solo perché vengano utilizzati come sede, ma anche per destinarli ad attività che gli Uffici perseguono istituzionalmente, in ambito sociale, culturale, dell'istruzione, ambientale e, comunque, con una ricaduta diretta sul territorio.
 
 |
 
 Art 4 - DEFINIZIONI
-===================
+---------------------
 Ai fìni del presente Regolamento: 
 
 a. Centro Operativo Comunale per i Beni Confiscati alla Mafia e/o Ufficio Centrale è l'organo di coordinamento, strutturato per "Funzioni di supporto", preposto alla gestione del complessivo iter procedurale che dal provvedimento di confisca, di destinazione e consegna del bene al Comune di Palermo conduce, entro i termini di legge, all'assegnazione del bene confiscato per l'utilizzazione finale.
@@ -20,5 +20,5 @@ Le Funzioni di Supporto, presiedute dal Dirigente Coordinatore del C.O.Be.C, son
 |
 
 ART. 4 Bis- USO ABITATIVO
-=========================
+--------------------------
 Gli immobili destinati ad uso abitativo, verranno consegnati al pertinente Settore e saranno gestiti secondo quanto previsto dal regolamento del predetto Settore per l'emergenza abitativa e consegnati al Settore muniti di certificato di abitabilità o in deroga ex L.R. 19/2005 e succ. mod. ed integrazioni. 
