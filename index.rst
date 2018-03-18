@@ -2,7 +2,7 @@
 Regolamento per la destinazione e l'utilizzo di beni confiscati alla criminalità organizzata di proprietà del Comune di Palermo.
 ####################
 
-.. figure:: img/palermo.png
+.. figure:: img/palermo.PNG
 
 Fonte del `Regolamento <https://www.comune.palermo.it/js/server/normative/_24122012094335.pdf>`_
 
