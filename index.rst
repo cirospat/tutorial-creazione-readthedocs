@@ -4,14 +4,11 @@ Regolamento per la destinazione e l'utilizzo di beni confiscati alla criminalit�
 
 .. figure:: img/palermo.PNG
 
-Fonte del `Regolamento comunale <https://www.comune.palermo.it/js/server/normative/_24122012094335.pdf>`_, approvato con Deliberazione di Consiglio Comunale n.631 del 17/11/2011 (*REGOLAMENTO PER LA DESTINAZIONE E L'UTILIZZO DI BENI CONFISCATI ALLA CRIMINALITA' ORGANIZZATA DI PROPRIETA' DEL COMUNE DI PALERMO*).
+Fonte del `Regolamento comunale <https://www.comune.palermo.it/js/server/normative/_24122012094310.pdf>`_, approvato con Deliberazione di Consiglio Comunale n. 335 del 17/09/2008 (*REGOLAMENTO PER IL FUNZIONAMENTO DEL SERVIZIO UFFICIO RELAZIONI CON IL PUBBLICO*).
 
-Dati
-------
+.. figure:: img/urp.png
 
-   `Elenco dei beni confiscati (D.lgs . 159/2011 art. 48 comma 3) <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=14&asel=70>`_ alla criminalità organizzata, di proprietà del comune di Palermo, pubblicato nella sezione Amministrazione Trasparente / Patrimonio immobiliare.
-
-   `Dataset open data in formato XML <https://opendata.comune.palermo.it/ws.php?id=1550&fmt=xml>`_ dell'elenco dei beni confiscati alla criminalità organizzata, di proprietà del comune di Palermo.
+Portale dell'`Ufficio Relazioni con il Pubblico <https://www.comune.palermo.it/urp.php>`_ del Comune di Palermo.
 
 .. figure:: img/ccbysa.png
 
@@ -19,20 +16,16 @@ Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.or
 
 |
 
-.. figure:: img/beniconfiscati.png
-
-   dalla mappa del `portale openregio <https://openregio.it/statistiche/visualizza/beni_destinati/immobili>`_ la visualizzazione degli immobili destinati
-
-Testo del Regolamento emendato
+Testo del Regolamento 
 ==========================
 
 .. toctree::
 
-   _docs/capo1_ambito_di_applicazione.rst
-   _docs/capo2_uso_istituzionale_e_abitativo.rst
-   _docs/capo3_finalita_sociali.rst
-   _docs/capo4_concessione_e_concessionario.rst
-   _docs/capo5_finalita_lucrative.rst
-   _docs/capo6_ufficio_centrale.rst
-   _docs/capo7_norme_transitorie_e_finali.rst
-
+   _docs/capo1.rst
+   _docs/capo2.rst
+   _docs/capo3.rst
+   _docs/capo4.rst
+   _docs/capo5.rst
+   _docs/capo6.rst
+   _docs/capo7.rst
+   _docs/capo8.rst
