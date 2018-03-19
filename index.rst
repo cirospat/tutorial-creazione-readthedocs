@@ -14,11 +14,11 @@ Fonte del `Regolamento comunale <https://www.comune.palermo.it/js/server/normati
    
    `Carta dei Servizi comunali di Palermo <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72>`_
 
-+---------------------------------------+-----------------------+--------------------------------------------------------------------------------+
-| Portale web URP                       | Email URP             | Carta Servizi comune Palermo                                                   |
-+=======================================+=======================+================================================================================+
-| https://www.comune.palermo.it/urp.php | urp@comune.palermo.it | https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72   |
-+---------------------------------------+-----------------------+--------------------------------------------------------------------------------+
++-------------------------------------------------------+-----------------------+------------------------------------------------------------------------------------------------------+
+| Portale web URP                                       | Email URP             | Carta Servizi comune Palermo                                                                         |
++=======================================================+=======================+======================================================================================================+
+| `portale <https://www.comune.palermo.it/urp.php>`__   | urp@comune.palermo.it | `Carta servizi <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72>`__     |
++-------------------------------------------------------+-----------------------+------------------------------------------------------------------------------------------------------+
 
 
 .. figure:: img/ccbysa.png
