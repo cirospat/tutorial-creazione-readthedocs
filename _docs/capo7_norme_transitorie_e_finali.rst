@@ -15,7 +15,7 @@ Tutte le assegnazioni effettuate prima dell'entrata in vigore del presente regol
 |
 
 Art. 29 - Norme finali
----------------------.
+---------------------
 Per tutto quanto non previsto dal presente regolamento, si fa rinvio alle norme vigenti in materia. 
 
 Con il presente Regolamento viene abrogato l'art. 14 del Regolamento relativo alla gestione e alienazione dei beni immobili di proprietà comunale nonché alla locazione ed acquisto immobili di proprietà privata.
