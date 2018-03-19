@@ -6,7 +6,7 @@ Regolamento per la destinazione e l'utilizzo di beni confiscati alla criminalit√
 
 Fonte del `Regolamento comunale <https://www.comune.palermo.it/js/server/normative/_24122012094310.pdf>`_, approvato con Deliberazione di Consiglio Comunale n. 335 del 17/09/2008 (*REGOLAMENTO PER IL FUNZIONAMENTO DEL SERVIZIO UFFICIO RELAZIONI CON IL PUBBLICO*).
 
-.. figure:: img/urp.png
+.. figure:: img/urp.PNG
 
 Portale dell'`Ufficio Relazioni con il Pubblico <https://www.comune.palermo.it/urp.php>`_ del Comune di Palermo.
 
