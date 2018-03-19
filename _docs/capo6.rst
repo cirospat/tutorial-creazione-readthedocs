@@ -27,8 +27,7 @@ c) conoscenze di base delle dinamiche relazionali;
 
 d) conoscenza di strumenti e tecniche per la costruzione di supporti di comunicazione (cartacei, video, telematici);
 
-e) conoscenza di base di strumenti e tecniche di monitoraggio e ricerca sociale. E’ inoltre previsto e adeguatamente formata almeno
-una unità di personale in grado di interpretare il linguaggio dei segni (LIS), in cui almeno un sordomuto L. 68/99 nonché l’impiego delle figure equipollenti al centralinista telefonico, L. 113/85, L. n. 60/76. 
+e) conoscenza di base di strumenti e tecniche di monitoraggio e ricerca sociale. E’ inoltre previsto e adeguatamente formata almeno una unità di personale in grado di interpretare il linguaggio dei segni (LIS), in cui almeno un sordomuto L. 68/99 nonché l’impiego delle figure equipollenti al centralinista telefonico, L. 113/85, L. n. 60/76. 
 
 Il Responsabile dell’URP deve possedere altresì competenze adeguate nel campo degli strumenti e delle tecniche di comunicazione pubblica; della organizzazione e della gestione delle risorse umane; della progettazione e di gestione di progetti relativamente complessi.
 
