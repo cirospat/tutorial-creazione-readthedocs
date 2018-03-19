@@ -2,7 +2,7 @@
 Capo 6 - Ufficio Centrale
 ======================
 
-ART. 25 - COMPETENZE
+Art. 25 - Competenze
 ------------------
 Le attività propedeutiche all'assegnazione al Comune dei beni confiscati e tutte quelle non espressamente devolute, dal presente regolamento, ad altri Settori e/o Uffici sono attribuite ad un Ufficio Centrale, dotato di professionalità amministrativo-contabili, culturali, sociali e tecniche, la cui organizzazione e le cui competenze verranno disciplinate dal regolamento sull'ordinamento 
 degli Uffici e dei Servizi. 
@@ -30,7 +30,7 @@ Il Comune istituisce un tavolo periodico di confi-onto con l'Agenzia Nazionale d
 
 |
 
-ART. 26 - POTERE SANZIONATORIO
+Art. 26 - Potere sanzionatorio
 ------------------------------
 Il potere sanzionatorio appartiene all'Ufficio che ha stipulato la concessione. 
 
