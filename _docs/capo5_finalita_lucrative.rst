@@ -72,6 +72,6 @@ Si fa rinvio all'art. 17 del vigente regolamento relativo alla gestione dei beni
 
 |
 
-Art. 24 - Inossevanza di divieti
+Art. 24 - Inosservanza di divieti
 ---------------------------------
 Si fa rinvio all'art. 19 del vigente regolamento relativo alla gestione dei beni immobili di proprietà comunale e succ. mod. ed integrazioni. 
