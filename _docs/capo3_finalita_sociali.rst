@@ -1,58 +1,73 @@
-==========================
-Capo 3 - Finalità Sociali
-==========================
+==================================
+Capo 3 - Funzioni del Front-Office
+==================================
 
-Art. 5 - Fini sociali
------------------------
-Gli immobili destinati ad uso diverso da quelli precedenti di cui agli arti. 3 e 4, verranno consegnati previo bando come previsto dall'art. 8 ai Settori preposti per essere destinati ad attività a servizio del territorio , al fine di attuare politiche di promozione sociale, culturale, ambientale, della legalità e della sicurezza, creando opportunità di sviluppo e di lavoro, per combattere il disagio sociale, l'emarginazione e la disoccupazione. 
-
-I beni pertanto non potranno essere utilizzati come mera sede sociale di una associazione, enti e cooperative sociali, dovendosi in essi altresì svolgere un'attività a servizio del territorio. 
-
-Art. 6 - Beneficiari
------------------------
-Ai sensi dell'art 3, comma 3 della Legge 109/96 e successive modifiche ed integrazioni ed in ultimo la L. 30.03.2010 n. 50, i predetti beni sono concessi a titolo gratuito e nel rispetto dei principi di trasparenza, adeguata pubblicità e parità di trattamento, a comunità, anche giovanili, ad enti, anche Enti Pubblici non economici ad associazioni maggiormente rappresentative degli enti locali, ad organizzazioni di volontariato di cui alla legge 11 agosto 1991, n 266, e successive modificazioni, a cooperative sociali di cui alla legge 8 novembre 1991, n.381, o a comunità terapeutiche e centri di recupero e cura di tossicodipendenti di cui al testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n.309, nonché alle associazioni di protezione ambientale riconosciute ai sensi della legge n.349 dell'08/07/1986 e succ. mod., che manifestano il proprio interesse secondo le modalità di cui al presente regolamento. 
+Art. 7 - Servizio informazioni
+-------------------------------
+L’URP svolge la propria attività avvalendosi di un sistema informativo sui servizi, le strutture e il funzionamento dell’amministrazione tale da consentirgli di individuare per ogni servizio le relative informazioni di dettaglio. L’aggiornamento del sistema informativo affidato ai referenti dell’ URP di cui all’art. 7, è di competenza dei singoli uffici, in ragione delle rispettive attività.
 
 |
 
-Art. 7 - Elenco dei beni disponibili
+Art. 8 - I referenti dell’U.R.P.
+------------------------------
+I Dirigenti nominano ciascuno un proprio referente deputato a gestire i rapporti con l’URP.
+
+Qualora richiesto dall’ URP e i Dirigenti nominano i referenti anche nelle unità organizzative.
+
+L’attività dei referenti di cui ai precedenti commi ed in particolare di quelli competenti per gli uffici di sportello è coordinata dai Dirigenti dei Settori.Potranno essere previste riunioni e incontri periodici, tra U.R.P. e referenti, per determinare le strategie di lavoro.
+
+|
+
+Art. 9 - Compiti dei referenti
+----------------------------
+Ai referenti è attribuito in particolare il compito di:
+
+- aggiornare il sistema informativo di cui all’articolo 6;
+
+- segnalare all’ URP tutte le novità inerenti i servizi, i procedimenti amministrativi, la struttura e il suo funzionamento e trasmettere la relativa modulistica;
+
+- contattare il responsabile del procedimento o dell’ufficio competente, tutte le volte che l’URP abbia necessità di acquisire informazioni puntuali su questioni specifiche, nel caso ad esempio di esercizio del diritto di accesso o di gestione e monitoraggio del reclamo;
+
+|
+
+Art. 10 - Rapporti informativi fra Settori dell’Amministrazione
+--------------------------------------------------------------
+1.   Tutti gli atti (delibere / determine) devono contenere la seguente dicitura:... *di trasmettere all'URP copia del presente atto, completo di allegati, ai fini della comunicazione esterna*;
+
+2.  Tale  dicitura dovrà essere altresì apposta a tutti gli atti amministrativi  che contengono modifiche delle procedure esistenti o delle modalità di erogazione dei servizi.
+
+|
+
+Art. 11 - Distribuzione della modulistica
+---------------------------------------
+1. Tutti i Settori dell’Amministrazione inoltrano all’ U.R.P. la modulistica ad uso degli utenti e dei contribuenti, chiedendo allo stesso di curarne la distribuzione e dando istruzioni circa la loro illustrazione;
+
+2. L’ U.R.P cura la distribuzione della modulistica, messa a disposizione del Comune di Palermo, da parte di altri enti pubblici e da parte dei soggetti che erogano servizi di pubblica utilità sul territorio.
+
+|
+
+Art. 12 - Assistenza alla compilazione
 -------------------------------------
-L'Ufficio centrale si occuperà di pubblicare l'elenco dei beni disponibili sul portale del Comune di Palermo (www.comune.palermo.it). acquisite anche informazioni da parte degli uffici periferici. 
-Detto elenco dovrà contenere i dati catastali necessari ed inoltre sarà aggiornato periodicamente, sulla base dei beni che verranno via acquisiti ai sensi della L. n. 50 del 31.03.2010. 
+L'assistenza  alla  compilazione  della  modulistica  da  parte  degli  utenti e dei contribuenti comunali è assicurata dai responsabili dei servizi interessati.
 
 |
 
-Art. 8 - Adempimenti preventivi all'avviso pubblico
-------------------------------------------------------
-La G. C. procede a confermare ovvero modificare le finalità individuate nell'atto d'indirizzo di cui all'art. 2, in considerazione di mutate valutazioni in ordine all'interesse pubblico da perseguire e al contempo indicherà le priorità di cui al bando dovrà tenere conto in ordine ai seguenti criteri di valutazione delle istanze: 
+Art. 13 - Procedura relativa alle segnalazioni e proposte
+---------------------------------------------------------
+Tutti gli appartenenti alla comunità cittadina, in modo singolo o associato, hanno diritto di segnalare, con ogni mezzo e modalità a disposizione eventuali disservizi circa i tempi, le procedure e le modalità di erogazione dei servizi dell'Amministrazione. 
 
-a) qualità del progetto; 
+L’utenza potrà utilizzare, qualora lo ritenesse opportuno gli appositi moduli prestampati forniti e distribuiti dall’ufficio.
+In ogni caso la segnalazione deve essere compilata in ogni sua parte e, pena l’inammissibilità, non potranno essere accettate istanze se proposte in forma anonima.
 
-b) consistenza dell'intervento che il richiedente è in grado di effettuare sul tessuto sociale della popolazione;
+L'URP comunica formalmente all'interessato l'inizio della fase istruttoria indicando il responsabile del procedimento al quale eventualmente potrà rivolgersi per avere ulteriori informazioni. 
 
-c) disponibilità ad effettuare opere di manutenzione ordinaria; 
+Per l'espletamento dell'attività istruttoria, l'URP acquisisce tutti gli elementi utili alla formulazione della risposta, richiedendo, formalmente, ai Responsabili di settore o dei servizi interessati tutte le informazioni, relazioni o pareri inerenti all'oggetto della segnalazione. 
 
-d) disponibilità a sostenere gli oneri condominiali straordinari; 
+I Responsabili di settore o dei servizi sono tenuti a fornire all'URP, per iscritto via fax o e-mail, entro 15 giorni dalla richiesta, i pareri o le relazioni e tutte le informazioni necessarie, indicando i motivi del disservizio verificatosi e, ove possibile, le concrete soluzioni e i tempi necessari per rimuoverlo. 
 
-e) criteri di volta in volta individuati nell'avviso pubblico; 
+Ricevuta l'informativa richiesta il responsabile del procedimento conclude l'istruttoria entro i successivi 15 giorni e trasmette
+gli atti al Responsabile dell’URP.
 
-|
+Qualora le segnalazioni degli utenti non abbiano avuto risposta nei tempi stabiliti, il Responsabile dell’URP sollecita il Responsabile dell’ufficio interessato.
 
-Art. 9 - Modalità di assegnazione
------------------------------------
-L'Ufficio Centrale d'intesa con il Dirigente del Settore/Servizio interessato, predisporrà un bando pubblico con cadenza almeno annuale, che sarà visionabile sul portale del Comune di Palermo, pubblicato all'Albo Pretorio e presso il Settore preposto, per almeno 30 giorni consecutivi. 
-L'istanza, redatta in carta semplice, sottoscritta dal legale rappresentante dell'Ente e indirizzata al Comune di Palermo (al Settore preposto), dovrà essere corredata dal progetto che l'Associazione intende realizzare presso il bene richiesto e dovrà contenere quanto specificato nel Bando Pubblico. 
-
-Il Bando deve prevedere una procedura comparativa basata su indicatori predeterminati e/o punteggi da attribuire alle istanze ed ai progetti e nello stesso tempo definire in forma compiuta, nell'ambito della finalità delineata, l'attività che si intende promuovere.
-
-Il competente ufficio dell'Amministrazione Comunale, provvederà ad istruire le istanze pervenute, verificando i requisiti ed a richiedere alla Prefettura di Palermo -Ufficio territoriale di Governo- le verifiche in ordine ai requisiti soggettivi di idoneità, sugli Enti e le Associazioni istanti. 
-
-Degli esiti delle verifiche di cui al comma precedente, verrà data tempestiva comunicazione agli istanti.
-L'individuazione e l'assegnazione all'organismo beneficiario avverrà con prowedimento del Sindaco e/o dell'Assessore Delegato. 
-
-|
-
-Art. 10 - Concessione in uso dei beni a terzi - Modalità
-----------------------------------------------------------
-La concessione in uso a terzi, da parte del Dirigente del Settore/Servizio competente, in ordine all'attività da svolgersi, avverrà mediante la stipula di un apposito disciplinare secondo uno schema tipo fornito dall'Ufficio Centrale. Esso prevede oltre agli specifici diritti e agli obblighi delle parti, anche l'oggetto, le finalità, la durata della concessione, le modalità d'uso del bene, le cause di risoluzione del rapporto, le modalità del controllo sulla sua utilizzazione e le modalità del rinnovo. 
-
-Il bene è concesso in uso a titolo gratuito. 
+Presso gli URP, i cittadini e le associazioni possono, altresì, avanzare proposte e suggerimenti per quanto concerne il miglioramento delle modalità di accesso ed erogazione dei servizi. Tali proposte sono inoltrate agli Uffici competenti che provvedono a dare una risposta entro 30 giorni, trasmettendola per conoscenza all'URP. 
