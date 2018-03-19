@@ -40,9 +40,9 @@ Indipendentemente dal tipo di attività che si dovrà svolgere sul bene assegnat
 
 - l'obbligo di esporre nei beni concessi n. 2 targhe di dimensioni cm 30 x cm 60 di metallo color bianco con scritta rossa su una delle quali dovrà essere apposta, oltre allo stemma del Comune di Palermo in alto al centro, anche la seguente dicitura: "Bene, confiscato alla mafia, del patrimonio del Comune di Palermo"; sull'altra dovrà essere indicata la denominazione del concessionario; 
 
-- l'obbligo di restituire i beni concessi nella loro integrità, liberi da persone e da cose, salvo il deperimento d'uso senza, nulla a pretendere in ordine alle migliorie apportate anche in caso di revoca anticipata per qualsiasi causa. 
+- l'obbligo di restituire i beni concessi nella loro integrità, liberi da persone e da cose, salvo il deperimento d'uso senza, nulla a pretendere in ordine alle migliorie apportate anche in caso di revoca anticipata per qualsiasi causa; 
 
-- L'obbligo di norma per ospitare altre associazioni o a partecipare a partenariati con altri Enti per lo svolgimento di attività connesse all'uso del bene concesso a comunicarlo preventivamente per gli opportuni controlli al settore competente a pena di revoca immediata del bene. Solo nel caso in cui l'Associazione abbia ottenuto finanziamenti e sempre che questi siano stati concessi non prima di un anno dall'assegnazione del bene, il Sindaco e/o l'Assessore delegato potrà autorizzare la condivisione del bene subordinandone gli effetti alla verifica del partner da parte della Prefettura. La violazione di anche uno degli obblighi di cui al presente articolo, comporta la revoca della concessione.
+- l'obbligo di norma per ospitare altre associazioni o a partecipare a partenariati con altri Enti per lo svolgimento di attività connesse all'uso del bene concesso a comunicarlo preventivamente per gli opportuni controlli al settore competente a pena di revoca immediata del bene. Solo nel caso in cui l'Associazione abbia ottenuto finanziamenti e sempre che questi siano stati concessi non prima di un anno dall'assegnazione del bene, il Sindaco e/o l'Assessore delegato potrà autorizzare la condivisione del bene subordinandone gli effetti alla verifica del partner da parte della Prefettura. La violazione di anche uno degli obblighi di cui al presente articolo, comporta la revoca della concessione.
 
 |
 
