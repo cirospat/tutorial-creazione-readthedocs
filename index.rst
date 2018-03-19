@@ -11,7 +11,7 @@ Dati
 
    `Elenco dei beni confiscati (D.lgs . 159/2011 art. 48 comma 3) <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=14&asel=70>`_ alla criminalità organizzata, di proprietà del comune di Palermo, pubblicato nella sezione Amministrazione Trasparente / Patrimonio immobiliare.
 
-   `Dataset open data in formato CSV <https://opendata.comune.palermo.it/ws.php?id=1550&fmt=csv>`_ dell'elenco dei beni confiscati alla criminalità organizzata, di proprietà del comune di Palermo.
+   `Dataset open data in formato XML <https://opendata.comune.palermo.it/ws.php?id=1550&fmt=xml>`_ dell'elenco dei beni confiscati alla criminalità organizzata, di proprietà del comune di Palermo.
 
 .. figure:: img/ccbysa.png
 
