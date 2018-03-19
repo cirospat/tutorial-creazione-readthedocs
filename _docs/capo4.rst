@@ -2,13 +2,13 @@
 Capo 4 - Qualità dei servizi
 =====================================
 
-Art. 11 - Monitoraggio dei servizi
+Art. 14 - Monitoraggio dei servizi
 -----------------------------------
 Attraverso l'ascolto dei cittadini l’U.R.P. attua i processi di verifica della qualità dei servizi e di gradimento degli stessi da parte degli utenti individuando quali servizi sottoporre a monitoraggio e per quale periodo.
 
 |
 
-Art. 15 Strumenti di monitoraggio
+Art. 15 - Strumenti di monitoraggio
 --------------------------------
 1. L'attività  di  monitoraggio  è  realizzata dall’URP  mediante  l'utilizzo dei  seguenti strumenti operativi:
 
