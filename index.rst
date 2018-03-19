@@ -4,7 +4,7 @@ Regolamento per il funzionamento del servizio Ufficio Relazioni con il Pubblico 
 
 .. figure:: img/palermo.PNG
 
-Fonte del `Regolamento comunale <https://www.comune.palermo.it/js/server/normative/_24122012094310.pdf>`_, approvato con Deliberazione di Consiglio Comunale n. 335 del 17/09/2008 (*REGOLAMENTO PER IL FUNZIONAMENTO DEL SERVIZIO UFFICIO RELAZIONI CON IL PUBBLICO*).
+Fonte: `Regolamento comunale <https://www.comune.palermo.it/js/server/normative/_24122012094310.pdf>`_, approvato con Deliberazione di Consiglio Comunale n. 335 del 17/09/2008 (*Regolamento per il funzionamento del servizio Ufficio Relazioni con il Pubblico*).
 
 .. figure:: img/urp.PNG
 
