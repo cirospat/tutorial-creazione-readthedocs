@@ -2,21 +2,21 @@
 Capo 5 - Finalità lucrative
 ==================
 
-ART. 14 - LOCAZIONE
+Art. 14 - Locazione
 -------------------
 I beni  che  non  possono  essere  assegnati  né  per uso  istituzionale,  né  per  emergenza  abitativa,  né  per finalità   sociali,  verranno   utilizzati   per   finalità   di  lucro   ed   i  relativi   proventi  dovranno   essere reimpiegati  esclusivamente  per  finalità  sociali  secondo  quanto disposto  dall'art.  5 Comma   15°  della L.  n.  50  del  31.03.2010. 
 Le  somme   introitate  dalla  locazione   dei   suddetti  immobili   dovranno  confluire   in  un   apposito capitolo  da utilizzare,   prioritariamente   per    la   ristrutturazione    dei   beni    confiscati    destinati  all'emergenza  abitativa  e  a  fini  istituzionali  ed  in  secondo  luogo  per  le  specifiche  finalità  sociali  di anno  in anno   determinate  dal Consiglio   Comunalein   sede   di   approvazione   del   bilancio   di  previsione.
 
 |
 
-ART. 15 -  DETERMINAZIONE  DEL  CANONE
+Art. 15 -  Determinazione del canone
 -------------------------------------
 II canone  di  locazione  sarà determinato  in base  al valore  di  mercato da una Commissione  Tecnica  di Valutazione  nominata  con  prowedimento  del  Sindaco  e  sarà  soggetto  nel  corso  del  rapporto  di locazione   ad   aggiornamenti   annuali   sulla  base   di  indici ISTAT, tenendo conto tuttavia delle eventuali  limitazioni  previste  dalle leggi vigenti in materia. 
 Il  canone  dovrà  essere  oggetto di  nuova  determinazione  ad  ogni  scadenza  contrattuale,  laddove consentito  dalle  leggi  in  materia. 
 
 |
 
-ART. 16 - MODALITÀ  DI  ASSEGNAZIONE
+Art. 16 - Modalità di assegnazione
 -------------------------------------
 Il  Settore  competente  procederà  alla  locazione  a  terzi  dei  beni  di  cui  all'art.  Il   previa  selezione pubblica  secondo  le modalità  di  cui  al  presente  regolamento  e secondo quanto  specificato  nel  bando pubblico.
 
@@ -24,40 +24,40 @@ Il  bando  pubblico,  che  potrà  avere  cadenza  annuale,  sarà  visionabile 
 
 |
 
-ART. 17 - ESAME  DELLE OFFERTE  ED  AGGIUDICAZIONE
+Art. 17 - Esame delle offerte ed aggiudicazione
 ------------------------------------------------
 Si  fa  rinvio  all'art.  9  del  vigente  regolamento  relativo  alla  gestione  dei  beni  immobili  di  proprietà comunale  e  succ. mod.  ed  integrazioni.
 
 |
 
-ART. 18 - REQUISITI SOGGETTIVI
+Art. 18 - Requisito soggettivi
 -----------------------------
 Chiunque possa contrattare con le Pubbliche Amministrazioni potrà partecipare all'avviso pubblico. 
-L'aggiudicazione viene subordinata alle verifiche da richiedere, a cura dell'Amministrazione, alla Prefettura di Palermo -Ufficio territoriale di Governo, in ordine ai requisiti soggettivi di idoneità del locatario o in caso di società dei suoi legali rappresentanti. 
+L'aggiudicazione viene subordinata alle verifiche da richiedere, a cura dell'Amministrazione, alla Prefettura di Palermo -Ufficio territoriale di Governo- in ordine ai requisiti soggettivi di idoneità del locatario o in caso di società dei suoi legali rappresentanti. 
 
 |
 
-ART. 19 - PROVVEDIMENTO AUTORIZZATIVO E STIPULA DEL CONTRATTO
+Art. 19 - Provvedimento autorizzativo e stipula del contratto
 -------------------------------------------------------------
 Si fa rinvio all'art. 10 del vigente regolamento relativo alla gestione dei beni immobili di proprietà comunale e succ. mod. ed integrazioni.
 
 |
 
-ART. 20 - DURATA DEL CONTRATTO
+Art. 20 - Durata del contratto
 ------------------------------
 I contratti di locazione avranno la durata minima prevista dalle leggi vigenti in materia; essi si prorogheranno automaticamente solo alla prima scadenza, in mancanza di preavviso da comunicarsi alla controparte nei casi e termini di legge. 
 Per le successive scadenze, l'Ufficio competente provvederà a comunicare formale disdetta entro i termini di legge.
 
 |
 
-ART. 21 - RAPPORTI ESISTENTI
+Art. 21 - Rapporti esistenti
 ----------------------------
 Si fa rinvio all'art. 12 del vigente regolamento relativo alla gestione dei beni immobili di proprietà comunale e succ. mod. ed integrazioni.
 
 |
 
-ART.22 - RISTRUTTURAZIONE
-------------------------
+Art.22 - Ristrutturazione
+-------------------------
 L'onere economico degli interventi di ristrutturazione e/o manutenzione necessari a rendere fruibili gli immobili concessi in locazione è posto a carico del locatario. Il canone determinato come sopra, potrà essere conguagliato con i costi sostenuti per la ristrutturazione del bene.
 A tale scopo il locatario dovrà produrre il progetto per la ristrutturazione del bene ed il relativo computo metrico estimativo che verranno esaminati dalla Commissione Tecnica di Valutazione nominata per la specificità della competenza richiesta, con provvedimento del Sindaco, che esprimerà il proprio parere tecnico in ordine alle opere da eseguire ed alla congruità delle spese.
 Nell'ipotesi di cui al comma precedente, l'Amministrazione Comunale, con apposito prowedimento, procederà alla regolarizzazione contabile delle spese ritenute congrue con il canone di locazione, assumendo contestualmente il relativo impegno di spesa sul pertinente capitolo di bilancio e provvedendo ad iscrivere il correlato accertamento di entrata. 
@@ -66,12 +66,12 @@ L'aggiudicatario non potrà iniziare i lavori se non dopo aver ottenuto le event
 
 |
 
-ART. 23 - DIVIETO DI SUBLOCAZIONE
+Art. 23 - Divieto di sublocazione
 ---------------------------------
 Si fa rinvio all'art. 17 del vigente regolamento relativo alla gestione dei beni immobili di proprietà comunale e succ. mod. ed integrazioni. 
 
 |
 
-ART. 24 - INOSSERVANZA DI DIVIETI
+Art. 24 - Inossevanza di divieti
 ---------------------------------
 Si fa rinvio all'art. 19 del vigente regolamento relativo alla gestione dei beni immobili di proprietà comunale e succ. mod. ed integrazioni. 
