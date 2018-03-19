@@ -2,7 +2,7 @@
 Capo 1 - Ambito di Applicazione
 =================
 
-ART. 1 - OGGETTO
+Art. 1 - Oggetto
 ----------------
 Il Comune di Palermo, in conformità alle finalità della legge 109/96 e successive modifiche ed integrazioni, promuove l'utilizzazione a fini sociali e/o occupazionali dei beni confiscati alla mafia facenti parte del proprio patrimonio, come strumento di sviluppo e di riscatto del territorio.
 
@@ -19,14 +19,14 @@ per:
 
 |
 
-ART. 2 - PRINCIPI
+Art. 2 - Principi
 -----------------
 Il Comune di Palermo, per il perseguimento delle finalità di cui all'art. 1 del presente Regolamento, 
 conforma la propria azione amministrativa ai principi di uguaglianza, imparzialità, pubblicità, buon andamento e trasparenza. 
 
 |
 
-ART. 2 Bis- DESTINAZIONE
+Art. 2 Bis- Destinazione
 ------------------------
 All'inizio di ciascun anno, la Giunta Comunale dovrà emanare un atto di indirizzo che stabilisca le linee guida dell'Amministrazione relativamente alla destinazione degli immobili confiscati alla criminalità organizzata, valutazione estesa anche agli immobili assegnati e/o restituiti al Comune dal beneficiario. 
 
