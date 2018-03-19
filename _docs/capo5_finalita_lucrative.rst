@@ -16,7 +16,7 @@ Il  canone  dovrà  essere  oggetto di  nuova  determinazione  ad  ogni  scadenz
 
 |
 
-ART. 16 - MODALITÀ'  DI  ASSEGNAZIONE
+ART. 16 - MODALITÀ  DI  ASSEGNAZIONE
 -------------------------------------
 Il  Settore  competente  procederà  alla  locazione  a  terzi  dei  beni  di  cui  all'art.  Il   previa  selezione pubblica  secondo  le modalità  di  cui  al  presente  regolamento  e secondo quanto  specificato  nel  bando pubblico.
 
