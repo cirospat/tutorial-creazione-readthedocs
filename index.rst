@@ -17,6 +17,8 @@ Dati
 
 Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it>`_ - Creative Commons,  Attribuzione, Condividi allo stesso modo, versione 4.0 Internazionale.
 
+|
+
 .. figure:: img/beniconfiscati.png
 
    dalla mappa del `portale openregio <https://openregio.it/statistiche/visualizza/beni_destinati/immobili>`_ la visualizzazione degli immobili destinati
