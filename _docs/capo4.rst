@@ -12,10 +12,10 @@ Art. 15 - Strumenti di monitoraggio
 --------------------------------
 1. L'attività  di  monitoraggio  è  realizzata dall’URP  mediante  l'utilizzo dei  seguenti strumenti operativi:
 
-a) procedura segnalazione e proposte di cui al precedente art. 11;
+   a) procedura segnalazione e proposte di cui al precedente art. 11;
 
-b) questionari; 
+   b) questionari; 
 
-c) indagini articolate.
+   c) indagini articolate.
 
 2.  L.'U.R.P.  trasmette  i  risultati  dei  processi  di  verifica  al  Direttore  Generale  al Sindaco, all’Assessore Delegato, al Presidente del Consiglio e a chiunque ne faccia richiesta.
