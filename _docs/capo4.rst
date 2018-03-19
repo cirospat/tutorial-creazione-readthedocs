@@ -18,4 +18,4 @@ Art. 15 - Strumenti di monitoraggio
 
    c) indagini articolate.
 
-2.  L.'U.R.P.  trasmette  i  risultati  dei  processi  di  verifica  al  Direttore  Generale  al Sindaco, all’Assessore Delegato, al Presidente del Consiglio e a chiunque ne faccia richiesta.
+2.  L'U.R.P.  trasmette  i  risultati  dei  processi  di  verifica  al  Direttore  Generale  al Sindaco, all’Assessore Delegato, al Presidente del Consiglio e a chiunque ne faccia richiesta.
