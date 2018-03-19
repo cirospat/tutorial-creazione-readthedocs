@@ -14,10 +14,6 @@ Fonte del `Regolamento comunale <https://www.comune.palermo.it/js/server/normati
    
    `Carta dei Servizi comunali di Palermo <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72>`_
 
-+=======================================================+=======================+======================================================================================================+
-| `Portale <https://www.comune.palermo.it/urp.php>`__   | urp@comune.palermo.it | `Carta servizi <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72>`__     |
-+-------------------------------------------------------+-----------------------+------------------------------------------------------------------------------------------------------+
-
 
 .. figure:: img/ccbysa.png
 
