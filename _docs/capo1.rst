@@ -44,9 +44,7 @@ f) svolge attività di informazione sui procedimenti comunali e sulle relative f
 
 g) promuove l’immagine dell’amministrazione, conferendo conoscenza, visibilità e rilevanza, al Comune di Palermo, nel corso di manifestazioni ed eventi sia a carattere nazionale che internazionale;
 
-h) individua, divulga e vigila sull’attuazione delle linee guida per una omogenea e univoca divulgazione dell’informazione a favore del cittadino.
-Collabora, in funzione e nel rispetto della costituita autonomia amministrativa e operativa, con gli U.R.P. presenti e autonomamente
-organizzati presso le 8 circoscrizioni, volta all’individuazione e allo sviluppo di procedure standard nello svolgimento delle attività di comunicazione e trasparenza al servizio del cittadino;
+h) individua, divulga e vigila sull’attuazione delle linee guida per una omogenea e univoca divulgazione dell’informazione a favore del cittadino. Collabora, in funzione e nel rispetto della costituita autonomia amministrativa e operativa, con gli U.R.P. presenti e autonomamente organizzati presso le 8 circoscrizioni, volta all’individuazione e allo sviluppo di procedure standard nello svolgimento delle attività di comunicazione e trasparenza al servizio del cittadino;
 
 i) Organizza la customer sadisfaction.
 
