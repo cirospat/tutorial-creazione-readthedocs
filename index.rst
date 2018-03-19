@@ -6,7 +6,7 @@ Regolamento per la destinazione e l'utilizzo di beni confiscati alla criminalit�
 
 Fonte del `Regolamento <https://www.comune.palermo.it/js/server/normative/_24122012094335.pdf>`_
 
-**TESTO EMENDATO**
+`Elenco dei beni confiscati (D.lgs . 159/2011 art. 48 comma 3) <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=14&asel=70>`_ alla criminalità organizzata di proprietà del comune di Palermo, pubblicato nella sezione Amministrazione Trasparente / Patrimonio immobiliare.
 
 `Dataset open data in formato CSV <https://opendata.comune.palermo.it/ws.php?id=1550&fmt=csv>`_ dell'elenco dei beni confiscati alla criminalità organizzata di proprietà del comune di Palermo.
 
@@ -15,8 +15,8 @@ Fonte del `Regolamento <https://www.comune.palermo.it/js/server/normative/_24122
 Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it>`_ - Creative Commons,  Attribuzione, Condividi allo stesso modo, versione 4.0 Internazionale.
 
 
-Contenuti
-=========
+Contenuti (testo emendato)
+==========================
 
 .. toctree::
 
