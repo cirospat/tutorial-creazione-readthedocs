@@ -58,7 +58,7 @@ L’URP, nella sua veste di rappresentante dell’Amministrazione, propone e man
 
 |
 
-Art.5 Organizzazione degli spazi e degli orari di apertura dell’U.R.P.
+Art.5 - Organizzazione degli spazi e degli orari di apertura dell’U.R.P.
 ----------------------------------------------------------------------
 1. L’U.R.P è collocato in locali facilmente accessibili, raggiungibili agevolmente e liberi da barriere architettoniche.
 
