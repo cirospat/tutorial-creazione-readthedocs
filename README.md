@@ -8,7 +8,7 @@ Link
 ----
 
 Link alla [documentazione compilata su Docs Italia](https://github.com/italia/docs-italia-starter-kit/tree/master/repo-documento).
-----
+
 
 Licenza
 ----
