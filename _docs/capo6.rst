@@ -16,15 +16,16 @@ d)  conoscenze di base giuridiche e normative;
 
 e)  conoscenza di base della lingua inglese.
 
+
 La formazione continua e l’aggiornamento del personale devono assicurare:
 
 a) conoscenze relative ai processi di semplificazione ed alle innovazioni procedurali introdotte nell’amministrazione comunale;
 
-b) conoscenze relative alle procedure in uso nelle altre amministrazioni; 
+b) conoscenze relative alle procedure in uso nelle altre amministrazioni;
 
-c) conoscenze di base delle dinamiche relazionali; 
+c) conoscenze di base delle dinamiche relazionali;
 
-d) conoscenza di strumenti e tecniche per la costruzione di supporti di comunicazione (cartacei, video, telematici); 
+d) conoscenza di strumenti e tecniche per la costruzione di supporti di comunicazione (cartacei, video, telematici);
 
 e) conoscenza di base di strumenti e tecniche di monitoraggio e ricerca sociale. E’ inoltre previsto e adeguatamente formata almeno
 una unità di personale in grado di interpretare il linguaggio dei segni (LIS), in cui almeno un sordomuto L. 68/99 nonché l’impiego dellefigure equipollenti al centralinista telefonico, L. 113/85, L. n. 60/76. 
