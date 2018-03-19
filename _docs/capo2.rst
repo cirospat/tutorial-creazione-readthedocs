@@ -18,8 +18,7 @@ e) coordinamento  delle  attività necessarie alla partecipazione dell'Ente alle
 
 f) monitoraggio sistematico dei bisogni ed i livelli di soddisfazione dei cittadini verso i servizi dell’Amministrazione e propone adeguamenti e correttivi per migliorare la qualità delle prestazioni;
 
-g) curare la registrazione e il monitoraggio dei reclami, delle segnalazioni e delle proposte presentate dai cittadini, smistandole
-agli uffici competenti;
+g) curare la registrazione e il monitoraggio dei reclami, delle segnalazioni e delle proposte presentate dai cittadini, smistandole agli uffici competenti;
 
 h) progettazione di nuovi servizi erogati dall'Ente per via telematica;
 
