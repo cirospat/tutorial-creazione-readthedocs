@@ -4,7 +4,7 @@ Regolamento per la destinazione e l'utilizzo di beni confiscati alla criminalit√
 
 .. figure:: img/palermo.PNG
 
-Fonte del `Regolamento comunale <https://www.comune.palermo.it/js/server/normative/_24122012094335.pdf>`_
+Fonte del `Regolamento comunale <https://www.comune.palermo.it/js/server/normative/_24122012094335.pdf>`_, approvato con Deliberazione di Consiglio Comunale n.631 del 17/11/2011 (*REGOLAMENTO PER LA DESTINAZIONE E L'UTILIZZO DI BENI CONFISCATI ALLA CRIMINALITA' ORGANIZZATA DI PROPRIETA' DEL COMUNE DI PALERMO*).
 
 Dati
 ------
