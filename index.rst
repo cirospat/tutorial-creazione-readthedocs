@@ -1,5 +1,5 @@
 ####################
-Regolamento per la destinazione e l'utilizzo di beni confiscati alla criminalità organizzata di proprietà del Comune di Palermo.
+Regolamento per il funzionamento del servizio Ufficio Relazioni con il Pubblico (URP) del Comune di Palermo.
 ####################
 
 .. figure:: img/palermo.PNG
