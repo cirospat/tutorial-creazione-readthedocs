@@ -8,7 +8,7 @@ Fonte del `Regolamento comunale <https://www.comune.palermo.it/js/server/normati
 
 .. figure:: img/urp.PNG
 
-Portale `Ufficio Relazioni con il Pubblico <https://www.comune.palermo.it/urp.php>`_ del Comune di Palermo.
+Portale `Ufficio Relazioni con il Pubblico <https://www.comune.palermo.it/urp.php>`_ del Comune di Palermo. Email U.R.P.: urp@comune.palermo.it
 
 .. figure:: img/ccbysa.png
 
