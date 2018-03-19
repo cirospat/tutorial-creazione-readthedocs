@@ -1,7 +1,7 @@
-Regolamento dei beni confiscati del comune Palermo
+Regolamento per il funzionamento del servizio Ufficio Relazioni con il Pubblico (URP) del Comune di Palermo
 ==================================================
 
-Questo repository contiene la documentazione relativa al [Regolamento dei beni confiscati del comune di Palermo](http://regolamento-beni-confiscati-comune-palermo.readthedocs.io). 
+Questo repository contiene la documentazione relativa al [Regolamento per il funzionamento del servizio Ufficio Relazioni con il Pubblico (URP) del Comune di Palermo](http://regolamento-funzionamento-urp-comune-palermo.readthedocs.io). 
 
 
 Link
