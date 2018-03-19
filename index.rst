@@ -28,4 +28,3 @@ Testo del Regolamento
    _docs/capo5.rst
    _docs/capo6.rst
    _docs/capo7.rst
-   _docs/capo8.rst
