@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Regolamento per destinazione e utilizzo di beni confiscati di proprietà comune di Palermo"
+settings_project_name = "Regolamento sui beni confiscati del comune di Palermo"
 settings_copyright_copyleft = 'comune Palermo'
 settings_editor_name = 'Ciro Spataro'
 settings_doc_version = 'version: latest'
