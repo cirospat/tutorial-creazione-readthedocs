@@ -16,7 +16,7 @@ Fonte del `Regolamento comunale <https://www.comune.palermo.it/js/server/normati
 
 
 +=============================================================================================================+=====================================+============================================================================================================================+
-| Portale `Ufficio Relazioni con il Pubblico <https://www.comune.palermo.it/urp.php>`_ del Comune di Palermo  | Email U.R.P.: urp@comune.palermo.it | `Carta dei Servizi comunali di Palermo <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72>`_    |
+| Portale `Ufficio Relazioni con il Pubblico <https://www.comune.palermo.it/urp.php>`_ del Comune di Palermo  | Email U.R.P.: urp@comune.palermo.it | `Carta dei Servizi comunali di Palermo <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72>`_     |
 +=============================================================================================================+=====================================+============================================================================================================================+
 
 
