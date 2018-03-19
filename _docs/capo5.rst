@@ -4,6 +4,7 @@ Capo 5 - Semplificazione del linguaggio e della modulistica
 
 Art. 16 - Modulistica e comunicazioni in forma cartacea dell'Ente
 -----------------------------------------------------------------
+
 1. Nella redazione della modulistica, ad uso degli utenti e dei contribuenti, e delle comunicazioni  cartacee  dell'Ente  deve  essere 
 adottato  un  linguaggio  chiaro  e comprensibile.   I   moduli   devono   essere   completi di  tutte le informazioni necessarie alla loro corretta compilazione;
 
