@@ -1,8 +1,8 @@
 document:
-  name: Regolamento funzionamento URP comune Palermo
+  name: Tutorial pubblicazione readthedocs su docsitalia
   description: |
-    Regolamento funzionamento URP comune Palermo.    
+    Tutorial pubblicazione readthedocs su docsitalia.    
   tags:
-    - URP
-    - regolamento
-    - comune Palermo
+    - readthedocs
+    - docsitalia
+    - pubblicazione
