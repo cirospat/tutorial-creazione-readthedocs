@@ -1,7 +1,7 @@
 Tutorial per la creazione di documenti visualizzabili su Read the Docs
 ==================================================
 
-Questo repository contiene la documentazione relativa al [Tutorial per la creazione di documenti visualizzabili su Read the Docs](http://tutorial-creazione-readthedocs.readthedocs.io). 
+Questo repository contiene la documentazione relativa al [Tutorial per la creazione di documenti visualizzabili su Read the Docs](http://come-creare-guida.readthedocs.io). 
 
 Chi
 ----
