@@ -1,12 +1,9 @@
 ####################
-Regolamento per il funzionamento del servizio Ufficio Relazioni con il Pubblico (URP) del Comune di Palermo.
+Tutorial: come abbiamo creato un "Read the Docs" per pubblicare documenti pubblici su Docs Italia
 ####################
 
-.. figure:: img/palermo.PNG
+.. figure:: img/tutorial.PNG
 
-
-
-.. figure:: 
 
 +-------------------------------------------------------------------------------------------------------------------------------+
 | **Informazioni ulteriori**                                                                                                    |
