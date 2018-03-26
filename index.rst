@@ -2,9 +2,12 @@
 Tutorial: come abbiamo creato un "Read the Docs" per pubblicare documenti pubblici su Docs Italia
 ####################
 
+|
+
 .. figure:: img/......png
 
 
+|
 
 **Licenza**
 
