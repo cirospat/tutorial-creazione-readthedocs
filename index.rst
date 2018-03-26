@@ -1,5 +1,5 @@
 ####################
-Tutorial: come abbiamo creato un "Read the Docs" per pubblicare documenti pubblici su Docs Italia
+Come abbiamo creato un "Read the Docs" per pubblicare documenti pubblici su Docs Italia
 ####################
 
 Che cosa è questo tutorial
