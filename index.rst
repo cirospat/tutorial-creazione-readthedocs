@@ -26,7 +26,7 @@ Non è necessario essere sviluppatori per usare le procedure che spieghiamo in q
 
 - una parte destinata **a chi non è molto addentro ai linguaggi di programmazione e di versione** (curata da Ciro Spataro) = **il capitolo 1**; 
 - una parte per **chi ha maggiori competenze digitali** (a cura di Pablo Persico) = **il capitolo 3**;
-- una parte in comune alle precedenti, abbastanza semplice che consiste nella creazione del nome del progetto da pubblicare sulla piattaforma di Read the Docs, che si svolge solo dopo aver terminato la compilazione del progetto su Github = **il capitolo 2**.
+- una parte in comune alle precedenti, abbastanza semplice che consiste nella creazione del nome del progetto da pubblicare sulla piattaforma di Read the Docs, che si svolge solo dopo aver terminato la compilazione del progetto su Github (curata da Ciro Spataro e Pablo Persico) = **il capitolo 2**.
 
 Ciro Spataro e Pablo Persico hanno seguito due strade diverse (capitolo 1 e capitolo 3) per raggiungere lo stesso obiettivo di pubblicazione di documenti su Read the Docs.
 In tal manera vogliamo fare in modo da coprire un'ampia rappresentanza (in fatto di competenze digitali) dei dipendenti e dirigenti pubblici. 
