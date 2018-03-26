@@ -49,7 +49,7 @@ Perchè questo tutorial
 
 Il Team Trasformazione Digitale dell'AGID ha creato `"Guida a Docs Italia" <http://guida-docs-italia.readthedocs.io/it/latest/>`_ per consentire e agevolare le pubbliche amministrazioni ad usare il format di "Read The Docs" al fine di pubblicare atti, documenti del tipo: Decreti, Norme, Regolamenti, Linee Guida, Piani, Deliberazioni, Determinazioni, ecc. 
 
-Dopo il Team Trasformazione Digitale siamo partiti in 3 Pubbliche Amministrazioni a creare documenti su Read the Docs http://bit.do/readthedocs-entipubblici e siamo sicuri che questo formato sarà adottato da tanti altri soggetti che lavorano in altre PA. Quindi vogliamo fare da apripista, stimolo e anche supporto. Siamo a disposizione per aiutarvi, con piacere,  partendo proprio da questo tutorial.
+Dopo il Team Trasformazione Digitale siamo partiti in `3 Pubbliche Amministrazioni a creare documenti su Read the Docs <http://bit.do/readthedocs-entipubblici>`_ e siamo sicuri che questo formato sarà adottato da tanti altri soggetti che lavorano in altre PA. Quindi vogliamo fare da apripista, stimolo e anche supporto. Siamo a disposizione per aiutarvi, con piacere,  partendo proprio da questo tutorial.
 
 L'obiettivo prioritario è far in modo da diminuire le pubblicazioni online in formato PDF, i formati più usati nei siti web della PA ma che non consentono una leggibilità nei dispositivi mobili (viene molto difficile e non è affatto pratico) e che non permettono un agevole ricerca di parole nel testo.
 Il formato Read the Docs soddisfa i suddetti requisiti.
