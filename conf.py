@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Tutorial pubblicazione Read the Docs su Docs Italia"
+settings_project_name = "Tutorial pubblicazione Read the Docs su DocsItalia"
 settings_copyright_copyleft = 'comune Palermo'
 settings_editor_name = 'Ciro Spataro'
 settings_doc_version = 'version: latest'
