@@ -2,12 +2,17 @@
 Tutorial: come abbiamo creato un "Read the Docs" per pubblicare documenti pubblici su Docs Italia
 ####################
 
+**Che cosa è questo tutorial**
+
+Questo tutorial ha l'obiettivo di spiegare due modalità per creare un Documento da visualizzare nella piattaforma Read the Docs secondo le specifiche di Docs Italia del Team Trasformazione Digitale dell'AGID (Agenzia per l'Italia Digitale).
+
+
+
 |
 
 .. figure:: img/docs-.png
 
    immagine rilasciata con licenza CC0 
-
 
 |
 
