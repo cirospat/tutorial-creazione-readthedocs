@@ -1,5 +1,5 @@
 ==================================
-Capitolo 3 - 
+Capitolo 3 - Modalità Command Line (lavorando offline)
 ==================================
 
 
