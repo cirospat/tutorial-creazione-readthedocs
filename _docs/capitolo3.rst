@@ -4,7 +4,7 @@ Capitolo 3 -
 
 
 
-.. figure:: img/img11.png
+.. figure:: /img/img11.png
 
 
 
