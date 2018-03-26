@@ -4,7 +4,7 @@ Tutorial: come abbiamo creato un "Read the Docs" per pubblicare documenti pubbli
 
 |
 
-.. figure:: img/docs.png
+.. figure:: img/docs-.png
 
    immagine rilasciata con licenza CC0 
 
