@@ -40,6 +40,8 @@ Un tutorial a cura di
 - Pablo Persico (Città Metropolitana di Napoli, OpenDataSicilia), email: ppersico@cittametropolitana.na.it
 - Andrea Borruso (OnData, OpenDataSicilia), supervisione e "spingitore di tutorial", email: aborruso@gmail.com 
 
+.. figure:: img/ods.png
+
 |
 
 Perchè questo tutorial
