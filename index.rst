@@ -31,4 +31,7 @@ Contenuti del Tutorial
    _docs/capitolo1.rst
    _docs/capitolo2.rst
    _docs/capitolo3.rst
-   
+
+
+.. raw:: html
+   :file: disqus.html
