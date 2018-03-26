@@ -74,13 +74,14 @@ Attività propedeutica all'uso di Read the Docs
 
 La `Guida di Docs italia <http://guida-docs-italia.readthedocs.io/it/latest/index/come-partecipare.html#organizzazione-su-github>`_ consiglia la creazione di una organizzazione su GitHub. 
 
-------
+|
 
-**Licenza**
-
-Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it>`_ - Creative Commons,  Attribuzione, Condividi allo stesso modo versione 4.0 Internazionale.
+Licenza
+-------
 
 .. figure:: img/ccbysa.png
+
+Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it>`_ - Creative Commons,  Attribuzione, Condividi allo stesso modo versione 4.0 Internazionale.
 
 |
 
