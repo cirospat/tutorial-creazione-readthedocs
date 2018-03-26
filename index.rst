@@ -54,7 +54,10 @@ Il formato Read the Docs soddisfa i suddetti requisiti.
 
 Inoltre usare "Read the Docs" consente un facile riuso dei contenuti da parte di quelle pubbliche amministrazioni che ne manifestano interesse. 
 
-**Un tutorial di sperimentazione**
+|
+
+Un tutorial di sperimentazione
+------------------------------
 
 Questo lavoro vuole essere soprattutto sperimentazione sulle modalità con le quali si fanno cose negli uffici pubblici, per migliorare la fruizione dei documenti online. 
 
@@ -75,7 +78,7 @@ La `Guida di Docs italia <http://guida-docs-italia.readthedocs.io/it/latest/inde
 
 **Licenza**
 
-Quest'opera è distribuita con `Licenza CC BY SA 4.0 - Creative Commons,  Attribuzione, Condividi allo stesso modo versione 4.0 Internazionale.
+Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it>`_ - Creative Commons,  Attribuzione, Condividi allo stesso modo versione 4.0 Internazionale.
 
 .. figure:: img/ccbysa.png
 
