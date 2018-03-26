@@ -36,8 +36,8 @@ In tal manera vogliamo fare in modo da coprire un'ampia rappresentanza (in fatto
 Un tutorial a cura di
 ----------------------
 
-- Ciro Spataro (Comune di Palermo), email: c.spataro@comune.palermo.it 
-- Pablo Persico (Città Metropolitana di Napoli), email: ppersico@cittametropolitana.na.it
+- Ciro Spataro (Comune di Palermo, OpenDataSicilia), email: c.spataro@comune.palermo.it 
+- Pablo Persico (Città Metropolitana di Napoli, OpenDataSicilia), email: ppersico@cittametropolitana.na.it
 - Andrea Borruso (OnData, OpenDataSicilia), supervisione e "spingitore di tutorial", email: aborruso@gmail.com 
 
 |
