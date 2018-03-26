@@ -13,7 +13,7 @@ Questo tutorial ha l'obiettivo di spiegare due modalità per creare un Documento
 
 .. figure:: img/1.PNG
 
-   screenshoot delle `Linee guida open data del Comune di Palermo realizzate su Read the Docs <http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/>`_
+   immagine dell'home page delle `Linee guida open data del Comune di Palermo realizzate su Read the Docs <http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/>`_
 
 |
 
