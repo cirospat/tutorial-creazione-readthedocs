@@ -1,7 +1,11 @@
-Regolamento per il funzionamento del servizio Ufficio Relazioni con il Pubblico (URP) del Comune di Palermo
+Tutorial per la creazione di documenti visualizzabili su Read the Docs
 ==================================================
 
-Questo repository contiene la documentazione relativa al [Regolamento per il funzionamento del servizio Ufficio Relazioni con il Pubblico (URP) del Comune di Palermo](http://regolamento-funzionamento-urp-comune-palermo.readthedocs.io). 
+Questo repository contiene la documentazione relativa al [Tutorial per la creazione di documenti visualizzabili su Read the Docs](http://tutorial-creazione-readthedocs.readthedocs.io). 
+
+Chi
+----
+Pablo Persico, Ciro Spataro e Andrea Borruso hanno creato questo tutorial
 
 
 Link
