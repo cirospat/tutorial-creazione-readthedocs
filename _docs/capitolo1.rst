@@ -1,9 +1,9 @@
 =================
-Capitolo 1 - 
+Capitolo 1 - Caricare il progetto editoriale su Github (lavorando online su Github)
 =================
 
-Caricare il progetto editoriale su Github (lavorando online su Github)
----------------------------------------------------------------------
+
+
 
 
 
