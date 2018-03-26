@@ -9,7 +9,7 @@ Che cosa è questo tutorial
 
    immagine rilasciata con licenza CC0 
 
-Questo tutorial ha l'obiettivo di spiegare due modalità per creare un Documento da visualizzare nella piattaforma `Read the Docs <http://readthedocs.io/>`_, secondo le specifiche della `Guida "Docs Italia" del Team Trasformazione Digitale dell'AgID (Agenzia per l'Italia Digitale) <http://guida-docs-italia.readthedocs.io/it/latest/>`_.
+Questo tutorial ha l'obiettivo di illustrare due modalità per creare un "Documento" da visualizzare nella piattaforma `Read the Docs <http://readthedocs.io/>`_, secondo le specifiche della `Guida "Docs Italia" del Team Trasformazione Digitale dell'AgID (Agenzia per l'Italia Digitale) <http://guida-docs-italia.readthedocs.io/it/latest/>`_.
 
 .. figure:: img/1.PNG
 
@@ -61,14 +61,14 @@ Inoltre usare "Read the Docs" consente un facile riuso dei contenuti da parte di
 Un tutorial di sperimentazione
 ------------------------------
 
-Questo lavoro vuole essere soprattutto sperimentazione sulle modalità con le quali si fanno cose negli uffici pubblici, per migliorare la fruizione dei documenti online. 
+Questo lavoro vuole essere soprattutto sperimentazione sulle modalità con le quali si fanno cose negli uffici pubblici, pensando a  migliorare la fruizione dei documenti online. 
 
-Un punto di partenza aperto a contributi esterni, un documento che si possa sviluppare anche grazie alle esperienze di altre PA che vorranno adottare Read The Docs come strumento per diffondere una cultura di diffusione e condivisione della documentazione della PA anche con finalità di riutilizzo. 
-Per questo ad ogni pagina del tutorial abbiamo pensato di inserire una sezione per i commenti grazie all'uso del servizio fornito da Disqus. 
+Un punto di partenza **aperto a contributi esterni**, un documento che possa svilupparsi anche grazie alle esperienze di soggetti di altre PA che vorranno adottare Read The Docs come strumento per diffondere cultura della documentazione della PA anche con finalità di riutilizzo e condivisione. 
+Per questo motivo ad ogni pagina del tutorial abbiamo pensato di inserire una sezione per riveceve i commenti, grazie all'uso del servizio fornito da `Disqus <https://disqus.com/>`_. 
 
 |
 
-Attività propedeutica all'uso di Read the Docs
+Attività propedeutica alla pubblicazione su Read the Docs
 ----------------------------------------------
 
 - avere un account `GitHub <https://github.com>`_;
@@ -83,7 +83,7 @@ Licenza
 
 .. figure:: img/ccbysa.png
 
-Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it>`_ - Creative Commons,  Attribuzione, Condividi allo stesso modo versione 4.0 Internazionale.
+Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it>`_ - Creative Commons,  Attribuzione, Condividi allo stesso modo, Versione 4.0 Internazionale.
 
 ------
 
