@@ -51,7 +51,7 @@ Nel progetto Github abbiamo
 
 :: 
 
-   ``.. figure:: _img/immagine1.png``
+   .. figure:: _img/immagine1.png
 | Quando si vuole inserire un'immagine, è importante dopo aver scritto
 | ``.. figure:: _img/immagine1.png``
 | andare due volte a capo
