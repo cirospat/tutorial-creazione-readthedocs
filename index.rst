@@ -9,7 +9,13 @@ Che cosa è questo tutorial
 
    immagine rilasciata con licenza CC0 
 
-Questo tutorial ha l'obiettivo di illustrare due modalità per creare un "Documento" da visualizzare nella piattaforma `Read the Docs <http://readthedocs.io/>`_, secondo le specifiche della `Guida "Docs Italia" del Team Trasformazione Digitale dell'AgID (Agenzia per l'Italia Digitale) <http://guida-docs-italia.readthedocs.io/it/latest/>`_.
+Questo tutorial ha l'obiettivo di spiegare due modalità per la creazione di  un Documento da visualizzare tramite la piattaforma `Read the Docs <http://readthedocs.io/>`_, secondo le specifiche della `Guida "Docs Italia" del Team Trasformazione Digitale dell'AgID (Agenzia per l'Italia Digitale) <http://guida-docs-italia.readthedocs.io/it/latest/>`_.
+
+Read The Docs è un servizio online gratuito che semplifica la gestione della documentazione relativa ad una pubblicazione, e consente di automatizzare:
+   - la creazione dei documenti, 
+   - il controllo delle versioni della pubblicazione che possono essere aggiornate nel tempo,
+   - l'hosting dei singoli documenti pubblicati.
+
 
 .. figure:: img/1.PNG
 
@@ -20,16 +26,16 @@ Questo tutorial ha l'obiettivo di illustrare due modalità per creare un "Docume
 A chi si rivolge il tutorial
 ----------------------------
 
-Il tutorial si rivolge principalmente ai dipendenti e dirigenti di ogni tipologia di Pubblica Amministrazione in Italia, soprattutto a chi è responsabile della pubblicazione di documenti pubblici online. A chi si occupa di comunicazione istituzionale, anche. 
+Il tutorial si rivolge principalmente ai dipendenti e dirigenti di ogni tipologia di Pubblica Amministrazione in Italia, soprattutto a chi è responsabile della pubblicazione di documenti pubblici online, regolamenti, manuali e a chi si occupa di comunicazione istituzionale. 
 
-Non è necessario essere sviluppatori per usare le procedure che spieghiamo in questo tutorial e infatti abbiamo strutturato questo documento in due parti:
+Non è necessario essere sviluppatori per usare le procedure che spieghiamo in questo tutorial e infatti abbiamo strutturato questo documento in più parti:
 
-- una parte destinata **a chi non è molto addentro ai linguaggi di programmazione e di versione** (curata da Ciro Spataro) = **il capitolo 1**; 
-- una parte per **chi ha maggiori competenze digitali** (a cura di Pablo Persico) = **il capitolo 3**;
-- una parte in comune alle precedenti, abbastanza semplice che consiste nella creazione del nome del progetto da pubblicare sulla piattaforma di Read the Docs, che si svolge solo dopo aver terminato la compilazione del progetto su Github (curata da Ciro Spataro e Pablo Persico) = **il capitolo 2**.
+- una destinata a chi non è molto addentro ai linguaggi di programmazione e ai sistemi di versionamento (curata da Ciro Spataro) = **il capitolo 1**; 
+- un’altra per chi ha maggiori competenze digitali (a cura di Pablo Persico) = **il capitolo 3**;
+- infine una in comune alle precedenti, abbastanza semplice, che consiste nella creazione del nome del progetto da pubblicare sulla piattaforma di Read the Docs, che si svolge solo dopo aver terminato la compilazione del progetto su Github = **il capitolo 2**.
 
 Ciro Spataro e Pablo Persico hanno seguito due strade diverse (capitolo 1 e capitolo 3) per raggiungere lo stesso obiettivo di pubblicazione di documenti su Read the Docs.
-In tal manera vogliamo fare in modo da coprire un'ampia rappresentanza (in fatto di competenze digitali) dei dipendenti e dirigenti pubblici. 
+In tal manera verrà coperta un'ampia rappresentanza (in fatto di competenze digitali) dei dipendenti e dirigenti pubblici. 
 
 |
 
@@ -38,23 +44,23 @@ Un tutorial a cura di
 
 - Ciro Spataro (Comune di Palermo, OpenDataSicilia), email: c.spataro@comune.palermo.it 
 - Pablo Persico (Città Metropolitana di Napoli, OpenDataSicilia), email: ppersico@cittametropolitana.na.it
-- Andrea Borruso (OnData, OpenDataSicilia), supervisione e "spingitore di tutorial", email: aborruso@gmail.com 
+- Andrea Borruso (OnData, OpenDataSicilia), supervisione e "spingitore di tutorial", email: andrea.borruso@ondata.it
 
 .. figure:: img/ods-small.png
 
 |
 
-Perchè questo tutorial
+Perché questo tutorial
 -----------------------
 
 Il Team Trasformazione Digitale dell'AGID ha creato `"Guida a Docs Italia" <http://guida-docs-italia.readthedocs.io/it/latest/>`_ per consentire e agevolare le pubbliche amministrazioni ad usare il format di "Read The Docs" al fine di pubblicare atti, documenti del tipo: Decreti, Norme, Regolamenti, Linee Guida, Piani, Deliberazioni, Determinazioni, ecc. 
 
-Dopo il Team Trasformazione Digitale siamo partiti in `3 Pubbliche Amministrazioni a creare documenti su Read the Docs <http://bit.do/readthedocs-entipubblici>`_ e siamo sicuri che questo formato sarà adottato da tanti altri soggetti che lavorano in altre PA. Quindi vogliamo fare da apripista, stimolo e anche supporto. Siamo a disposizione per aiutarvi, con piacere,  partendo proprio da questo tutorial.
+DDopo questo lavoro del Team Trasformazione Digitale, siamo partiti in `3 Pubbliche Amministrazioni a creare documenti su Read the Docs <http://bit.do/readthedocs-entipubblici>`_ e siamo sicuri che questo formato sarà adottato da tanti altri soggetti che lavorano in altre PA. Vogliamo fare da apripista, stimolo e anche supporto. Siamo a disposizione per aiutarvi, con piacere,  partendo proprio da questo tutorial.
 
-L'obiettivo prioritario è far in modo da diminuire le pubblicazioni online in formato PDF, i formati più usati nei siti web della PA ma che non consentono una leggibilità nei dispositivi mobili (viene molto difficile e non è affatto pratico) e che non permettono un agevole ricerca di parole nel testo.
+L'obiettivo prioritario è far in modo di diminuire le pubblicazioni online in formato PDF, il formato più usato nei siti web della PA, ma che non consente una leggibilità nei dispositivi mobili (viene molto difficile e non è affatto pratico) e che non permette un’agevole ricerca di parole nel testo.
 Il formato Read the Docs soddisfa i suddetti requisiti.
 
-Inoltre usare "Read the Docs" consente un facile riuso dei contenuti da parte di quelle pubbliche amministrazioni che ne manifestano interesse. 
+Inoltre usare "Read the Docs" consente un facile riuso dei contenuti da parte di quelle pubbliche amministrazioni che ne manifestano interesse
 
 |
 
