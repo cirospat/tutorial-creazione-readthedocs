@@ -48,11 +48,14 @@ Nel progetto Github abbiamo
 - ``_docs`` una directory che contiene le pagine del nostro documento, cioè i contenuti veri e propri, che possono essere: testo, immagini, tabelle. Questa directory contiene file di tipo **RST** (reStructuredText). Nel paragrafo che segue approfondiremo questo tipo di file;
 
 - ``_img``: una la directory dove andare a caricare le immagini che si vuole vengano visualizzate poi sulle pagine html di Read the Docs. E' importante nel testo dei file RST fissare le immagini (dentro il testo) usando la seguente sintassi:
-   ``.. figure:: _img/immagine1.png``
-   Quando si vuole inserire un'immagine è importante dopo aver scritto
+
+:: 
+
+``.. figure:: _img/immagine1.png``
+   Quando si vuole inserire un'immagine, è importante dopo aver scritto
    ``.. figure:: _img/immagine1.png``
    andare due volte a capo
-   e lasciare tre spazi vuoti prima di scrivere il testo inserire il testo
+   e lasciare tre spazi vuoti prima di inserire il testo
    
 |
 
@@ -77,7 +80,10 @@ Subtitle
 *testo in italico* per il testo in italico
 
 ``.. figure:: _image/immagine1.png`` per inserire un'immagine 
-(il titolo file immagine è ad esempio ``immagine1.png`` che dovrà essere messa caricato in una directory denominata ``img``, dentro la directory ``_docs``)
+
+:: 
+
+   (il titolo file immagine è ad esempio ``immagine1.png`` che dovrà essere messa caricato in una directory denominata ``img``, dentro la directory ``_docs``)
 
 
 
