@@ -68,7 +68,7 @@ Procedere alla modifica dei file e alla creazione del documento con i relativi f
 
 - `"Nel progetto Github abbiamo" <http://come-creare-guida.readthedocs.io/it/latest/_docs/capitolo1.html#nel-progetto-github-abbiamo>`_,
 
-- `"Nota sui file RST" <http://come-creare-guida.readthedocs.io/it/latest/_docs/capitolo1.html#nel-progetto-github-abbiamo>`_.
+- `"Nota sui file RST" <http://come-creare-guida.readthedocs.io/it/latest/_docs/capitolo1.html#nota-sui-file-rst>`_.
 
 |
 
