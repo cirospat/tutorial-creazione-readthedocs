@@ -2,7 +2,7 @@
 Capitolo 3 - Modalità Command Line (lavorando offline)
 ==================================
 
-(Guida per chi usa Windows e non vuole fare a meno dei "piaceri" del terminale in stile bash). 
+**(Guida per chi usa Windows e non vuole fare a meno dei "piaceri" del terminale in stile bash)**. 
 
 Il lavoro da terminale consente maggiore flessibilità ed è adatto ad utenti mediamente esperti, questa modalità consente di lavorare avendo il contenuto della repository in locale sul proprio pc, modificare i file e ricaricarli modificati con soli tre comandi e avere così aggiornata la versione del documento su Read the Docs. Interessanti sono anche i tag per il “versioning” e i messaggi di commit, che vedremo come realizzare. 
 
