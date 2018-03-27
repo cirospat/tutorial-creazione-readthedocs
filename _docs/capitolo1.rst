@@ -93,7 +93,11 @@ Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 
    (il titolo file immagine è ad esempio ``immagine1.png`` che dovrà essere messa caricato in una directory denominata ``img``, dentro la directory ``_docs``)
 
+|
+
 ```link <https://www.link.it>`_`` per inserire un collegamento ipertestuale. Per editare il carattere  `````  è necessario usare contemporaneamente i tasti  ``Alt+96``
+
+|
 
 ``.. important::``   
 
