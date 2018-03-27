@@ -67,6 +67,12 @@ Questi file sono di tipo **RST (reStructuredText)**, un linguaggio di programmaz
 
 Un ottima **guida alla sintassi usata dal linguaggio RST** è questa http://docutils.sourceforge.net/docs/user/rst/quickref.html dalla quale è possibile apprendere la sintassi corretta per le nostre necessità di pubblicazione del testo (e immagini, tabelle) nella pagina.
 
+**Come Scrivere in formato ReStructuredText**
+
+Un buon editor RST online  **WYSIWYG** (What You See Is What You Get: quello che vedi è quello che è) è http://rst.ninjs.org dove è possibile scrivere e controllare lateralmente il risultato che si otterrà.
+
+.. figure:: /img/4bis.png
+
 Alcune sintassi del linguaggio ``RST`` per gli usi più comuni di scrittura:
 
 :: 
