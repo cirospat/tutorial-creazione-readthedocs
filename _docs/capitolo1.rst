@@ -143,7 +143,7 @@ Nota sui file RST
 
 .. important::
 
-   Guardando i file ``RST`` di qualsiasi pagina su Github (per esempio di questa pagina) capirete immediatamente come editare la sintassi corretta per le vostre necessità di rappresentazione di testo, immagini, tabelle, note, ecc.
+   Guardando i file ``RST`` di qualsiasi pagina su Github (per esempio `di questa pagina che state leggendo <https://raw.githubusercontent.com/cirospat/tutorial-creazione-readthedocs/master/_docs/capitolo1.rst>)`_ capirete immediatamente come editare la sintassi corretta per le vostre necessità di rappresentazione di testo, immagini, tabelle, note, ecc.
 
 Per tutte le necessità specifiche di editing nel documento (es.: tabelle) vedere `questo elenco di strumenti <http://samba-digitale-pa.readthedocs.io/it/latest/CapitoloOtto.html#strumenti-utilizzati-per-creare-questo-report>`_. 
 
