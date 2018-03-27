@@ -70,30 +70,72 @@ Procedere alla modifica dei file e alla creazione del documento con i relativi f
 
 - `"Nota sui file RST" <http://come-creare-guida.readthedocs.io/it/latest/_docs/capitolo1.html#nel-progetto-github-abbiamo>`_.
 
+|
 
+Caricare il progetto su Github (command line)
+---------------------------------------------
 
+Una volta realizzati i file del vostro progetto sarà necessario sincronizzare il vostro repository in locale con il repository su GitHub.
 
+ricordare di posizionarsi nella cartella del repository clonato e digitare:
 
+::
 
+   $ git add *
+   $ git commit  
+   $ git push origin master
+   
+L’ultimo comando produrrà un risultato simile a questo
 
+.. figure:: /img/img13.png
 
+Infine su **Read the Docs** compilare una versione utilizzando il pulsante Versione di Compilazione, la dicitura "passing" indicherà che la compilazione è andata a buon fine.
 
+.. figure:: /img/img14.png
 
+per vedere il documento cliccare sul pulsante **Mostra Documenti**
 
+.. figure:: /img/img15.png
 
+|
 
+Messaggio di Commit e Versioning
+--------------------------------
 
+Per sapere cos’è un messaggio di commit, leggi: 
+http://guida-docs-italia.readthedocs.io/it/latest/index/appendice-3.html#messaggi-di-commit
 
+**Perché è importante il commit?**
 
+Perché ad ogni commit corrisponde una “istantanea” del tuo repository dal quale è possibile tornare indietro azzerando l’ultima o le ultime modifiche fatte.
 
+|
 
+Versioning per gestire gli aggiornamenti (command line)
+-------------------------------------------------------
 
+Spesso ci si può trovare ad avere diverse versioni dello stesso documento un esempio possono essere le Linee guida degli Open Data del Comune di Palermo nella prima versione del 2013 e poi l’aggiornamento fatto nel 2017, oppure il regolamento Foia della Città Metropolitana di Napoli in prima versione risalente al 1997.1 e oggi in via di approvazione nella versione 2018.1.
 
+Nel caso citato può esserci di aiuto il "versioning" ossia la possibilità di definire una versione precedente con tanto di tag "1997.1" dalla più recente aggiornata versione "2018.1".
 
+Il tag può essere inserito in fase di caricamento con i seguenti comandi:
 
+::
 
+   $ git tag 1997.1
+   $ git push --tags
+   
+Completato il tutto con il comando:
 
+::
 
+   $ git push origin master 
+
+il repository di GitHub sarà aggiornato e in automatico partirà la compilazione della versione predefinita cosiddetta (solitamente "latest").
+
+Per compilare la versione con il tag scelto, es.1997.1 basterà andare nella finestra compilazioni, scegliere il tag e rifare la compilazione scegliendo il tag.
+
+.. figure:: /img/img16.png
 
 ------
 
