@@ -72,9 +72,11 @@ Un ottima **guida alla sintassi usata dal linguaggio RST** è questa http://docu
 Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 
 ``Title``
+
 ``======``  per il titolo capitolo
 
 ``Subtitle`` 
+
 ``----------``    per il titolo paragrafo
 
 ``**testo marcato**`` per il testo marcato
