@@ -30,7 +30,7 @@ Il tutorial si rivolge principalmente ai dipendenti e dirigenti di ogni tipologi
 
 Non è necessario essere sviluppatori per usare le procedure che spieghiamo in questo tutorial e infatti abbiamo strutturato questo documento in più parti:
 
-.. important:: 
+.. important:: 3 parti
 
    - una destinata a chi non è molto addentro ai linguaggi di programmazione e ai sistemi di versionamento (curata da Ciro Spataro) = **il capitolo 1**; 
    - un’altra per chi ha maggiori competenze digitali (a cura di Pablo Persico) = **il capitolo 3**;
