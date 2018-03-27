@@ -74,14 +74,20 @@ Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 | ``Title``
 | ``======``  per il titolo capitolo
 
+|
 
 | ``Subtitle`` 
 | ``----------``    per il titolo paragrafo
 
+|
 
 ``**testo marcato**`` per il testo marcato
 
+|
+
 ``*testo in italico*`` per il testo in italico
+
+|
 
 ``.. figure:: _image/immagine1.png`` per inserire un'immagine 
 
@@ -98,7 +104,7 @@ Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 | quando si usa questa **nota** colorata è importante dopo aver scritto
 | ``.. important::``
 | andare due volte a capo
-| e lasciare tre spazi vuoti prima di scrivere testo
+|    e lasciare tre spazi vuoti prima di scrivere testo
 
 |
 
