@@ -8,6 +8,7 @@ Una volta completato il lavoro di compilazione su Github, bisogna andare su http
 .. figure:: /img/img5.PNG
 
 Nella finestra, su ``URL`` del Deposito Codice bisogna scrivere l'URL del progetto che avete creato su Github, e quindi scegliere il nome del progetto, esempio: 
+
 | linee guida open data comune vattelapesca
 | e lasciare ``Tipo del Deposito Codice`` selezionato su ``Git``.
 
