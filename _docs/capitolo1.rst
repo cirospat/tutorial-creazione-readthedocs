@@ -99,8 +99,9 @@ Alcune sintassi del linguaggio ``RST`` per gli usi più comuni di scrittura:
 
 :: 
 
-   .. figure:: _image/immagine1.png`` per inserire un'immagine 
-   
+   .. figure:: _image/immagine1.png  
+per inserire un'immagine
+
 (il titolo del file immagine è ad esempio ``immagine1.png``. Il file dovrà essere caricato in una directory denominata ``img``, è consigliabile caricare questa director contenente le immagini dentro la directory principale del progetto Github)
 
 |
