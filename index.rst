@@ -30,6 +30,8 @@ Il tutorial si rivolge principalmente ai dipendenti e dirigenti di ogni tipologi
 
 Non è necessario essere sviluppatori per usare le procedure che spieghiamo in questo tutorial e infatti abbiamo strutturato questo documento in più parti:
 
+.. note:: 
+
 - una destinata a chi non è molto addentro ai linguaggi di programmazione e ai sistemi di versionamento (curata da Ciro Spataro) = **il capitolo 1**; 
 - un’altra per chi ha maggiori competenze digitali (a cura di Pablo Persico) = **il capitolo 3**;
 - infine una in comune alle precedenti, abbastanza semplice, che consiste nella creazione del nome del progetto da pubblicare sulla piattaforma di Read the Docs, che si svolge solo dopo aver terminato la compilazione del progetto su Github = **il capitolo 2**.
@@ -59,7 +61,7 @@ Dopo questo lavoro del Team Trasformazione Digitale, siamo partiti in `3 Pubblic
 
 L'obiettivo prioritario è far in modo da diminuire le pubblicazioni online in formato PDF, che rappresenta il formato più usato nei siti web della PA, ma che non consente una leggibilità nei dispositivi mobili (viene molto difficile e non è affatto pratico) e che non permette un’agevole ricerca di parole nel testo. Il formato Read the Docs, invece, soddisfa i suddetti requisiti. Dal formato Read the Docs è possibile convertire, in maniera instantanea, il documento nei formati PDF, HTML ed `EPUB <https://it.wikipedia.org/wiki/EPub>`_ (che è *uno standard aperto specifico per la pubblicazione di libri digitali -eBook- basato su* `XML <https://it.wikipedia.org/wiki/XML>`_).
 
-Inoltre usare "Read the Docs" consente un facile riuso dei contenuti da parte di quelle pubbliche amministrazioni che ne manifestano interesse
+Inoltre usare "Read the Docs" consente un facile riuso dei contenuti da parte di quelle pubbliche amministrazioni che ne manifestano interesse.
 
 |
 
