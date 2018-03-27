@@ -73,13 +73,15 @@ Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 
 :: 
 
-| ``Title``
-| ``======``  per il titolo capitolo
+   Title
+   ======  per il titolo capitolo
 
 |
 
-| ``Subtitle`` 
-| ``----------``    per il titolo paragrafo
+:: 
+
+Subtitle 
+--------    per il titolo paragrafo
 
 |
 
