@@ -11,13 +11,13 @@ Si inizia con lo starter kit
 
 Questa http://guida-docs-italia.readthedocs.io/it/latest/index/starter-kit.html è la versione che dovremmo usare come modello di base, proposto dal Team Trasformazione Digitale, per riprodurre il nostro documento su Read the Docs.
 
-.. figure:: img/img2.png
+.. figure:: /img/img2.png
 
    `la guida dello starter kit <http://guida-docs-italia.Read the Docs.io/it/latest/index/starter-kit.html>`_
    
 Cliccando su `scarica lo Starter kit <https://github.com/italia/docs-italia-starter-kit>`_ si viene rimandati al repository del progetto sulla piattaforma Github, cioè qui https://github.com/italia/docs-italia-starter-kit.
 
-.. figure:: img/img3.png
+.. figure:: /img/img3.png
 
 |
 
@@ -37,7 +37,7 @@ Nel progetto Github abbiamo
 - una directory **repo-documento** dove si trovano i file:
    - ``conf.py`` dove dobbiamo inserire il titolo del nostro documento che vogliamo visualizzare successivamente su Read the Docs. Importante: su settings_project_name  usare un titolo non molto lungo e non usare parole accentate come à,è,ì,ò,ù, scegliendo il simbolo ' per accentare le vocali. Altra cosa importante settings_basename = 'titolo-documento' cioè su settings_basename e settings_file_name usare parole delimitate dal simbolo - (trattino).
    - ``document_settings.yml`` dove dobbiamo inserire un po di metadati sul progetto che andiamo a pubblicare: titolo, descrizione, tags, sito web ente che pubblica il documento;
-   - ``requirements.txt`` che non dobbiamo toccare perchéerchè contiene l'istruzione che permette di visualizzare il progetto che stiamo andando a creare all'interno del template di Docs Italia, dove si trovano anche tutti gli altri documenti pubblicati dal Team Trasformazione Digitale, cioè https://docs.developers.italia.it/, 
+   - ``requirements.txt`` che non dobbiamo toccare perché contiene l'istruzione che permette di visualizzare il progetto che stiamo andando a creare all'interno del template di Docs Italia, dove si trovano anche tutti gli altri documenti pubblicati dal Team Trasformazione Digitale, cioè https://docs.developers.italia.it/, 
    
 - un file ``AUTHORS`` dove va scritto il nome dell'ente che pubblica il documento e della persona che ha lavorato;
 
