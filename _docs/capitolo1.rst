@@ -71,6 +71,8 @@ Un ottima **guida alla sintassi usata dal linguaggio RST** è questa http://docu
 
 Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 
+:: 
+
 | ``Title``
 | ``======``  per il titolo capitolo
 
@@ -95,7 +97,7 @@ Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 
 |
 
-```link <https://www.link.it>`_`` per inserire un collegamento ipertestuale. Per editare il carattere  ```````  è necessario usare contemporaneamente i tasti  ``Alt+96``
+```link <https://www.link.it>`_`` per inserire un collegamento ipertestuale. Per editare il carattere  `````  è necessario usare contemporaneamente i tasti  ``Alt+96``
 
 |
 
