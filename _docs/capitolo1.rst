@@ -138,7 +138,8 @@ per inserire testo, se volete inserire una **nota** colorata all'interno del tes
 
 |
 
-**Nota sui file RST**
+Nota sui file RST
+-----------------
 
 Guardando i file ``RST`` di qualsiasi pagina su Github (per esempio di questa pagina) capirete immediatamente come editare la sintassi corretta per le vostre necessità di rappresentazione di testo, immagini, tabelle, note, ecc.
 
