@@ -87,14 +87,27 @@ Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 
    (il titolo file immagine è ad esempio ``immagine1.png`` che dovrà essere messa caricato in una directory denominata ``img``, dentro la directory ``_docs``)
 
+```link <https://www.link.it>`_`` per inserire un collegamento ipertestuale. Per editare il carattere  `````  è necessario usare contemporaneamente i tasti  ``Alt+96``
 
+``.. important::``   
 
+   per inserire testo   se volete inserire una nota colorata all'interno del testo nella pagina, verrà visualizzato come di seguito:
+   
+.. figure:: /img/img4.png
 
+| quando si usa questa **nota** colorata è importante dopo aver scritto
+| ``.. important::``
+| andare due volte a capo
+| e lasciare tre spazi vuoti prima di scrivere
+|   inserire testo
 
+|
 
+**Nota importante sui file RST**
 
+Guardando i file RST di qualsiasi pagina su Github capirete immediatamente come editare la sintassi corretta per le vostre necessità di rappresentazione di testo, immagini, tabelle, note, ecc.
 
-
+Per altre necessità specifiche di editing nel documento (es.: tabelle) vedere `questo elenco di strumenti <http://samba-digitale-pa.readthedocs.io/it/latest/CapitoloOtto.html#strumenti-utilizzati-per-creare-questo-report>`_. 
 
 
 ------
