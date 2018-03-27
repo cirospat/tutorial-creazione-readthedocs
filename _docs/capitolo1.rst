@@ -2,7 +2,7 @@
 Capitolo 1 - Caricare il progetto editoriale su Github (lavorando online su Github)
 =================
 
-(Modalità per lavorare su Github online, adatto per chi ha poca familiarità con gli strumenti di controllo versione)
+**(Modalità per lavorare su Github online, adatto per chi ha poca familiarità con gli strumenti di controllo versione)**.
 
 |
 
