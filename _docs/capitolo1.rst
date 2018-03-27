@@ -107,7 +107,7 @@ Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 
 :: 
 
-   `link <https://www.link.it>`_`` 
+   `link <https://www.link.it>`_
    
 per inserire un collegamento ipertestuale. Per editare il carattere  `  è necessario usare contemporaneamente i tasti  ``Alt+96``
 
@@ -115,7 +115,7 @@ per inserire un collegamento ipertestuale. Per editare il carattere  `  è neces
 
 :: 
 
-   .. important::``   
+   .. important::
 
 per inserire testo, se volete inserire una **nota** colorata all'interno del testo nella pagina, verrà visualizzato come di seguito:
    
@@ -130,7 +130,7 @@ per inserire testo, se volete inserire una **nota** colorata all'interno del tes
 
 **Nota sui file RST**
 
-Guardando i file RST di qualsiasi pagina su Github capirete immediatamente come editare la sintassi corretta per le vostre necessità di rappresentazione di testo, immagini, tabelle, note, ecc.
+Guardando i file RST di qualsiasi pagina su Github (per esempio di questa pagina) capirete immediatamente come editare la sintassi corretta per le vostre necessità di rappresentazione di testo, immagini, tabelle, note, ecc.
 
 Per tutte le necessità specifiche di editing nel documento (es.: tabelle) vedere `questo elenco di strumenti <http://samba-digitale-pa.readthedocs.io/it/latest/CapitoloOtto.html#strumenti-utilizzati-per-creare-questo-report>`_. 
 
