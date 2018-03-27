@@ -98,8 +98,7 @@ Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 | quando si usa questa **nota** colorata è importante dopo aver scritto
 | ``.. important::``
 | andare due volte a capo
-| e lasciare tre spazi vuoti prima di scrivere
-|   inserire testo
+| e lasciare tre spazi vuoti prima di scrivere testo
 
 |
 
