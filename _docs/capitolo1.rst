@@ -69,7 +69,7 @@ Un ottima **guida alla sintassi usata dal linguaggio RST** è questa http://docu
 
 **Come Scrivere in formato ReStructuredText**
 
-Un buon editor RST online  **WYSIWYG** (What You See Is What You Get: quello che vedi è quello che è) è http://rst.ninjs.org dove è possibile scrivere e controllare lateralmente il risultato che si otterrà.
+Un buon editor RST online  **WYSIWYG** (What You See Is What You Get: quello che vedi è quello che è) è http://rst.ninjs.org/ dove è possibile scrivere e controllare lateralmente il risultato che si otterrà.
 
 .. figure:: /img/4bis.PNG
 
