@@ -73,6 +73,8 @@ Un buon editor RST online  **WYSIWYG** (What You See Is What You Get: quello che
 
 .. figure:: /img/4bis.PNG
 
+|
+
 Alcune sintassi del linguaggio ``RST`` per gli usi più comuni di scrittura:
 
 :: 
