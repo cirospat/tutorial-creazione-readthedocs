@@ -6,7 +6,7 @@ Capitolo 1 - Caricare il progetto editoriale su Github (lavorando online su Gith
 
 |
 
-Si inizia con lo starter kit
+Si inizia con lo "starter kit"
 ----------------------------
 
 Questa http://guida-docs-italia.readthedocs.io/it/latest/index/starter-kit.html è la versione che dovremmo usare come modello di base, proposto dal Team Trasformazione Digitale, per riprodurre il nostro documento su Read the Docs.
