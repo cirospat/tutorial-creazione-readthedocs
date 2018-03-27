@@ -52,10 +52,10 @@ Nel progetto Github abbiamo
 :: 
 
    .. figure:: _img/immagine1.png
-| Quando si vuole inserire un'immagine, è importante dopo aver scritto
+| Quando si vuole inserire una didascalia nell'immagine, è importante dopo aver scritto
 | ``.. figure:: _img/immagine1.png``
 | andare due volte a capo
-| e lasciare tre spazi vuoti prima di inserire il testo
+|    e lasciare tre spazi vuoti prima di inserire il testo
    
 |
 
