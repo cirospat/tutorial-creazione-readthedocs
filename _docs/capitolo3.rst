@@ -20,10 +20,10 @@ In fase di installazione: abilitare il manager delle credenziali di Github.
 
 **Quale editor di testo utilizzerai?**
 
-Sul terminale per fare piccole modifiche va bene Nano così come Vim entrambi già inclusi nella versione di git installata, mentre per lavorare sul testo fuori dal terminale conviene Notepad++ per Windows https://notepad-plus-plus.org/download.
+Sul terminale per fare piccole modifiche va bene Nano così come Vim entrambi già inclusi nella versione di git installata, mentre per lavorare sul testo fuori dal terminale conviene `Notepad++ <https://notepad-plus-plus.org/download>`_.
 
 Per il terminale è possibile utilizzare il cmd di Windows ma consiglio caldamente:
-ConEmu https://www.fosshub.com/ConEmu.html/ConEmuSetup.161206.exe.
+`ConEmu <https://www.fosshub.com/ConEmu.html/ConEmuSetup.161206.exe>`_.
 
 |
 
