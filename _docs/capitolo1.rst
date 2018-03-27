@@ -80,31 +80,39 @@ Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 
 :: 
 
-Subtitle 
---------    per il titolo paragrafo
+   Subtitle 
+   --------    per il titolo paragrafo
 
 |
 
-``**testo marcato**`` per il testo marcato
+:: 
+
+   **testo marcato**`` per il testo marcato
 
 |
 
-``*testo in italico*`` per il testo in italico
+:: 
+
+   *testo in italico*`` per il testo in italico
 
 |
 
-``.. figure:: _image/immagine1.png`` per inserire un'immagine 
+:: 
 
+   .. figure:: _image/immagine1.png`` per inserire un'immagine 
    (il titolo file immagine è ad esempio ``immagine1.png`` che dovrà essere messa caricato in una directory denominata ``img``, dentro la directory ``_docs``)
 
 |
 
-```link <https://www.link.it>`_`` per inserire un collegamento ipertestuale. Per editare il carattere  `````  è necessario usare contemporaneamente i tasti  ``Alt+96``
+:: 
+
+   `link <https://www.link.it>`_`` per inserire un collegamento ipertestuale. Per editare il carattere  `  è necessario usare contemporaneamente i tasti  ``Alt+96``
 
 |
 
-``.. important::``   
+:: 
 
+   .. important::``   
    per inserire testo se volete inserire una nota colorata all'interno del testo nella pagina, verrà visualizzato come di seguito:
    
 .. figure:: /img/img4.png
