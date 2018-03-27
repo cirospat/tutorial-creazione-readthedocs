@@ -117,22 +117,22 @@ per inserire un collegamento ipertestuale. Per editare il carattere  `  è neces
 
    .. important::``   
 
-per inserire testo se volete inserire una nota colorata all'interno del testo nella pagina, verrà visualizzato come di seguito:
+per inserire testo, se volete inserire una **nota** colorata all'interno del testo nella pagina, verrà visualizzato come di seguito:
    
 .. figure:: /img/img4.png
 
 | quando si usa questa **nota** colorata è importante dopo aver scritto
 | ``.. important::``
 | andare due volte a capo
-|    e lasciare tre spazi vuoti prima di scrivere testo
+|    e lasciare tre spazi vuoti prima di scrivere il testo
 
 |
 
-**Nota importante sui file RST**
+**Nota sui file RST**
 
 Guardando i file RST di qualsiasi pagina su Github capirete immediatamente come editare la sintassi corretta per le vostre necessità di rappresentazione di testo, immagini, tabelle, note, ecc.
 
-Per altre necessità specifiche di editing nel documento (es.: tabelle) vedere `questo elenco di strumenti <http://samba-digitale-pa.readthedocs.io/it/latest/CapitoloOtto.html#strumenti-utilizzati-per-creare-questo-report>`_. 
+Per tutte le necessità specifiche di editing nel documento (es.: tabelle) vedere `questo elenco di strumenti <http://samba-digitale-pa.readthedocs.io/it/latest/CapitoloOtto.html#strumenti-utilizzati-per-creare-questo-report>`_. 
 
 
 ------
