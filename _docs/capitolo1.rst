@@ -95,13 +95,13 @@ Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 
 |
 
-```link <https://www.link.it>`_`` per inserire un collegamento ipertestuale. Per editare il carattere  `````  è necessario usare contemporaneamente i tasti  ``Alt+96``
+```link <https://www.link.it>`_`` per inserire un collegamento ipertestuale. Per editare il carattere  ```````  è necessario usare contemporaneamente i tasti  ``Alt+96``
 
 |
 
 ``.. important::``   
 
-   per inserire testo   se volete inserire una nota colorata all'interno del testo nella pagina, verrà visualizzato come di seguito:
+   per inserire testo se volete inserire una nota colorata all'interno del testo nella pagina, verrà visualizzato come di seguito:
    
 .. figure:: /img/img4.png
 
