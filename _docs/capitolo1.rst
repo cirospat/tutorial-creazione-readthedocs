@@ -74,26 +74,30 @@ Alcune sintassi del linguaggio ``RST`` per gli usi più comuni di scrittura:
 :: 
 
    Title
-   ======  per il titolo capitolo
+   ======  
+per il titolo capitolo
 
 |
 
 :: 
 
    Subtitle 
-   --------    per il titolo paragrafo
+   --------    
+per il titolo paragrafo
 
 |
 
 :: 
 
-   **testo marcato**`` per il testo marcato
+   **testo marcato** 
+per il **testo marcato**
 
 |
 
 :: 
 
-   *testo in italico* per il testo in italico
+   *testo in italico* 
+per il *testo in italico*
 
 |
 
@@ -109,7 +113,6 @@ per inserire un'immagine
 :: 
 
    `link <https://www.link.it>`_
-   
 per inserire un collegamento ipertestuale. Per editare il carattere  `````  è necessario usare contemporaneamente i tasti  ``Alt+96`` da Windows
 
 |
