@@ -69,7 +69,7 @@ Questi file sono di tipo **RST (reStructuredText)**, un linguaggio di programmaz
 
 Un ottima **guida alla sintassi usata dal linguaggio RST** è questa http://docutils.sourceforge.net/docs/user/rst/quickref.html dalla quale è possibile apprendere la sintassi corretta per le nostre necessità di pubblicazione del testo (e immagini, tabelle) nella pagina.
 
-Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
+Alcune sintassi del linguaggio ``RST`` per gli usi più comuni di scrittura:
 
 :: 
 
@@ -101,7 +101,7 @@ Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 
    .. figure:: _image/immagine1.png`` per inserire un'immagine 
    
-(il titolo file immagine è ad esempio ``immagine1.png`` che dovrà essere messa caricato in una directory denominata ``img``, dentro la directory ``_docs``)
+(il titolo del file immagine è ad esempio ``immagine1.png`` che dovrà essere caricato in una directory denominata ``img``, dentro la directory ``_docs``)
 
 |
 
@@ -109,7 +109,7 @@ Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 
    `link <https://www.link.it>`_
    
-per inserire un collegamento ipertestuale. Per editare il carattere  `  è necessario usare contemporaneamente i tasti  ``Alt+96``
+per inserire un collegamento ipertestuale. Per editare il carattere  `````  è necessario usare contemporaneamente i tasti  ``Alt+96`` da Windows
 
 |
 
@@ -130,7 +130,7 @@ per inserire testo, se volete inserire una **nota** colorata all'interno del tes
 
 **Nota sui file RST**
 
-Guardando i file RST di qualsiasi pagina su Github (per esempio di questa pagina) capirete immediatamente come editare la sintassi corretta per le vostre necessità di rappresentazione di testo, immagini, tabelle, note, ecc.
+Guardando i file ``RST`` di qualsiasi pagina su Github (per esempio di questa pagina) capirete immediatamente come editare la sintassi corretta per le vostre necessità di rappresentazione di testo, immagini, tabelle, note, ecc.
 
 Per tutte le necessità specifiche di editing nel documento (es.: tabelle) vedere `questo elenco di strumenti <http://samba-digitale-pa.readthedocs.io/it/latest/CapitoloOtto.html#strumenti-utilizzati-per-creare-questo-report>`_. 
 
