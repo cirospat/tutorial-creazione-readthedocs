@@ -105,16 +105,16 @@ Messaggio di Commit e Versioning
 Per sapere cos’è un messaggio di commit, leggi: 
 http://guida-docs-italia.readthedocs.io/it/latest/index/appendice-3.html#messaggi-di-commit
 
-**Perché è importante il commit?**
+**Perché é importante il commit?**
 
-Perché ad ogni commit corrisponde una “istantanea” del tuo repository dal quale è possibile tornare indietro azzerando l’ultima o le ultime modifiche fatte.
+Perché ad ogni commit corrisponde una "istantanea" del tuo repository dal quale è possibile tornare indietro azzerando l’ultima o le ultime modifiche fatte.
 
 |
 
 Versioning per gestire gli aggiornamenti (command line)
 -------------------------------------------------------
 
-Spesso ci si può trovare ad avere diverse versioni dello stesso documento un esempio possono essere le Linee guida degli Open Data del Comune di Palermo nella prima versione del 2013 e poi l’aggiornamento fatto nel 2017, oppure il regolamento Foia della Città Metropolitana di Napoli in prima versione risalente al 1997.1 e oggi in via di approvazione nella versione 2018.1.
+Spesso ci si può trovare ad avere diverse versioni dello stesso documento un esempio possono essere le Linee guida degli Open Data del Comune di Palermo nella prima versione del 2013 e poi `l’aggiornamento fatto nel 2017 <http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/>`_, oppure il `Regolamento Foia della Città Metropolitana di Napoli in prima versione risalente al 1997.1 <http://foia-regolamento-docs.readthedocs.io/it/latest/>`_ e oggi in via di approvazione nella `versione 2018.1 <http://foia-regolamento2-docs.readthedocs.io/it/latest>`_.
 
 Nel caso citato può esserci di aiuto il "versioning" ossia la possibilità di definire una versione precedente con tanto di tag "1997.1" dalla più recente aggiornata versione "2018.1".
 
