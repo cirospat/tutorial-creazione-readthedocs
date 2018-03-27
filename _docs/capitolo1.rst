@@ -74,6 +74,7 @@ Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 | ``Title``
 | ``======``  per il titolo capitolo
 
+
 | ``Subtitle`` 
 | ``----------``    per il titolo paragrafo
 
