@@ -32,7 +32,7 @@ Quindi andare dentro le directory del progetto per personalizzare i contenuti e 
 Nel progetto Github abbiamo
 ----------------------------
 
-- una directory **repo-configurazione** che contiene due file dove dobbiamo inserire un po di metadati sul progetto che andiamo a pubblicare, come: titolo, descrizione, tags, sito web ente che pubblica il documento;
+- una directory ``**repo-configurazione**`` che contiene due file dove dobbiamo inserire un po di metadati sul progetto che andiamo a pubblicare, come: titolo, descrizione, tags, sito web ente che pubblica il documento;
 
 - una directory **repo-documento** dove si trovano i file:
    - **conf.py** dove dobbiamo inserire il titolo del nostro documento che vogliamo visualizzare successivamente su Read the Docs. Importante: su settings_project_name  usare un titolo non molto lungo e non usare parole accentate come à,è,ì,ò,ù, scegliendo il simbolo ' per accentare le vocali. Altra cosa importante settings_basename = 'titolo-documento' cioè su settings_basename e settings_file_name usare parole delimitate dal simbolo - (trattino).
