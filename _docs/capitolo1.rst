@@ -43,7 +43,7 @@ Nel progetto Github abbiamo
 
 - **README.md** un file dove descriviamo brevemente il nostro progetto di pubblicazione del documento;
 
-- ``LICENSE`` un file dove andremo ad inserire il tipo di licenza adottata per pubblicare il nostro documento che verrà visualizzato su Read the Docs;
+- **LICENSE** un file dove andremo ad inserire il tipo di licenza adottata per pubblicare il nostro documento che verrà visualizzato su Read the Docs;
 
 - **_docs** una directory che contiene le pagine del nostro documento, cioè i contenuti veri e propri, che possono essere: testo, immagini, tabelle. Questa directory contiene file di tipo **RST** (reStructuredText). Nel paragrafo che segue approfondiremo questo tipo di file;
 
