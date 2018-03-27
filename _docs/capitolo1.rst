@@ -55,7 +55,9 @@ Nel progetto Github abbiamo
    Quando si vuole inserire un'immagine, è importante dopo aver scritto
    ``.. figure:: _img/immagine1.png``
    andare due volte a capo
-   e lasciare tre spazi vuoti prima di inserire il testo
+   
+   
+      e lasciare tre spazi vuoti prima di inserire il testo
    
 |
 
@@ -69,19 +71,17 @@ Un ottima **guida alla sintassi usata dal linguaggio RST** è questa http://docu
 
 Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 
-Title 
-======  per il titolo capitolo
+``Title``
+``======``  per il titolo capitolo
 
-Subtitle 
-----------    per il titolo paragrafo
+``Subtitle`` 
+``----------``    per il titolo paragrafo
 
-**testo marcato** per il testo marcato
+``**testo marcato**`` per il testo marcato
 
-*testo in italico* per il testo in italico
+``*testo in italico*`` per il testo in italico
 
 ``.. figure:: _image/immagine1.png`` per inserire un'immagine 
-
-:: 
 
    (il titolo file immagine è ad esempio ``immagine1.png`` che dovrà essere messa caricato in una directory denominata ``img``, dentro la directory ``_docs``)
 
