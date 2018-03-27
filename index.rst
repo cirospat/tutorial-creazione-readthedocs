@@ -62,9 +62,11 @@ Il Team Trasformazione Digitale dell'AGID ha creato `"Guida a Docs Italia" <http
 
 Dopo questo lavoro del Team Trasformazione Digitale, siamo partiti in `3 Pubbliche Amministrazioni a creare documenti su Read the Docs <http://bit.do/readthedocs-entipubblici>`_ e siamo sicuri che questo formato sarà adottato da tanti altri soggetti che lavorano in altre PA. Vogliamo fare da apripista, stimolo e anche supporto. Siamo a disposizione per aiutarvi, con piacere,  partendo proprio da questo tutorial.
 
-L'obiettivo prioritario è far in modo da diminuire le pubblicazioni online in formato PDF, che rappresenta il formato più usato nei siti web della PA, ma che non consente una leggibilità nei dispositivi mobili (viene molto difficile e non è affatto pratico) e che non permette un’agevole ricerca di parole nel testo. Il formato Read the Docs, invece, soddisfa i suddetti requisiti. Dal formato Read the Docs è possibile convertire, in maniera instantanea, il documento nei formati PDF, HTML ed `EPUB <https://it.wikipedia.org/wiki/EPub>`_ (che è *uno standard aperto specifico per la pubblicazione di libri digitali -eBook- basato su* `XML <https://it.wikipedia.org/wiki/XML>`_).
+**L'obiettivo prioritario** è far in modo da diminuire le pubblicazioni online in formato PDF, che oggi rappresenta il formato più usato nei siti web della PA, ma che non consente una leggibilità nei dispositivi mobili (viene molto difficile e non è affatto pratico) e che non permette un’agevole ricerca di parole nel testo. Il formato Read the Docs, invece, soddisfa i suddetti requisiti. 
 
-Inoltre usare "Read the Docs" consente un facile riuso dei contenuti da parte di quelle pubbliche amministrazioni che ne manifestano interesse.
+Dal formato Read the Docs è possibile convertire, in maniera instantanea, il documento nei formati **PDF**, **HTML** ed `EPUB <https://it.wikipedia.org/wiki/EPub>`_ (che è *uno standard aperto specifico per la pubblicazione di libri digitali -eBook- basato su* `XML <https://it.wikipedia.org/wiki/XML>`_).
+
+Inoltre usare "Read the Docs" consente un facile riuso dei contenuti da parte della società e di quelle pubbliche amministrazioni che  manifestano interesse a questo formato di pubblicazione.
 
 |
 
