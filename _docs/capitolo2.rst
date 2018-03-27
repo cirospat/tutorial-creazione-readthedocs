@@ -10,7 +10,7 @@ Una volta completato il lavoro di compilazione su Github, bisogna andare su http
 Nella finestra, su ``URL`` del Deposito Codice bisogna scrivere l'URL del progetto che avete creato su Github, e quindi scegliere il nome del progetto, esempio: 
 
 | linee guida open data comune vattelapesca
-| e lasciare ``Tipo del Deposito Codice`` selezionato su ``Git``.
+| e lasciare **``Tipo del Deposito Codice``** selezionato su **``Git``**.
 
 A quel punto verrà messo in collegamento il vostro progetto di Github con la piattaforma di Red the Docs. 
 
@@ -38,11 +38,11 @@ A questo punto il progetto di Github è compilato su Read the Docs.
 
 |
 
-**Procedura andata a buon fine: passing**
+**Procedura andata a buon fine: "passing"**
 
 Se non ci sono errori commessi durante le procedure spiegate fino ad ora, tutto andrà a buon fine, e Read the Docs darà il messaggio in colore verde di "passing" al nostro progetto, significa che il nostro progetto è - quindi - online.
 
-**Errore: failing**
+**Procedura con Errore: "failing"**
 
 Diversamente Read the Docs alla sezione i miei progetti, darà un messaggio in colore rosso di "failed". In questo caso c'è qualche problema e bisogna ripercorrere tutti i passaggi fatti da quando si è iniziato a lavorare sul sito di Read the Docs.
 
