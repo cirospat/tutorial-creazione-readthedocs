@@ -77,6 +77,7 @@ Alcune sintassi del linguaggio RST per gli usi più comuni di scrittura:
 | ``Subtitle`` 
 | ``----------``    per il titolo paragrafo
 
+
 ``**testo marcato**`` per il testo marcato
 
 ``*testo in italico*`` per il testo in italico
