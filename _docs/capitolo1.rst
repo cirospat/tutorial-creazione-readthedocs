@@ -73,28 +73,31 @@ Un buon editor RST online  **WYSIWYG** (What You See Is What You Get: quello che
 
 .. figure:: /img/4bis.PNG
 
-+--------------------------------+-----------------------------+
-| **Testo in formato RST**       | **Testo interpretato**      |
-+================================+=============================+
-| .. code-block:: rst            |                             |
-|                                |                             |
-|    ***********************     | **Il titolo del documento** |
-|    Il titolo del documento     |                             |
-|    ***********************     | Lorem ipsum...              |
-|                                |                             |
-|    Lorem ipsum...              |                             |
-|                                |                             |
-|    Una sezione                 | **Una sezione**             |
-|    ==============              |                             |
-|                                | Una frase **in grassetto**. |
-|    Una frase **in grassetto**. |                             |
-|                                | Una frase *in corsivo*.     |
-|    Una frase *in corsivo*.     |                             |
-|                                |                             |
-|                                |                             |
-|                                |                             |
-|                                |                             |
-+--------------------------------+-----------------------------+
+|
+
+   +--------------------------------+-----------------------------+
+   | **Testo in formato RST**       | **Testo interpretato**      |
+   +================================+=============================+
+   | .. code-block:: rst            |                             |
+   |                                |                             |
+   |    ***********************     | **Il titolo del documento** |
+   |    Il titolo del documento     |                             |
+   |    ***********************     | Lorem ipsum...              |
+   |                                |                             |
+   |    Lorem ipsum...              |                             |
+   |                                |                             |
+   |    Una sezione                 | **Una sezione**             |
+   |    ==============              |                             |
+   |                                | Una frase **in grassetto**. |
+   |    Una frase **in grassetto**. |                             |
+   |                                | Una frase *in corsivo*.     |
+   |    Una frase *in corsivo*.     |                             |
+   |                                |                             |
+   |                                |                             |
+   |                                |                             |
+   |                                |                             |
+   +--------------------------------+-----------------------------+
+
 
 |
 
