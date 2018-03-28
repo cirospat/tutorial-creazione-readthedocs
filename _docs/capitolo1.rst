@@ -75,32 +75,6 @@ Un buon editor RST online  **WYSIWYG** (What You See Is What You Get: quello che
 
 |
 
-   +--------------------------------+-----------------------------+
-   | **Testo in formato RST**       | **Testo interpretato**      |
-   +================================+=============================+
-   | .. code-block:: rst            |                             |
-   |                                |                             |
-   |    ***********************     | **Il titolo del documento** |
-   |    Il titolo del documento     |                             |
-   |    ***********************     | Lorem ipsum...              |
-   |                                |                             |
-   |    Lorem ipsum...              |                             |
-   |                                |                             |
-   |    Una sezione                 | **Una sezione**             |
-   |    ==============              |                             |
-   |                                | Una frase **in grassetto**. |
-   |    Una frase **in grassetto**. |                             |
-   |                                | Una frase *in corsivo*.     |
-   |    Una frase *in corsivo*.     |                             |
-   |                                |                             |
-   |                                |                             |
-   |                                |                             |
-   |                                |                             |
-   +--------------------------------+-----------------------------+
-
-
-|
-
 Alcune sintassi del linguaggio ``RST`` per gli usi più comuni di scrittura:
 
 :: 
