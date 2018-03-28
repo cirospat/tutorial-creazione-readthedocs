@@ -62,7 +62,7 @@ Il Team Trasformazione Digitale dell'AGID ha creato `"Guida a Docs Italia" <http
 
 Dopo questo lavoro del Team Trasformazione Digitale, siamo partiti in `3 Pubbliche Amministrazioni a creare documenti su Read the Docs <http://bit.do/readthedocs-entipubblici>`_ e siamo sicuri che questo formato sarà adottato da tanti altri soggetti che lavorano in altre PA. Vogliamo fare da apripista, stimolo e anche supporto. Siamo a disposizione per aiutarvi, con piacere,  partendo proprio da questo tutorial.
 
-.. warning::
+.. todo::
 
    **L'obiettivo prioritario** è far in modo da diminuire le pubblicazioni online in formato PDF, che oggi rappresenta il formato più usato nei siti web della PA, ma che non consente una leggibilità nei dispositivi mobili (viene molto difficile e non è affatto pratico) e che non permette un’agevole ricerca di parole nel testo. Il formato Read the Docs, invece, soddisfa i suddetti requisiti. 
 
