@@ -63,7 +63,7 @@ Il Team Trasformazione Digitale dell'AGID ha creato `"Guida a Docs Italia" <http
 
 Dopo questo lavoro del Team Trasformazione Digitale, siamo partiti in `3 Pubbliche Amministrazioni a creare documenti su Read the Docs <http://bit.do/readthedocs-entipubblici>`_ e siamo sicuri che questo formato sarà adottato da tanti altri soggetti che lavorano in altre PA. Vogliamo fare da apripista, stimolo e anche supporto. Siamo a disposizione per aiutarvi, con piacere,  partendo proprio da questo tutorial.
 
-Questo tutorial vuole essere un lavoro integrativo a quello svolto dal Team con la `Guida "Docs Italia" <http://guida-docs-italia.readthedocs.io/it/latest/>`_. Un esperimento svolto per attuare i contenuti della Guida e verificare, passo passo, la comprensione delle procedure indicate.
+Questo tutorial è un lavoro integrativo a quello svolto dal Team con la `Guida "Docs Italia" <http://guida-docs-italia.readthedocs.io/it/latest/>`_. Un esperimento svolto per attuare i contenuti della Guida e verificare, passo passo, la comprensione delle procedure indicate.
 
 .. admonition:: OBIETTIVO
 
