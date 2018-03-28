@@ -66,7 +66,7 @@ Dopo questo lavoro del Team Trasformazione Digitale, siamo partiti in `3 Pubblic
 
    **L'obiettivo prioritario** è far in modo da diminuire le pubblicazioni online in formato PDF, che oggi rappresenta il formato più usato nei siti web della PA, ma che non consente una leggibilità nei dispositivi mobili (viene molto difficile e non è affatto pratico) e che non permette un’agevole ricerca di parole nel testo. Il formato Read the Docs, invece, soddisfa i suddetti requisiti. 
 
-.. nota::
+.. admonition:: DAL READ THE DOCS ALTRI FORMATI
 
    Dal formato Read the Docs è possibile convertire, in maniera instantanea, il documento nei formati **PDF**, **HTML** ed `EPUB <https://it.wikipedia.org/wiki/EPub>`_ (che è *uno standard aperto specifico per la pubblicazione di libri digitali -eBook- basato su* `XML <https://it.wikipedia.org/wiki/XML>`_).
 
