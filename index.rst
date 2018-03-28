@@ -53,8 +53,10 @@ Un tutorial a cura di
 
 .. figure:: img/ods-small.png
 
+
 .. sidebar:: questo tutorial vuole essere
    :subtitle: un lavoro integrativo a quello svolto dal Team con la `Guida "Docs Italia" <http://guida-docs-italia.readthedocs.io/it/latest/>`_. Un esperimento per attuare i contenuti della Guida e verificare passo passo le procedure indicate.
+
 
 |
 
