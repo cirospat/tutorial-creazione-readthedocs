@@ -47,10 +47,6 @@ In tal manera verrà coperta un'ampia rappresentanza (in fatto di competenze dig
 Un tutorial a cura di
 ----------------------
 
-.. sidebar:: questo tutorial vuole essere
-   
-   un lavoro integrativo a quello svolto dal Team con la `Guida "Docs Italia" <http://guida-docs-italia.readthedocs.io/it/latest/>`_. Un esperimento per attuare i contenuti della Guida e verificare passo passo le procedure indicate.
-
 - Ciro Spataro (Comune di Palermo, OpenDataSicilia), email: c.spataro@comune.palermo.it 
 - Pablo Persico (Città Metropolitana di Napoli, OpenDataSicilia), email: ppersico@cittametropolitana.na.it
 - Andrea Borruso (OnData, OpenDataSicilia), supervisione e "spingitore di tutorial", email: andrea.borruso@ondata.it
@@ -62,6 +58,10 @@ Un tutorial a cura di
 
 Perché questo tutorial
 -----------------------
+.. sidebar:: questo tutorial vuole essere
+   
+   un lavoro integrativo a quello svolto dal Team con la `Guida "Docs Italia" <http://guida-docs-italia.readthedocs.io/it/latest/>`_. Un esperimento per attuare i contenuti della Guida e verificare passo passo le procedure indicate.
+
 
 Il Team Trasformazione Digitale dell'AGID ha creato `"Guida a Docs Italia" <http://guida-docs-italia.readthedocs.io/it/latest/>`_ per consentire e agevolare le pubbliche amministrazioni ad usare il format di "Read The Docs" al fine di pubblicare atti, documenti del tipo: Decreti, Norme, Regolamenti, Linee Guida, Piani, Deliberazioni, Determinazioni, ecc. 
 
