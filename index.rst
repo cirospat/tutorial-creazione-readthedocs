@@ -11,7 +11,7 @@ Che cosa è questo tutorial
 
 Questo tutorial ha l'obiettivo di spiegare due modalità per la creazione di  un Documento da visualizzare tramite la piattaforma `Read the Docs <http://readthedocs.io/>`_, secondo le specifiche della `Guida "Docs Italia" del Team Trasformazione Digitale dell'AgID (Agenzia per l'Italia Digitale) <http://guida-docs-italia.readthedocs.io/it/latest/>`_.
 
-Read The Docs è un servizio online gratuito che semplifica la gestione della documentazione relativa ad una pubblicazione, e consente di automatizzare:
+**Read The Docs** è un servizio online gratuito che semplifica la gestione della documentazione relativa ad una pubblicazione, e consente di automatizzare:
 
 - la creazione dei documenti, 
 
