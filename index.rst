@@ -22,7 +22,7 @@ Questo tutorial ha l'obiettivo di spiegare due modalità per la creazione di  un
 
 .. figure:: img/1.PNG
 
-   immagine dell'home page delle `Linee guida open data del Comune di Palermo realizzate su Read the Docs <http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/>`_
+   immagine dell'home page delle `Linee guida open data del Comune di Palermo pubblicate su "Read the Docs" <http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/>`_
 
 |
 
