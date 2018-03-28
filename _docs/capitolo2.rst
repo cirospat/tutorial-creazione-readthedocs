@@ -38,13 +38,17 @@ A questo punto il progetto di Github è compilato su Read the Docs.
 
 |
 
-**Procedura andata a buon fine: "passing"**
+.. admonition:: AVVISO DI "PASSING"
 
-Se non ci sono errori commessi durante le procedure spiegate fino ad ora, tutto andrà a buon fine, e Read the Docs darà il messaggio in colore verde di "passing" al nostro progetto, significa che il nostro progetto è - quindi - online.
+   **Procedura andata a buon fine: "passing"**
 
-**Procedura con Errore: "failing"**
+   Se non ci sono errori commessi durante le procedure spiegate fino ad ora, tutto andrà a buon fine, e Read the Docs darà il messaggio in colore verde di "passing" al nostro progetto, significa che il nostro progetto è - quindi - online.
 
-Diversamente Read the Docs alla sezione i miei progetti, darà un messaggio in colore rosso di "failed". In questo caso c'è qualche problema e bisogna ripercorrere tutti i passaggi fatti da quando si è iniziato a lavorare sul sito di Read the Docs.
+.. admonition:: AVVISO DI "FAILING"
+
+   **Procedura con Errore: "failing"**
+
+   Diversamente Read the Docs alla sezione i miei progetti, darà un messaggio in colore rosso di "failed". In questo caso c'è qualche problema e bisogna ripercorrere tutti i passaggi fatti da quando si è iniziato a lavorare sul sito di Read the Docs.
 
 .. figure:: /img/img8.png
 
