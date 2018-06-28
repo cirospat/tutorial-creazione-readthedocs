@@ -8,7 +8,7 @@ settings_editor_name = 'Ciro Spataro'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
 settings_basename = 'come-creare-guida'
-settings_file_name = 'index'
+settings_file_name = 'come-creare-guida'
 
 # -- No need to change below here
 
@@ -217,7 +217,7 @@ htmlhelp_basename = settings_basename + 'doc'
 
 latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
-#'papersize': 'a4paper',
+'papersize': 'a4paper',
 
 # The font size ('10pt', '11pt' or '12pt').
 #'pointsize': '10pt',
